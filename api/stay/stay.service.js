@@ -9,6 +9,7 @@ async function query(filterBy) {
     try {
         const collection = await dbService.getCollection('stay')
         var stays = await collection.find(criteria).toArray()
+        console.log('COLLLLsssatsatLLECT',collection);
         return stays
 
     } catch (err) {
