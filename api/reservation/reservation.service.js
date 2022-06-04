@@ -6,9 +6,9 @@ const asyncLocalStorage = require('../../services/als.service')
 async function query(filterBy = {}) {
     try {
         const criteria = _buildCriteria(filterBy)
-        const collection = await dbService.getCollection('review')
-        // const reviews = await collection.find(criteria).toArray()
-        var reviews = await collection.aggregate([
+        const collection = await dbService.getCollection('reservation')
+        // const reservations = await collection.find(criteria).toArray()
+        var reservations = await collection.aggregate([
             {
                 $match: criteria
             },
@@ -37,51 +37,54 @@ async function query(filterBy = {}) {
                 $unwind: '$aboutUser'
             }
         ]).toArray()
-        reviews = reviews.map(review => {
-            review.byUser = { _id: review.byUser._id, fullname: review.byUser.fullname }
-            review.aboutUser = { _id: review.aboutUser._id, fullname: review.aboutUser.fullname }
-            delete review.byUserId
-            delete review.aboutUserId
-            return review
+        reservations = reservations.map(reservation => {
+            reservation.byUser = { _id: reservation.byUser._id, fullname: reservation.byUser.fullname }
+            reservation.aboutUser = { _id: reservation.aboutUser._id, fullname: reservation.aboutUser.fullname }
+            delete reservation.byUserId
+            delete reservation.aboutUserId
+            return reservation
         })
 
-        return reviews
+        return reservations
     } catch (err) {
-        logger.error('cannot find reviews', err)
+        logger.error('cannot find reservations', err)
         throw err
     }
 
 }
 
-async function remove(reviewId) {
+async function remove(reservationId) {
     try {
         const store = asyncLocalStorage.getStore()
         const { loggedinUser } = store
-        const collection = await dbService.getCollection('review')
+        const collection = await dbService.getCollection('reservation')
         // remove only if user is owner/admin
-        const criteria = { _id: ObjectId(reviewId) }
+        const criteria = { _id: ObjectId(reservationId) }
         if (!loggedinUser.isAdmin) criteria.byUserId = ObjectId(loggedinUser._id)
         const {deletedCount} = await collection.deleteOne(criteria)
         return deletedCount
     } catch (err) {
-        logger.error(`cannot remove review ${reviewId}`, err)
+        logger.error(`cannot remove reservation ${reservationId}`, err)
         throw err
     }
 }
 
 
-async function add(review) {
+async function add(reservation) {
     try {
-        const reviewToAdd = {
-            byUserId: ObjectId(review.byUserId),
-            aboutUserId: ObjectId(review.aboutUserId),
-            txt: review.txt
-        }
-        const collection = await dbService.getCollection('review')
-        await collection.insertOne(reviewToAdd)
-        return reviewToAdd
+        // in case of ARRGATION
+        // const reservationToAdd = {
+        //     ...reservation,
+        //     buyerId: ObjectId(reservation.buyerId),
+        //     buyerId: ObjectId(reservation.buyerId),
+        //     buyerId: ObjectId(reservation.buyerId) 
+        // }
+
+        const collection = await dbService.getCollection('reservation')
+        await collection.insertOne(reservation)
+        return reservation
     } catch (err) {
-        logger.error('cannot insert review', err)
+        logger.error('cannot book reservation', err)
         throw err
     }
 }
