@@ -2,7 +2,7 @@
 const dbService = require('../../services/db.service')
 const logger = require('../../services/logger.service')
 const reviewService = require('../review/review.service')
-const {ObjectId} = require('mongodb')
+const { ObjectId } = require('mongodb')
 
 module.exports = {
     query,
@@ -76,8 +76,8 @@ async function update(user) {
         // peek only updatable properties
         const userToSave = {
             _id: ObjectId(user._id), // needed for the returnd obj
-            fullname: user.fullname,
-            score: user.score,
+            // fullname: user.fullname,
+            wishList: user.wishList,
         }
         const collection = await dbService.getCollection('user')
         await collection.updateOne({ _id: userToSave._id }, { $set: userToSave })

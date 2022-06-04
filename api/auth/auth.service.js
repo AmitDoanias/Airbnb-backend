@@ -22,9 +22,9 @@ async function login(username, password) {
 //     await signup('bubu', '123', 'Bubu Bi')
 //     await signup('mumu', '123', 'Mumu Maha')
 // })()
-    
 
-async function signup({username, password, fullname, imgUrl}) {
+
+async function signup({ username, password, fullname, imgUrl }) {
     const saltRounds = 10
 
     logger.debug(`auth.service - signup with username: ${username}, fullname: ${fullname}`)
@@ -33,13 +33,15 @@ async function signup({username, password, fullname, imgUrl}) {
     const userExist = await userService.getByUsername(username)
     if (userExist) return Promise.reject('Username already taken')
 
+    // if (!(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email))) return Promise.reject('Invalid email address')
+
     const hash = await bcrypt.hash(password, saltRounds)
     return userService.add({ username, password: hash, fullname, imgUrl })
 }
 
 
 function getLoginToken(user) {
-    return cryptr.encrypt(JSON.stringify(user))    
+    return cryptr.encrypt(JSON.stringify(user))
 }
 
 function validateToken(loginToken) {
@@ -48,7 +50,7 @@ function validateToken(loginToken) {
         const loggedinUser = JSON.parse(json)
         return loggedinUser
 
-    } catch(err) {
+    } catch (err) {
         console.log('Invalid login token')
     }
     return null
