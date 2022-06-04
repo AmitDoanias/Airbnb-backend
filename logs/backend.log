@@ -408,3 +408,528 @@
 2.6.2022, 1:08:02 - DEBUG - Getting Stays 
 2.6.2022, 1:08:02 - DEBUG - Getting Stays 
 2.6.2022, 1:08:02 - DEBUG - Getting Stays 
+2.6.2022, 1:18:35 - INFO - Server is running on port: 3030 
+2.6.2022, 1:18:47 - DEBUG - Getting Stays 
+2.6.2022, 1:18:47 - DEBUG - Getting Stays 
+2.6.2022, 8:44:27 - INFO - Server is running on port: 3030 
+2.6.2022, 8:44:52 - DEBUG - Getting Stays 
+2.6.2022, 8:44:52 - DEBUG - Getting Stays 
+2.6.2022, 9:11:32 - INFO - Server is running on port: 3030 
+2.6.2022, 9:11:48 - DEBUG - Getting Stays 
+2.6.2022, 9:11:50 - DEBUG - Getting Stays 
+2.6.2022, 9:12:14 - INFO - Server is running on port: 3030 
+2.6.2022, 10:42:49 - DEBUG - Getting Stays 
+2.6.2022, 10:42:50 - DEBUG - Getting Stays 
+2.6.2022, 10:53:24 - DEBUG - Getting Stays 
+2.6.2022, 10:53:25 - DEBUG - Getting Stays 
+2.6.2022, 11:03:36 - DEBUG - Getting Stays 
+2.6.2022, 11:03:37 - DEBUG - Getting Stays 
+2.6.2022, 11:11:52 - DEBUG - Getting Stays 
+2.6.2022, 11:11:54 - DEBUG - Getting Stays 
+2.6.2022, 11:21:41 - DEBUG - Getting Stays 
+2.6.2022, 11:21:42 - DEBUG - Getting Stays 
+2.6.2022, 12:35:35 - DEBUG - Getting Stays 
+2.6.2022, 12:35:35 - DEBUG - Getting Stays 
+2.6.2022, 13:13:47 - DEBUG - auth.service - signup with username: asas, fullname: asas asas 
+2.6.2022, 13:13:48 - DEBUG - Getting Stays 
+2.6.2022, 13:13:48 - DEBUG - Getting Stays 
+2.6.2022, 13:13:48 - DEBUG - auth.route - new account created: {"username":"asas","password":"$2b$10$GLKnTH3viNVHUd2AWfy8i.7CNPSwsafFWWxLN3XsVT4Hk1HnElNRO","fullname":"asas asas","score":100,"_id":"62988d5c0cde1754a3a3b459"} 
+2.6.2022, 13:13:48 - DEBUG - auth.service - login with username: asas 
+2.6.2022, 13:13:48 - INFO - User signup: | {"_id":"62988d5c0cde1754a3a3b459","username":"asas","fullname":"asas asas","imgUrl":null,"score":100} 
+2.6.2022, 13:15:22 - DEBUG - Getting Stays 
+2.6.2022, 13:15:23 - DEBUG - Getting Stays 
+2.6.2022, 13:44:38 - DEBUG - Getting Stays 
+2.6.2022, 13:44:38 - DEBUG - Getting Stays 
+2.6.2022, 13:45:48 - DEBUG - Getting Stays 
+2.6.2022, 13:45:48 - DEBUG - Getting Stays 
+2.6.2022, 13:47:35 - DEBUG - Getting Stays 
+2.6.2022, 13:47:35 - DEBUG - Getting Stays 
+2.6.2022, 13:57:50 - DEBUG - Getting Stays 
+2.6.2022, 13:57:51 - DEBUG - Getting Stays 
+2.6.2022, 14:00:01 - DEBUG - Getting Stays 
+2.6.2022, 14:00:01 - DEBUG - Getting Stays 
+2.6.2022, 14:00:28 - DEBUG - Getting Stays 
+2.6.2022, 14:00:29 - DEBUG - Getting Stays 
+2.6.2022, 14:04:27 - DEBUG - Getting Stays 
+2.6.2022, 14:04:27 - DEBUG - Getting Stays 
+2.6.2022, 14:46:20 - DEBUG - Getting Stays 
+2.6.2022, 14:46:21 - DEBUG - Getting Stays 
+2.6.2022, 14:48:04 - DEBUG - Getting Stays 
+2.6.2022, 14:48:04 - DEBUG - Getting Stays 
+2.6.2022, 14:50:58 - DEBUG - auth.service - login with username: as2 
+2.6.2022, 14:50:58 - ERROR - Failed to Login Invalid username or password 
+2.6.2022, 14:50:58 - DEBUG - Getting Stays 
+2.6.2022, 14:50:58 - DEBUG - Getting Stays 
+2.6.2022, 14:51:37 - DEBUG - Getting Stays 
+2.6.2022, 14:51:37 - DEBUG - Getting Stays 
+2.6.2022, 14:51:44 - DEBUG - auth.service - signup with username: 1111, fullname: 1111 1111 
+2.6.2022, 14:51:45 - DEBUG - Getting Stays 
+2.6.2022, 14:51:45 - DEBUG - Getting Stays 
+2.6.2022, 14:51:45 - DEBUG - auth.route - new account created: {"username":"1111","password":"$2b$10$Ux0yq/D1kOpFcxkV9x4WPOWD9FYKjplP3uEeye7xdvGI8njqBtun.","fullname":"1111 1111","score":100,"_id":"6298a4510cde1754a3a3b45a"} 
+2.6.2022, 14:51:45 - DEBUG - auth.service - login with username: 1111 
+2.6.2022, 14:51:45 - INFO - User signup: | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":null,"score":100} 
+2.6.2022, 14:52:26 - INFO - Server is running on port: 3030 
+2.6.2022, 14:52:39 - DEBUG - auth.service - login with username: 1111 (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 14:52:40 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":null,"score":100} (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 14:52:41 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 14:52:41 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 14:53:57 - DEBUG - Getting Stays 
+2.6.2022, 14:56:21 - DEBUG - Getting Stays 
+2.6.2022, 14:56:21 - DEBUG - Getting Stays 
+2.6.2022, 14:56:31 - DEBUG - auth.service - login with username: 1111 
+2.6.2022, 14:56:32 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":null,"score":100} 
+2.6.2022, 14:56:32 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 14:56:32 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 14:58:13 - DEBUG - auth.service - login with username: 2222 
+2.6.2022, 14:58:13 - ERROR - Failed to Login Invalid username or password 
+2.6.2022, 14:58:13 - DEBUG - Getting Stays 
+2.6.2022, 14:58:14 - DEBUG - Getting Stays 
+2.6.2022, 14:58:55 - DEBUG - auth.service - signup with username: 22, fullname: 22 22 
+2.6.2022, 14:58:55 - DEBUG - Getting Stays 
+2.6.2022, 14:58:55 - DEBUG - Getting Stays 
+2.6.2022, 14:58:55 - DEBUG - auth.route - new account created: {"username":"22","password":"$2b$10$1.4iUweXIbawLiK4NtRGruENp43wWjaH30/ERZ9V8LZdgUDUSGT0y","fullname":"22 22","score":100,"_id":"6298a5ff2c906f739e9d3274"} 
+2.6.2022, 14:58:55 - DEBUG - auth.service - login with username: 22 
+2.6.2022, 14:58:56 - INFO - User signup: | {"_id":"6298a5ff2c906f739e9d3274","username":"22","fullname":"22 22","imgUrl":null,"score":100} 
+2.6.2022, 14:59:35 - DEBUG - Getting Stays 
+2.6.2022, 14:59:36 - DEBUG - Getting Stays 
+2.6.2022, 15:00:06 - DEBUG - auth.service - login with username: 22 
+2.6.2022, 15:00:06 - INFO - User login:  | {"_id":"6298a5ff2c906f739e9d3274","username":"22","fullname":"22 22","imgUrl":null,"score":100} 
+2.6.2022, 15:00:07 - DEBUG - Getting Stays (userId: 6298a5ff2c906f739e9d3274)
+2.6.2022, 15:00:07 - DEBUG - Getting Stays (userId: 6298a5ff2c906f739e9d3274)
+2.6.2022, 15:08:44 - DEBUG - auth.service - signup with username: aa, fullname: aa aa 
+2.6.2022, 15:08:45 - DEBUG - Getting Stays 
+2.6.2022, 15:08:45 - DEBUG - auth.route - new account created: {"username":"aa","password":"$2b$10$NnhJkGgAmAW5oaVpp9gnAeTd34OTRSeyzUoTh3uQgZpHCTCZN9dU2","fullname":"aa aa","score":100,"_id":"6298a84d2c906f739e9d3275"} 
+2.6.2022, 15:08:45 - DEBUG - auth.service - login with username: aa 
+2.6.2022, 15:08:45 - INFO - User signup: | {"_id":"6298a84d2c906f739e9d3275","username":"aa","fullname":"aa aa","imgUrl":null,"score":100} 
+2.6.2022, 15:08:46 - DEBUG - Getting Stays 
+2.6.2022, 15:08:51 - DEBUG - Getting Stays (userId: 6298a84d2c906f739e9d3275)
+2.6.2022, 15:08:52 - DEBUG - Getting Stays (userId: 6298a84d2c906f739e9d3275)
+2.6.2022, 15:08:59 - DEBUG - auth.service - signup with username: ww, fullname: ww ww (userId: 6298a84d2c906f739e9d3275)
+2.6.2022, 15:08:59 - DEBUG - Getting Stays (userId: 6298a84d2c906f739e9d3275)
+2.6.2022, 15:08:59 - DEBUG - auth.route - new account created: {"username":"ww","password":"$2b$10$k1RyCeBo47lepkkoWAwLVOiEDJa6KonqIMDcmJEIsYy3dbNTQRT6G","fullname":"ww ww","score":100,"_id":"6298a85b2c906f739e9d3276"} (userId: 6298a84d2c906f739e9d3275)
+2.6.2022, 15:08:59 - DEBUG - auth.service - login with username: ww (userId: 6298a84d2c906f739e9d3275)
+2.6.2022, 15:09:00 - DEBUG - Getting Stays (userId: 6298a84d2c906f739e9d3275)
+2.6.2022, 15:09:00 - INFO - User signup: | {"_id":"6298a85b2c906f739e9d3276","username":"ww","fullname":"ww ww","imgUrl":null,"score":100} (userId: 6298a84d2c906f739e9d3275)
+2.6.2022, 15:12:14 - INFO - Server is running on port: 3030 
+2.6.2022, 15:22:53 - DEBUG - Getting Stays (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:22:55 - DEBUG - Getting Stays (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:22:56 - DEBUG - Getting Stays (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:22:57 - DEBUG - Getting Stays (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:27:05 - DEBUG - Getting Stays (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:27:06 - DEBUG - Getting Stays (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:32:51 - DEBUG - Getting Stays (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:32:52 - DEBUG - Getting Stays (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:33:19 - DEBUG - Getting Stays (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:33:20 - DEBUG - Getting Stays (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:33:30 - DEBUG - auth.service - login with username: 1111 (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:33:30 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":null,"score":100} (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:33:30 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 15:33:31 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 15:33:34 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 15:33:34 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 15:33:39 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 15:33:39 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:18:24 - DEBUG - auth.service - login with username: 1111 
+2.6.2022, 16:18:24 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":null,"score":100} 
+2.6.2022, 16:18:24 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:18:25 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:20:50 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:20:50 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:22:05 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:22:06 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:22:37 - DEBUG - Getting Stays 
+2.6.2022, 16:22:37 - DEBUG - Getting Stays 
+2.6.2022, 16:22:42 - DEBUG - Getting Stays 
+2.6.2022, 16:22:42 - DEBUG - Getting Stays 
+2.6.2022, 16:22:50 - DEBUG - Getting Stays 
+2.6.2022, 16:22:50 - DEBUG - Getting Stays 
+2.6.2022, 16:22:56 - DEBUG - Getting Stays 
+2.6.2022, 16:22:56 - DEBUG - Getting Stays 
+2.6.2022, 16:23:19 - DEBUG - Getting Stays 
+2.6.2022, 16:23:19 - DEBUG - Getting Stays 
+2.6.2022, 16:25:11 - DEBUG - auth.service - login with username: 1111 
+2.6.2022, 16:25:11 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":null,"score":100} 
+2.6.2022, 16:25:12 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:25:12 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:26:13 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:26:13 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:30:13 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:30:14 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:30:26 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:30:27 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:30:46 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:30:46 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:34:05 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:34:06 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:37:33 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:37:34 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:38:31 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:38:32 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 17:02:58 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 17:02:58 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 18:56:16 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 18:56:17 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:02:44 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:02:45 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:14:04 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:14:05 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:15:50 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:15:51 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:21:59 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:22:01 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:30:00 - DEBUG - auth.service - login with username: 1111 (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:30:01 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":null,"score":100} (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:30:01 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:30:02 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:33:01 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:33:01 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:33:14 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:33:14 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:33:47 - DEBUG - Getting Stays 
+2.6.2022, 19:33:48 - DEBUG - Getting Stays 
+2.6.2022, 19:33:54 - DEBUG - Getting Stays 
+2.6.2022, 19:33:55 - DEBUG - Getting Stays 
+2.6.2022, 19:34:03 - DEBUG - Getting Stays 
+2.6.2022, 19:34:04 - DEBUG - Getting Stays 
+2.6.2022, 19:34:05 - DEBUG - Getting Stays 
+2.6.2022, 19:34:05 - DEBUG - Getting Stays 
+2.6.2022, 19:37:04 - DEBUG - Getting Stays 
+2.6.2022, 19:37:05 - DEBUG - Getting Stays 
+2.6.2022, 19:37:13 - DEBUG - Getting Stays 
+2.6.2022, 19:37:13 - DEBUG - Getting Stays 
+2.6.2022, 19:38:52 - DEBUG - Getting Stays 
+2.6.2022, 19:38:52 - DEBUG - Getting Stays 
+2.6.2022, 19:40:00 - DEBUG - Getting Stays 
+2.6.2022, 19:40:00 - DEBUG - Getting Stays 
+2.6.2022, 19:41:00 - DEBUG - Getting Stays 
+2.6.2022, 19:41:00 - DEBUG - Getting Stays 
+2.6.2022, 19:44:42 - DEBUG - Getting Stays 
+2.6.2022, 19:44:42 - DEBUG - Getting Stays 
+2.6.2022, 19:45:56 - DEBUG - Getting Stays 
+2.6.2022, 19:45:57 - DEBUG - Getting Stays 
+2.6.2022, 19:48:19 - DEBUG - Getting Stays 
+2.6.2022, 19:48:20 - DEBUG - Getting Stays 
+2.6.2022, 19:48:54 - DEBUG - Getting Stays 
+2.6.2022, 19:48:54 - DEBUG - Getting Stays 
+2.6.2022, 19:50:13 - DEBUG - Getting Stays 
+2.6.2022, 19:50:14 - DEBUG - Getting Stays 
+2.6.2022, 19:50:22 - DEBUG - Getting Stays 
+2.6.2022, 19:50:22 - DEBUG - Getting Stays 
+2.6.2022, 19:51:20 - DEBUG - Getting Stays 
+2.6.2022, 19:51:20 - DEBUG - Getting Stays 
+2.6.2022, 19:51:45 - DEBUG - Getting Stays 
+2.6.2022, 19:51:45 - DEBUG - Getting Stays 
+2.6.2022, 20:16:36 - DEBUG - Getting Stays 
+2.6.2022, 20:16:37 - DEBUG - Getting Stays 
+2.6.2022, 20:17:14 - DEBUG - Getting Stays 
+2.6.2022, 20:17:14 - DEBUG - Getting Stays 
+2.6.2022, 20:20:12 - DEBUG - Getting Stays 
+2.6.2022, 20:20:13 - DEBUG - Getting Stays 
+2.6.2022, 20:52:37 - DEBUG - Getting Stays 
+2.6.2022, 20:52:39 - DEBUG - Getting Stays 
+2.6.2022, 20:56:07 - DEBUG - Getting Stays 
+2.6.2022, 20:56:07 - DEBUG - Getting Stays 
+2.6.2022, 20:56:13 - DEBUG - Getting Stays 
+2.6.2022, 21:00:16 - DEBUG - Getting Stays 
+2.6.2022, 21:00:16 - DEBUG - Getting Stays 
+2.6.2022, 21:05:30 - DEBUG - Getting Stays 
+2.6.2022, 21:05:30 - DEBUG - Getting Stays 
+2.6.2022, 21:05:42 - DEBUG - Getting Stays 
+2.6.2022, 21:05:42 - DEBUG - Getting Stays 
+2.6.2022, 21:07:41 - DEBUG - Getting Stays 
+2.6.2022, 21:07:41 - DEBUG - Getting Stays 
+2.6.2022, 21:20:49 - DEBUG - Getting Stays 
+2.6.2022, 21:20:50 - DEBUG - Getting Stays 
+2.6.2022, 21:34:26 - DEBUG - Getting Stays 
+2.6.2022, 21:34:27 - DEBUG - Getting Stays 
+2.6.2022, 21:36:24 - DEBUG - Getting Stays 
+2.6.2022, 21:36:24 - DEBUG - Getting Stays 
+2.6.2022, 21:37:14 - DEBUG - Getting Stays 
+2.6.2022, 21:37:14 - DEBUG - Getting Stays 
+2.6.2022, 21:37:19 - DEBUG - Getting Stays 
+2.6.2022, 21:37:19 - DEBUG - Getting Stays 
+2.6.2022, 21:38:09 - DEBUG - auth.service - login with username: 1111 
+2.6.2022, 21:38:09 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":null,"score":100} 
+2.6.2022, 21:38:10 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 21:38:10 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:08:49 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:08:50 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:13:09 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:13:09 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:32:05 - DEBUG - auth.service - login with username: 1111 
+2.6.2022, 22:32:06 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":null,"score":100} 
+2.6.2022, 22:32:06 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:32:07 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:34:13 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:34:13 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:50:40 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:50:41 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:52:16 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:52:17 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:05:45 - DEBUG - auth.service - login with username: 1111 (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:05:46 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:05:47 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:05:47 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:13:13 - DEBUG - Getting Stays 
+3.6.2022, 10:13:14 - DEBUG - Getting Stays 
+3.6.2022, 10:13:17 - DEBUG - Getting Stays 
+3.6.2022, 10:13:17 - DEBUG - Getting Stays 
+3.6.2022, 10:14:27 - DEBUG - Getting Stays 
+3.6.2022, 10:14:28 - DEBUG - Getting Stays 
+3.6.2022, 10:18:13 - DEBUG - Getting Stays 
+3.6.2022, 10:18:13 - DEBUG - Getting Stays 
+3.6.2022, 10:23:18 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 10:23:18 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 10:23:18 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:23:19 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:23:29 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:23:29 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:52:38 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:52:39 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:57:15 - DEBUG - Getting Stays 
+3.6.2022, 10:57:16 - DEBUG - Getting Stays 
+3.6.2022, 10:57:21 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 10:57:21 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 10:57:21 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:57:22 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:57:32 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 10:57:32 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 10:57:33 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:57:33 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:57:43 - DEBUG - Getting Stays 
+3.6.2022, 10:57:43 - DEBUG - Getting Stays 
+3.6.2022, 10:58:06 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 10:58:07 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 10:58:07 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:58:07 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:58:22 - DEBUG - Getting Stays 
+3.6.2022, 10:58:23 - DEBUG - Getting Stays 
+3.6.2022, 11:00:45 - DEBUG - Getting Stays 
+3.6.2022, 11:00:45 - DEBUG - Getting Stays 
+3.6.2022, 11:02:09 - DEBUG - Getting Stays 
+3.6.2022, 11:02:09 - DEBUG - Getting Stays 
+3.6.2022, 11:03:22 - DEBUG - Getting Stays 
+3.6.2022, 11:03:22 - DEBUG - Getting Stays 
+3.6.2022, 11:03:27 - DEBUG - Getting Stays 
+3.6.2022, 11:03:27 - DEBUG - Getting Stays 
+3.6.2022, 11:03:30 - DEBUG - Getting Stays 
+3.6.2022, 11:03:30 - DEBUG - Getting Stays 
+3.6.2022, 11:03:37 - DEBUG - Getting Stays 
+3.6.2022, 11:03:38 - DEBUG - Getting Stays 
+3.6.2022, 11:06:57 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 11:06:58 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 11:06:58 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:06:59 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:08:28 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:08:29 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:09:10 - DEBUG - Getting Stays 
+3.6.2022, 11:09:11 - DEBUG - Getting Stays 
+3.6.2022, 11:09:17 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 11:09:17 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 11:09:18 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:09:18 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:09:57 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:09:59 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:09:59 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:10:03 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:10:03 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:10:08 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:10:09 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:11:05 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 11:11:05 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 11:11:06 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:11:06 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:11:53 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:11:54 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:16:38 - DEBUG - Getting Stays 
+3.6.2022, 11:16:38 - DEBUG - Getting Stays 
+3.6.2022, 11:17:48 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 11:17:49 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 11:17:49 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:17:49 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:19:32 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:19:33 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:22:00 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 11:22:00 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 11:22:00 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:22:01 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:22:09 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:22:09 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:27:02 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 11:27:02 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 11:27:03 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:27:03 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:30:11 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 11:30:11 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 11:30:12 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:30:13 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:29:17 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 12:29:18 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 12:29:18 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:29:19 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:30:22 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:30:23 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:41:36 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:41:38 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:43:14 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:43:14 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:43:31 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:43:31 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:46:43 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:46:44 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:46:56 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:46:57 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:47:00 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:47:01 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:47:29 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:47:29 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:48:15 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 12:48:15 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 12:48:15 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:48:16 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:06:13 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:06:14 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:17:55 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:17:56 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:26:51 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 13:26:53 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 13:26:54 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:26:55 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:36:15 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:36:16 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:46:50 - INFO - Server is running on port: 3030 
+3.6.2022, 13:47:33 - DEBUG - auth.service - login with username: 1111 (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:47:34 - DEBUG - auth.service - login with username: 1111 (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:47:34 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:47:35 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:47:35 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:47:35 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 15:28:06 - DEBUG - Getting Stays 
+3.6.2022, 15:28:07 - DEBUG - Getting Stays 
+3.6.2022, 15:28:09 - DEBUG - Getting Stays 
+3.6.2022, 15:28:09 - DEBUG - Getting Stays 
+3.6.2022, 15:28:22 - DEBUG - Getting Stays 
+3.6.2022, 15:28:23 - DEBUG - Getting Stays 
+3.6.2022, 15:30:33 - DEBUG - Getting Stays 
+3.6.2022, 15:30:33 - DEBUG - Getting Stays 
+3.6.2022, 15:32:47 - DEBUG - Getting Stays 
+3.6.2022, 15:32:47 - DEBUG - Getting Stays 
+3.6.2022, 15:33:10 - DEBUG - Getting Stays 
+3.6.2022, 15:33:10 - DEBUG - Getting Stays 
+3.6.2022, 15:34:35 - DEBUG - Getting Stays 
+3.6.2022, 15:34:35 - DEBUG - Getting Stays 
+3.6.2022, 15:34:41 - DEBUG - Getting Stays 
+3.6.2022, 15:34:42 - DEBUG - Getting Stays 
+3.6.2022, 15:44:31 - DEBUG - Getting Stays 
+3.6.2022, 15:44:32 - DEBUG - Getting Stays 
+3.6.2022, 17:01:30 - DEBUG - Getting Stays 
+3.6.2022, 17:01:31 - DEBUG - Getting Stays 
+3.6.2022, 17:20:56 - DEBUG - Getting Stays 
+3.6.2022, 17:20:57 - DEBUG - Getting Stays 
+3.6.2022, 17:42:45 - DEBUG - Getting Stays 
+3.6.2022, 17:42:46 - DEBUG - Getting Stays 
+3.6.2022, 18:06:11 - DEBUG - Getting Stays 
+3.6.2022, 18:06:12 - DEBUG - Getting Stays 
+4.6.2022, 10:12:21 - DEBUG - Getting Stays 
+4.6.2022, 10:12:23 - DEBUG - Getting Stays 
+4.6.2022, 10:12:35 - DEBUG - Getting Stays 
+4.6.2022, 10:12:36 - DEBUG - Getting Stays 
+4.6.2022, 10:13:40 - DEBUG - Getting Stays 
+4.6.2022, 10:13:41 - DEBUG - Getting Stays 
+4.6.2022, 10:13:52 - DEBUG - Getting Stays 
+4.6.2022, 10:13:53 - DEBUG - Getting Stays 
+4.6.2022, 10:13:54 - DEBUG - Getting Stays 
+4.6.2022, 10:13:54 - DEBUG - Getting Stays 
+4.6.2022, 10:14:03 - DEBUG - Getting Stays 
+4.6.2022, 10:14:04 - DEBUG - Getting Stays 
+4.6.2022, 10:14:18 - DEBUG - Getting Stays 
+4.6.2022, 10:14:18 - DEBUG - Getting Stays 
+4.6.2022, 10:14:35 - DEBUG - Getting Stays 
+4.6.2022, 10:14:36 - DEBUG - Getting Stays 
+4.6.2022, 10:14:49 - DEBUG - Getting Stays 
+4.6.2022, 10:14:49 - DEBUG - Getting Stays 
+4.6.2022, 10:15:00 - DEBUG - Getting Stays 
+4.6.2022, 10:15:01 - DEBUG - Getting Stays 
+4.6.2022, 10:15:16 - DEBUG - Getting Stays 
+4.6.2022, 10:15:17 - DEBUG - Getting Stays 
+4.6.2022, 10:15:26 - DEBUG - Getting Stays 
+4.6.2022, 10:15:27 - DEBUG - Getting Stays 
+4.6.2022, 10:15:39 - DEBUG - Getting Stays 
+4.6.2022, 10:15:41 - DEBUG - Getting Stays 
+4.6.2022, 10:15:46 - DEBUG - Getting Stays 
+4.6.2022, 10:15:47 - DEBUG - Getting Stays 
+4.6.2022, 10:16:07 - DEBUG - auth.service - login with username: 1111 
+4.6.2022, 10:16:08 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+4.6.2022, 10:16:08 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:16:09 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:27:11 - DEBUG - Getting Stays 
+4.6.2022, 10:27:12 - DEBUG - Getting Stays 
+4.6.2022, 10:27:58 - DEBUG - auth.service - login with username: 1111 
+4.6.2022, 10:27:58 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+4.6.2022, 10:27:58 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:27:59 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:28:56 - DEBUG - auth.service - login with username: 1111 (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:28:56 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:28:56 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:28:57 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:29:01 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:29:02 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:30:19 - DEBUG - auth.service - login with username: 1111 
+4.6.2022, 10:30:19 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+4.6.2022, 10:30:20 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:30:20 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:33:01 - DEBUG - Getting Stays 
+4.6.2022, 10:33:01 - DEBUG - Getting Stays 
+4.6.2022, 10:36:04 - DEBUG - Getting Stays 
+4.6.2022, 10:36:05 - DEBUG - Getting Stays 
+4.6.2022, 10:37:10 - DEBUG - Getting Stays 
+4.6.2022, 10:37:11 - DEBUG - Getting Stays 
+4.6.2022, 10:38:34 - DEBUG - Getting Stays 
+4.6.2022, 10:38:34 - DEBUG - Getting Stays 
+4.6.2022, 10:38:46 - DEBUG - Getting Stays 
+4.6.2022, 10:38:48 - DEBUG - Getting Stays 
+4.6.2022, 10:38:50 - DEBUG - Getting Stays 
+4.6.2022, 10:38:51 - DEBUG - Getting Stays 
+4.6.2022, 10:41:30 - DEBUG - Getting Stays 
+4.6.2022, 10:41:30 - DEBUG - Getting Stays 
+4.6.2022, 10:50:44 - DEBUG - Getting Stays 
+4.6.2022, 10:50:45 - DEBUG - Getting Stays 
+4.6.2022, 10:53:47 - DEBUG - Getting Stays 
+4.6.2022, 10:53:48 - DEBUG - Getting Stays 
+4.6.2022, 11:17:36 - DEBUG - Getting Stays 
+4.6.2022, 11:17:38 - DEBUG - Getting Stays 
+4.6.2022, 11:22:11 - DEBUG - auth.service - login with username: 1111 
+4.6.2022, 11:22:12 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+4.6.2022, 11:22:12 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 11:22:12 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 11:26:22 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 11:26:22 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 11:29:28 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 11:29:29 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 11:48:10 - INFO - Server is running on port: 3030 
+4.6.2022, 11:49:53 - DEBUG - auth.service - signup with username: dgdg, fullname: dgdg dgdg (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 11:49:54 - DEBUG - auth.route - new account created: {"username":"dgdg","password":"$2b$10$U/QgBVKMQMHuAIHLR4gC9u7lPgw8itopdq.2SpPpkklaRVaph0cVu","fullname":"dgdg dgdg","isHost":false,"wishList":[],"_id":"629b1cb2b5b2682aade4683f"} (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 11:49:54 - DEBUG - auth.service - login with username: dgdg (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 11:49:55 - INFO - User signup: | {"_id":"629b1cb2b5b2682aade4683f","username":"dgdg","fullname":"dgdg dgdg","imgUrl":null,"isHost":false,"wishList":[]} (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 11:49:55 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 11:49:56 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:15:51 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:15:53 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:17:06 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:17:07 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:17:14 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:17:15 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:17:27 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:17:27 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:19:22 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:19:23 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:34:10 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:34:11 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:34:16 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:34:16 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:36:57 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:36:58 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:38:45 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:38:45 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:38:50 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:38:50 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
