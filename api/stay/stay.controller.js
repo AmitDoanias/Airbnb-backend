@@ -7,7 +7,6 @@ async function getStays(req, res) {
         logger.debug('Getting Stays')
         var queryParams = req.query;
         const stays = await stayService.query(queryParams)
-        console.log('qtays',stays);
         res.json(stays)
     } catch (err) {
         logger.error('Failed to get stays', err)
@@ -32,7 +31,7 @@ async function addStay(req, res) {
     try {
         const stay = req.body;
         const addedStay = await stayService.add(stay)
-        console.log('addedStay from controller', addedStay)
+      
         res.json(addedStay)
     } catch (err) {
         logger.error('Failed to add stay', err)
