@@ -358,6 +358,7 @@
 1.6.2022, 23:55:12 - INFO - Server is running on port: 3030 
 1.6.2022, 23:55:30 - DEBUG - Getting Stays 
 1.6.2022, 23:55:30 - DEBUG - Getting Stays 
+<<<<<<< HEAD
 2.6.2022, 0:36:33 - INFO - Server is running on port: 3030 
 2.6.2022, 1:03:26 - ERROR - while finding stay 622f337a95c7d36e298qa8f8 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
 2.6.2022, 1:03:26 - ERROR - Failed to get stay | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
@@ -933,3 +934,1055 @@
 4.6.2022, 16:00:49 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} (userId: 6298a4510cde1754a3a3b45a)
 4.6.2022, 16:01:01 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
 4.6.2022, 16:01:01 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+=======
+<<<<<<< HEAD
+2.6.2022, 1:20:02 - INFO - Server is running on port: 3030 
+2.6.2022, 1:26:46 - DEBUG - Getting Stays 
+2.6.2022, 1:26:47 - DEBUG - Getting Stays 
+2.6.2022, 1:26:53 - DEBUG - Getting Stays 
+2.6.2022, 1:26:53 - DEBUG - Getting Stays 
+2.6.2022, 9:13:16 - INFO - Server is running on port: 3030 
+2.6.2022, 9:13:20 - INFO - Server is running on port: 3030 
+2.6.2022, 9:17:45 - INFO - Server is running on port: 3030 
+2.6.2022, 9:18:23 - DEBUG - Getting Stays 
+2.6.2022, 9:18:25 - DEBUG - Getting Stays 
+2.6.2022, 9:21:21 - DEBUG - Getting Stays 
+2.6.2022, 9:21:22 - DEBUG - Getting Stays 
+2.6.2022, 9:21:24 - DEBUG - Getting Stays 
+2.6.2022, 9:21:24 - DEBUG - Getting Stays 
+2.6.2022, 9:22:16 - DEBUG - Getting Stays 
+2.6.2022, 9:22:16 - DEBUG - Getting Stays 
+2.6.2022, 9:26:51 - DEBUG - Getting Stays 
+2.6.2022, 9:26:51 - DEBUG - Getting Stays 
+2.6.2022, 9:30:09 - DEBUG - Getting Stays 
+2.6.2022, 9:30:14 - DEBUG - Getting Stays 
+2.6.2022, 9:30:21 - DEBUG - Getting Stays 
+2.6.2022, 9:31:35 - DEBUG - Getting Stays 
+2.6.2022, 9:31:35 - DEBUG - Getting Stays 
+2.6.2022, 9:31:45 - DEBUG - Getting Stays 
+2.6.2022, 9:34:48 - DEBUG - Getting Stays 
+2.6.2022, 9:34:48 - DEBUG - Getting Stays 
+2.6.2022, 9:35:08 - DEBUG - Getting Stays 
+2.6.2022, 9:44:04 - DEBUG - Getting Stays 
+2.6.2022, 9:44:06 - DEBUG - Getting Stays 
+2.6.2022, 10:01:52 - DEBUG - Getting Stays 
+2.6.2022, 10:01:53 - DEBUG - Getting Stays 
+2.6.2022, 10:02:53 - DEBUG - Getting Stays 
+2.6.2022, 10:02:53 - DEBUG - Getting Stays 
+2.6.2022, 12:08:11 - DEBUG - Getting Stays 
+2.6.2022, 12:08:12 - DEBUG - Getting Stays 
+2.6.2022, 12:21:41 - DEBUG - Getting Stays 
+2.6.2022, 12:21:42 - DEBUG - Getting Stays 
+2.6.2022, 12:23:36 - DEBUG - Getting Stays 
+2.6.2022, 12:23:36 - DEBUG - Getting Stays 
+2.6.2022, 12:23:41 - DEBUG - Getting Stays 
+2.6.2022, 12:23:41 - DEBUG - Getting Stays 
+2.6.2022, 12:26:24 - DEBUG - Getting Stays 
+2.6.2022, 12:26:25 - DEBUG - Getting Stays 
+2.6.2022, 12:29:28 - DEBUG - Getting Stays 
+2.6.2022, 12:29:29 - DEBUG - Getting Stays 
+2.6.2022, 12:30:02 - DEBUG - Getting Stays 
+2.6.2022, 12:30:03 - DEBUG - Getting Stays 
+2.6.2022, 12:30:41 - DEBUG - Getting Stays 
+2.6.2022, 12:30:41 - DEBUG - Getting Stays 
+2.6.2022, 12:37:39 - DEBUG - Getting Stays 
+2.6.2022, 12:39:45 - DEBUG - Getting Stays 
+2.6.2022, 12:39:46 - DEBUG - Getting Stays 
+2.6.2022, 12:44:45 - DEBUG - Getting Stays 
+2.6.2022, 12:44:45 - DEBUG - Getting Stays 
+2.6.2022, 12:46:00 - DEBUG - Getting Stays 
+2.6.2022, 12:46:00 - DEBUG - Getting Stays 
+2.6.2022, 13:05:55 - DEBUG - Getting Stays 
+2.6.2022, 13:05:56 - DEBUG - Getting Stays 
+2.6.2022, 13:06:11 - DEBUG - Getting Stays 
+2.6.2022, 13:06:11 - DEBUG - Getting Stays 
+2.6.2022, 13:29:09 - DEBUG - Getting Stays 
+2.6.2022, 13:29:10 - DEBUG - Getting Stays 
+2.6.2022, 13:30:17 - DEBUG - Getting Stays 
+2.6.2022, 13:30:17 - DEBUG - Getting Stays 
+2.6.2022, 13:36:38 - DEBUG - Getting Stays 
+2.6.2022, 13:36:39 - DEBUG - Getting Stays 
+2.6.2022, 14:06:24 - INFO - Server is running on port: 3030 
+2.6.2022, 14:06:46 - DEBUG - Getting Stays 
+2.6.2022, 14:06:48 - DEBUG - Getting Stays 
+2.6.2022, 14:06:54 - DEBUG - Getting Stays 
+2.6.2022, 14:06:54 - DEBUG - Getting Stays 
+2.6.2022, 15:10:56 - DEBUG - Getting Stays 
+2.6.2022, 15:10:57 - DEBUG - Getting Stays 
+2.6.2022, 16:04:01 - DEBUG - Getting Stays 
+2.6.2022, 16:04:02 - DEBUG - Getting Stays 
+2.6.2022, 16:06:17 - DEBUG - Getting Stays 
+2.6.2022, 16:06:17 - DEBUG - Getting Stays 
+2.6.2022, 16:06:23 - DEBUG - Getting Stays 
+2.6.2022, 16:06:23 - DEBUG - Getting Stays 
+2.6.2022, 16:10:36 - DEBUG - Getting Stays 
+2.6.2022, 16:10:37 - DEBUG - Getting Stays 
+2.6.2022, 16:10:39 - DEBUG - Getting Stays 
+2.6.2022, 16:15:43 - DEBUG - Getting Stays 
+2.6.2022, 16:15:43 - DEBUG - Getting Stays 
+2.6.2022, 16:15:50 - DEBUG - Getting Stays 
+2.6.2022, 16:15:51 - DEBUG - Getting Stays 
+2.6.2022, 16:15:51 - DEBUG - Getting Stays 
+2.6.2022, 16:15:52 - DEBUG - Getting Stays 
+2.6.2022, 16:16:09 - DEBUG - Getting Stays 
+2.6.2022, 16:16:09 - DEBUG - Getting Stays 
+2.6.2022, 16:16:11 - DEBUG - Getting Stays 
+2.6.2022, 16:16:13 - DEBUG - Getting Stays 
+2.6.2022, 16:16:56 - DEBUG - Getting Stays 
+2.6.2022, 16:16:57 - DEBUG - Getting Stays 
+2.6.2022, 16:16:59 - DEBUG - Getting Stays 
+2.6.2022, 16:17:00 - DEBUG - Getting Stays 
+2.6.2022, 16:17:11 - DEBUG - Getting Stays 
+2.6.2022, 16:17:12 - DEBUG - Getting Stays 
+2.6.2022, 16:17:13 - DEBUG - Getting Stays 
+2.6.2022, 16:17:14 - DEBUG - Getting Stays 
+2.6.2022, 16:17:24 - DEBUG - Getting Stays 
+2.6.2022, 16:17:25 - DEBUG - Getting Stays 
+2.6.2022, 16:17:28 - DEBUG - Getting Stays 
+2.6.2022, 16:17:49 - DEBUG - Getting Stays 
+2.6.2022, 16:17:50 - DEBUG - Getting Stays 
+2.6.2022, 16:18:08 - DEBUG - Getting Stays 
+2.6.2022, 16:18:09 - DEBUG - Getting Stays 
+2.6.2022, 16:42:48 - DEBUG - Getting Stays 
+2.6.2022, 16:42:48 - DEBUG - Getting Stays 
+2.6.2022, 16:43:10 - DEBUG - Getting Stays 
+2.6.2022, 16:43:11 - DEBUG - Getting Stays 
+2.6.2022, 16:43:32 - DEBUG - Getting Stays 
+2.6.2022, 16:43:33 - DEBUG - Getting Stays 
+2.6.2022, 16:46:18 - DEBUG - Getting Stays 
+2.6.2022, 16:46:18 - DEBUG - Getting Stays 
+2.6.2022, 19:58:43 - DEBUG - Getting Stays 
+2.6.2022, 19:58:44 - DEBUG - Getting Stays 
+2.6.2022, 20:02:02 - DEBUG - Getting Stays 
+2.6.2022, 20:02:02 - DEBUG - Getting Stays 
+2.6.2022, 22:32:10 - DEBUG - Getting Stays 
+2.6.2022, 22:32:11 - DEBUG - Getting Stays 
+2.6.2022, 22:32:18 - DEBUG - Getting Stays 
+2.6.2022, 22:32:19 - DEBUG - Getting Stays 
+2.6.2022, 22:32:20 - DEBUG - Getting Stays 
+2.6.2022, 22:32:20 - DEBUG - Getting Stays 
+2.6.2022, 22:32:22 - DEBUG - Getting Stays 
+2.6.2022, 22:32:23 - DEBUG - Getting Stays 
+2.6.2022, 22:32:23 - DEBUG - Getting Stays 
+2.6.2022, 22:32:24 - DEBUG - Getting Stays 
+2.6.2022, 22:32:26 - DEBUG - Getting Stays 
+2.6.2022, 22:32:30 - DEBUG - Getting Stays 
+2.6.2022, 22:32:30 - DEBUG - Getting Stays 
+2.6.2022, 22:32:31 - DEBUG - Getting Stays 
+2.6.2022, 22:32:31 - DEBUG - Getting Stays 
+2.6.2022, 22:32:32 - DEBUG - Getting Stays 
+2.6.2022, 22:33:30 - DEBUG - Getting Stays 
+2.6.2022, 22:59:19 - DEBUG - Getting Stays 
+2.6.2022, 22:59:20 - DEBUG - Getting Stays 
+2.6.2022, 23:00:01 - DEBUG - Getting Stays 
+2.6.2022, 23:00:01 - DEBUG - Getting Stays 
+2.6.2022, 23:14:06 - DEBUG - Getting Stays 
+2.6.2022, 23:14:07 - DEBUG - Getting Stays 
+2.6.2022, 23:14:32 - DEBUG - Getting Stays 
+2.6.2022, 23:14:32 - DEBUG - Getting Stays 
+2.6.2022, 23:19:37 - DEBUG - Getting Stays 
+2.6.2022, 23:19:37 - DEBUG - Getting Stays 
+2.6.2022, 23:20:10 - DEBUG - Getting Stays 
+2.6.2022, 23:20:10 - DEBUG - Getting Stays 
+2.6.2022, 23:21:05 - DEBUG - Getting Stays 
+2.6.2022, 23:21:05 - DEBUG - Getting Stays 
+2.6.2022, 23:21:23 - DEBUG - Getting Stays 
+2.6.2022, 23:21:23 - DEBUG - Getting Stays 
+2.6.2022, 23:56:54 - DEBUG - Getting Stays 
+2.6.2022, 23:56:55 - DEBUG - Getting Stays 
+3.6.2022, 0:15:36 - DEBUG - Getting Stays 
+3.6.2022, 0:15:37 - DEBUG - Getting Stays 
+3.6.2022, 0:16:43 - DEBUG - Getting Stays 
+3.6.2022, 0:16:44 - DEBUG - Getting Stays 
+3.6.2022, 0:18:01 - DEBUG - Getting Stays 
+3.6.2022, 0:18:01 - DEBUG - Getting Stays 
+3.6.2022, 0:30:20 - DEBUG - Getting Stays 
+3.6.2022, 0:30:21 - DEBUG - Getting Stays 
+3.6.2022, 0:31:04 - DEBUG - Getting Stays 
+3.6.2022, 0:31:19 - DEBUG - Getting Stays 
+3.6.2022, 0:31:20 - DEBUG - Getting Stays 
+3.6.2022, 0:31:42 - DEBUG - Getting Stays 
+3.6.2022, 0:31:42 - DEBUG - Getting Stays 
+3.6.2022, 0:43:17 - DEBUG - Getting Stays 
+3.6.2022, 0:43:18 - DEBUG - Getting Stays 
+3.6.2022, 0:48:53 - DEBUG - Getting Stays 
+3.6.2022, 0:48:53 - DEBUG - Getting Stays 
+3.6.2022, 0:51:28 - DEBUG - Getting Stays 
+3.6.2022, 0:54:31 - DEBUG - Getting Stays 
+3.6.2022, 0:59:24 - DEBUG - Getting Stays 
+3.6.2022, 0:59:24 - DEBUG - Getting Stays 
+3.6.2022, 1:00:31 - DEBUG - Getting Stays 
+3.6.2022, 1:00:31 - DEBUG - Getting Stays 
+3.6.2022, 1:22:38 - DEBUG - Getting Stays 
+3.6.2022, 1:22:39 - DEBUG - Getting Stays 
+3.6.2022, 11:25:09 - DEBUG - auth.service - signup with username: adi@gmail.com, fullname: adi zur 
+3.6.2022, 11:25:10 - DEBUG - Getting Stays 
+3.6.2022, 11:25:11 - DEBUG - auth.route - new account created: {"username":"adi@gmail.com","password":"$2b$10$MMi7snbGIct16hi.1CFhROHEJOE6jeAroKt2tIKXw6RqtYYLQNuLi","fullname":"adi zur","score":100,"_id":"6299c566c75826bc2c43b8c4"} 
+3.6.2022, 11:25:11 - DEBUG - auth.service - login with username: adi@gmail.com 
+3.6.2022, 11:25:11 - DEBUG - Getting Stays 
+3.6.2022, 11:25:11 - INFO - User signup: | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} 
+3.6.2022, 11:27:41 - DEBUG - auth.service - signup with username: 8ail.m, fullname: dd 66 
+3.6.2022, 11:27:41 - DEBUG - Getting Stays 
+3.6.2022, 11:27:41 - DEBUG - auth.route - new account created: {"username":"8ail.m","password":"$2b$10$YIXWt2PjmCcE1Wj4NJf9uOeTfIUQsGRVqELZoxCKSpBiwW67eLa6K","fullname":"dd 66","score":100,"_id":"6299c5fdc75826bc2c43b8c5"} 
+3.6.2022, 11:27:41 - DEBUG - auth.service - login with username: 8ail.m 
+3.6.2022, 11:27:41 - DEBUG - Getting Stays 
+3.6.2022, 11:27:41 - INFO - User signup: | {"_id":"6299c5fdc75826bc2c43b8c5","username":"8ail.m","fullname":"dd 66","imgUrl":null,"score":100} 
+3.6.2022, 11:53:54 - INFO - Server is running on port: 3030 
+3.6.2022, 12:04:50 - DEBUG - auth.service - login with username: afefe (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:04:52 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:04:52 - DEBUG - Getting Stays (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:04:53 - DEBUG - Getting Stays (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:09:59 - DEBUG - auth.service - login with username: sss (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:09:59 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:09:59 - DEBUG - Getting Stays (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:09:59 - DEBUG - Getting Stays (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:10:33 - DEBUG - auth.service - login with username: adi@gmail.ddd (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:10:33 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:10:38 - DEBUG - auth.service - login with username: adi@gmail.ddd (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:10:38 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:10:38 - DEBUG - auth.service - login with username: adi@gmail.ddd (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:10:38 - DEBUG - auth.service - login with username: adi@gmail.ddd (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:10:38 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:10:39 - DEBUG - auth.service - login with username: adi@gmail.ddd (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:10:39 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:10:39 - DEBUG - auth.service - login with username: adi@gmail.ddd (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:10:39 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:10:39 - DEBUG - auth.service - login with username: adi@gmail.ddd (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:10:39 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:10:39 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:17:05 - DEBUG - auth.service - login with username: adi@gmail.ddd (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:17:06 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:17:47 - DEBUG - auth.service - login with username: adi@gmail.ddd (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:17:47 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:17:54 - DEBUG - auth.service - login with username: adi@gmail.ddd (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:17:54 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:17:59 - DEBUG - auth.service - login with username: adi@gmail.ddd (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:17:59 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:23:48 - DEBUG - auth.service - login with username: adi@gmail.ddd (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:23:48 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:24:25 - DEBUG - auth.service - login with username: adi@d.com (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:24:25 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:24:30 - DEBUG - auth.service - login with username: adi@d.com (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:24:30 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:32:48 - DEBUG - auth.service - login with username: ojmon (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:32:48 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:37:02 - DEBUG - auth.service - login with username: sfsefrsgrs (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:37:02 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:37:07 - DEBUG - auth.service - login with username: sfsefrsgrs (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:37:07 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:48:31 - DEBUG - auth.service - login with username: sfsefrsgrs (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:48:32 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:58:32 - DEBUG - auth.service - login with username: sfsefrsgrs (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:58:33 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:58:37 - DEBUG - auth.service - login with username: sfsefrsgrs (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 12:58:38 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 13:00:11 - DEBUG - auth.service - login with username: sfsefrsgrs (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 13:00:11 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 13:00:51 - DEBUG - auth.service - login with username: sfsefrsgrs (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 13:00:51 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 13:03:49 - DEBUG - auth.service - login with username: sfsefrsgrs (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 13:03:49 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 13:14:43 - DEBUG - auth.service - login with username: sfsefrsgrs (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 13:14:44 - ERROR - Failed to Login Invalid username or password (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 13:15:17 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 13:15:17 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c5fdc75826bc2c43b8c5)
+3.6.2022, 13:15:21 - DEBUG - auth.service - login with username: ad.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:15:21 - ERROR - Failed to Login Invalid username or password (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:16:19 - DEBUG - auth.service - login with username: ad.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:16:20 - ERROR - Failed to Login Invalid username or password (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:17:21 - DEBUG - auth.service - login with username: cccc (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:17:21 - ERROR - Failed to Login Invalid username or password (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:17:26 - DEBUG - auth.service - login with username: cccc (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:17:26 - ERROR - Failed to Login Invalid username or password (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:18:56 - DEBUG - auth.service - login with username: cccc (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:18:56 - ERROR - Failed to Login Invalid username or password (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:19:28 - DEBUG - auth.service - login with username: cccc (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:19:28 - ERROR - Failed to Login Invalid username or password (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:19:45 - DEBUG - auth.service - login with username: cccc (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:19:45 - ERROR - Failed to Login Invalid username or password (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:19:49 - DEBUG - auth.service - login with username: cccc (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:19:49 - ERROR - Failed to Login Invalid username or password (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:19:52 - DEBUG - auth.service - login with username: cccc (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:19:52 - ERROR - Failed to Login Invalid username or password (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:20:21 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:20:21 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:20:22 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:20:22 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:20:34 - DEBUG - auth.service - login with username: agmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:20:34 - ERROR - Failed to Login Invalid username or password (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:20:44 - DEBUG - auth.service - login with username: agmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:20:44 - ERROR - Failed to Login Invalid username or password (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:20:49 - DEBUG - auth.service - login with username: agmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:20:49 - ERROR - Failed to Login Invalid username or password (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:20:53 - DEBUG - auth.service - login with username: agmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:20:53 - ERROR - Failed to Login Invalid username or password (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:22:11 - INFO - Server is running on port: 3030 
+3.6.2022, 13:23:46 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:23:48 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:23:50 - DEBUG - auth.service - login with username: ddddd (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:23:50 - ERROR - Failed to Login Invalid username or password (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:23:55 - DEBUG - auth.service - login with username: ddddd (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:23:55 - ERROR - Failed to Login Invalid username or password (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:20 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:21 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:21 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:21 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:22 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:22 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:22 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:22 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:23 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:23 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:23 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:23 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:23 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:23 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:23 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:23 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:23 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:23 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:24 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:24 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:24 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:24 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:24 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:24 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:24 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:24 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:25 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:26 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:26 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:26 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:26 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:26 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:26 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:26 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:36 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:36 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:36 - DEBUG - Getting Stays (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:26:36 - DEBUG - Getting Stays (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:27:22 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:27:23 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:27:24 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:27:25 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:27:24 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:27:25 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:27:25 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:27:25 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:27:25 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:27:25 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:27:25 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:27:25 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:30:24 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:30:24 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:30:25 - DEBUG - Getting Stays (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:30:25 - DEBUG - Getting Stays (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:35:00 - DEBUG - Getting Stays 
+3.6.2022, 13:35:01 - DEBUG - Getting Stays 
+3.6.2022, 13:35:45 - DEBUG - auth.service - login with username: adi.com 
+3.6.2022, 13:35:45 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 13:35:45 - DEBUG - Getting Stays 
+3.6.2022, 13:35:45 - DEBUG - Getting Stays 
+3.6.2022, 13:35:58 - DEBUG - auth.service - login with username: 8488 
+3.6.2022, 13:35:58 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 13:35:58 - DEBUG - Getting Stays 
+3.6.2022, 13:35:58 - DEBUG - Getting Stays 
+3.6.2022, 13:37:08 - DEBUG - auth.service - login with username: sdsds 
+3.6.2022, 13:37:08 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 13:37:08 - DEBUG - Getting Stays 
+3.6.2022, 13:37:08 - DEBUG - Getting Stays 
+3.6.2022, 13:38:07 - DEBUG - auth.service - login with username: 85948 
+3.6.2022, 13:38:07 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 13:38:07 - DEBUG - Getting Stays 
+3.6.2022, 13:38:08 - DEBUG - Getting Stays 
+3.6.2022, 13:38:55 - DEBUG - auth.service - login with username: .com 
+3.6.2022, 13:38:55 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 13:38:55 - DEBUG - Getting Stays 
+3.6.2022, 13:38:55 - DEBUG - Getting Stays 
+3.6.2022, 13:39:58 - DEBUG - auth.service - login with username: ddafdaf 
+3.6.2022, 13:39:58 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 13:40:03 - DEBUG - auth.service - login with username: ddafdaf 
+3.6.2022, 13:40:03 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 13:40:47 - DEBUG - auth.service - login with username: ddafdaf 
+3.6.2022, 13:40:47 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 13:40:51 - DEBUG - auth.service - login with username: ddafdaf 
+3.6.2022, 13:40:51 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 13:41:00 - DEBUG - auth.service - login with username: ddafdaf 
+3.6.2022, 13:41:00 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 13:41:33 - DEBUG - auth.service - login with username: adi@gmail.com 
+3.6.2022, 13:41:33 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} 
+3.6.2022, 13:44:13 - DEBUG - auth.service - login with username: adi@gm (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:44:13 - ERROR - Failed to Login Invalid username or password (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:45:29 - DEBUG - auth.service - login with username: adi@gm (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:45:30 - ERROR - Failed to Login Invalid username or password (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:45:30 - DEBUG - Getting Stays (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:45:30 - DEBUG - Getting Stays (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:48:10 - DEBUG - auth.service - login with username: addavadfvda (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:48:10 - ERROR - Failed to Login Invalid username or password (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:48:13 - DEBUG - auth.service - login with username: addavadfvda (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:48:13 - ERROR - Failed to Login Invalid username or password (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:48:18 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:48:18 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:48:18 - DEBUG - Getting Stays (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 13:48:18 - DEBUG - Getting Stays (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 15:32:53 - DEBUG - auth.service - login with username: .com 
+3.6.2022, 15:32:53 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 15:33:01 - DEBUG - auth.service - login with username: adizur9@gmail.com 
+3.6.2022, 15:33:02 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 15:33:07 - DEBUG - auth.service - login with username: adizur9@gmail.com 
+3.6.2022, 15:33:07 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 15:33:21 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 15:33:21 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 15:33:21 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 15:33:22 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 15:34:41 - DEBUG - auth.service - login with username: a.com 
+3.6.2022, 15:34:41 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 15:34:44 - DEBUG - auth.service - login with username: a.com 
+3.6.2022, 15:34:44 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 15:34:53 - DEBUG - auth.service - login with username: a.com 
+3.6.2022, 15:34:54 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 16:01:50 - DEBUG - auth.service - login with username: ad.com 
+3.6.2022, 16:01:51 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 16:01:52 - DEBUG - auth.service - login with username: ad.com 
+3.6.2022, 16:01:52 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 16:01:52 - DEBUG - auth.service - login with username: ad.com 
+3.6.2022, 16:01:53 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 16:01:53 - DEBUG - auth.service - login with username: ad.com 
+3.6.2022, 16:01:53 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 16:01:59 - DEBUG - auth.service - login with username: ad.com 
+3.6.2022, 16:01:59 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 16:02:02 - DEBUG - auth.service - login with username: ad.com 
+3.6.2022, 16:02:02 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 16:02:50 - DEBUG - auth.service - login with username: a 
+3.6.2022, 16:02:50 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 16:02:52 - DEBUG - auth.service - login with username: a 
+3.6.2022, 16:02:52 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 16:14:34 - DEBUG - auth.service - login with username: dfxvfvf 
+3.6.2022, 16:14:35 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 16:14:39 - DEBUG - auth.service - login with username: dfxvfvf 
+3.6.2022, 16:14:39 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 16:22:18 - DEBUG - auth.service - login with username: gm 
+3.6.2022, 16:22:19 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 16:22:26 - DEBUG - auth.service - login with username: gm\\ 
+3.6.2022, 16:22:26 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 16:25:33 - DEBUG - auth.service - login with username: adgrgres 
+3.6.2022, 16:25:33 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 16:40:52 - DEBUG - auth.service - login with username: Ddsfsg 
+3.6.2022, 16:40:52 - DEBUG - auth.service - login with username: Ddsfsg 
+3.6.2022, 16:40:52 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 16:40:53 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 16:51:12 - DEBUG - auth.service - login with username: fsvs 
+3.6.2022, 16:51:13 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 16:51:19 - DEBUG - auth.service - login with username: fsvs 
+3.6.2022, 16:51:19 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 16:51:21 - DEBUG - auth.service - login with username: fsvs 
+3.6.2022, 16:51:21 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 16:52:52 - DEBUG - auth.service - login with username: acascsacasc 
+3.6.2022, 16:52:52 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 16:55:50 - DEBUG - auth.service - login with username: thgetd 
+3.6.2022, 16:55:51 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 16:56:39 - DEBUG - auth.service - login with username: adi@gmail.comsada 
+3.6.2022, 16:56:39 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 17:03:05 - DEBUG - auth.service - login with username: deeq 
+3.6.2022, 17:03:06 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 17:15:01 - INFO - Server is running on port: 3030 
+3.6.2022, 17:18:34 - DEBUG - auth.service - login with username: adi 
+3.6.2022, 17:18:35 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 17:40:30 - DEBUG - auth.service - login with username: adiaefeafef 
+3.6.2022, 17:40:31 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 17:43:33 - DEBUG - auth.service - login with username: adidcdacd 
+3.6.2022, 17:43:33 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 17:46:07 - DEBUG - auth.service - login with username: adieee 
+3.6.2022, 17:46:07 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 17:49:59 - DEBUG - auth.service - login with username: cdafdafa 
+3.6.2022, 17:49:59 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 17:56:32 - DEBUG - auth.service - login with username: adi 
+3.6.2022, 17:56:33 - ERROR - Failed to Login Invalid username or password 
+3.6.2022, 17:56:37 - DEBUG - auth.service - login with username: adi@gmail.com 
+3.6.2022, 17:56:38 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} 
+3.6.2022, 17:56:38 - DEBUG - Getting Stays (userId: 6299c566c75826bc2c43b8c4)
+3.6.2022, 17:56:39 - DEBUG - Getting Stays (userId: 6299c566c75826bc2c43b8c4)
+4.6.2022, 0:33:15 - DEBUG - Getting Stays (userId: 6299c566c75826bc2c43b8c4)
+4.6.2022, 0:33:16 - DEBUG - Getting Stays (userId: 6299c566c75826bc2c43b8c4)
+4.6.2022, 10:34:58 - DEBUG - Getting Stays (userId: 6299c566c75826bc2c43b8c4)
+4.6.2022, 10:34:59 - DEBUG - Getting Stays (userId: 6299c566c75826bc2c43b8c4)
+4.6.2022, 11:59:06 - INFO - Server is running on port: 3030 
+4.6.2022, 12:01:14 - INFO - Server is running on port: 3030 
+=======
+2.6.2022, 0:14:00 - INFO - Server is running on port: 3030 
+2.6.2022, 0:15:52 - DEBUG - Getting Stays 
+2.6.2022, 0:15:52 - DEBUG - Getting Stays 
+2.6.2022, 0:24:26 - DEBUG - Getting Stays 
+2.6.2022, 0:24:26 - DEBUG - Getting Stays 
+2.6.2022, 0:26:16 - DEBUG - Getting Stays 
+2.6.2022, 0:26:16 - DEBUG - Getting Stays 
+2.6.2022, 0:33:33 - DEBUG - Getting Stays 
+2.6.2022, 0:33:33 - DEBUG - Getting Stays 
+2.6.2022, 0:36:44 - DEBUG - Getting Stays 
+2.6.2022, 0:36:44 - DEBUG - Getting Stays 
+2.6.2022, 0:36:49 - DEBUG - Getting Stays 
+2.6.2022, 0:36:49 - DEBUG - Getting Stays 
+2.6.2022, 0:36:55 - DEBUG - Getting Stays 
+2.6.2022, 0:36:55 - DEBUG - Getting Stays 
+2.6.2022, 0:45:50 - DEBUG - Getting Stays 
+2.6.2022, 0:45:50 - DEBUG - Getting Stays 
+2.6.2022, 0:50:34 - DEBUG - Getting Stays 
+2.6.2022, 0:50:34 - DEBUG - Getting Stays 
+2.6.2022, 0:54:29 - DEBUG - Getting Stays 
+2.6.2022, 1:01:51 - DEBUG - Getting Stays 
+2.6.2022, 1:01:51 - DEBUG - Getting Stays 
+2.6.2022, 1:07:47 - DEBUG - Getting Stays 
+2.6.2022, 1:07:47 - DEBUG - Getting Stays 
+2.6.2022, 1:07:51 - DEBUG - Getting Stays 
+2.6.2022, 1:07:51 - DEBUG - Getting Stays 
+2.6.2022, 1:07:52 - DEBUG - Getting Stays 
+2.6.2022, 1:07:52 - DEBUG - Getting Stays 
+2.6.2022, 1:07:53 - DEBUG - Getting Stays 
+2.6.2022, 1:07:53 - DEBUG - Getting Stays 
+2.6.2022, 1:07:54 - DEBUG - Getting Stays 
+2.6.2022, 1:07:54 - DEBUG - Getting Stays 
+2.6.2022, 1:07:55 - DEBUG - Getting Stays 
+2.6.2022, 1:07:55 - DEBUG - Getting Stays 
+2.6.2022, 1:07:56 - DEBUG - Getting Stays 
+2.6.2022, 1:07:56 - DEBUG - Getting Stays 
+2.6.2022, 1:07:57 - DEBUG - Getting Stays 
+2.6.2022, 1:07:57 - DEBUG - Getting Stays 
+2.6.2022, 1:07:58 - DEBUG - Getting Stays 
+2.6.2022, 1:07:58 - DEBUG - Getting Stays 
+2.6.2022, 1:07:59 - DEBUG - Getting Stays 
+2.6.2022, 1:07:59 - DEBUG - Getting Stays 
+2.6.2022, 1:08:00 - DEBUG - Getting Stays 
+2.6.2022, 1:08:00 - DEBUG - Getting Stays 
+2.6.2022, 1:08:00 - DEBUG - Getting Stays 
+2.6.2022, 1:08:01 - DEBUG - Getting Stays 
+2.6.2022, 1:08:02 - DEBUG - Getting Stays 
+2.6.2022, 1:08:02 - DEBUG - Getting Stays 
+2.6.2022, 1:08:02 - DEBUG - Getting Stays 
+2.6.2022, 1:08:02 - DEBUG - Getting Stays 
+2.6.2022, 1:18:35 - INFO - Server is running on port: 3030 
+2.6.2022, 1:18:47 - DEBUG - Getting Stays 
+2.6.2022, 1:18:47 - DEBUG - Getting Stays 
+2.6.2022, 8:44:27 - INFO - Server is running on port: 3030 
+2.6.2022, 8:44:52 - DEBUG - Getting Stays 
+2.6.2022, 8:44:52 - DEBUG - Getting Stays 
+2.6.2022, 9:11:32 - INFO - Server is running on port: 3030 
+2.6.2022, 9:11:48 - DEBUG - Getting Stays 
+2.6.2022, 9:11:50 - DEBUG - Getting Stays 
+2.6.2022, 9:12:14 - INFO - Server is running on port: 3030 
+2.6.2022, 10:42:49 - DEBUG - Getting Stays 
+2.6.2022, 10:42:50 - DEBUG - Getting Stays 
+2.6.2022, 10:53:24 - DEBUG - Getting Stays 
+2.6.2022, 10:53:25 - DEBUG - Getting Stays 
+2.6.2022, 11:03:36 - DEBUG - Getting Stays 
+2.6.2022, 11:03:37 - DEBUG - Getting Stays 
+2.6.2022, 11:11:52 - DEBUG - Getting Stays 
+2.6.2022, 11:11:54 - DEBUG - Getting Stays 
+2.6.2022, 11:21:41 - DEBUG - Getting Stays 
+2.6.2022, 11:21:42 - DEBUG - Getting Stays 
+2.6.2022, 12:35:35 - DEBUG - Getting Stays 
+2.6.2022, 12:35:35 - DEBUG - Getting Stays 
+2.6.2022, 13:13:47 - DEBUG - auth.service - signup with username: asas, fullname: asas asas 
+2.6.2022, 13:13:48 - DEBUG - Getting Stays 
+2.6.2022, 13:13:48 - DEBUG - Getting Stays 
+2.6.2022, 13:13:48 - DEBUG - auth.route - new account created: {"username":"asas","password":"$2b$10$GLKnTH3viNVHUd2AWfy8i.7CNPSwsafFWWxLN3XsVT4Hk1HnElNRO","fullname":"asas asas","score":100,"_id":"62988d5c0cde1754a3a3b459"} 
+2.6.2022, 13:13:48 - DEBUG - auth.service - login with username: asas 
+2.6.2022, 13:13:48 - INFO - User signup: | {"_id":"62988d5c0cde1754a3a3b459","username":"asas","fullname":"asas asas","imgUrl":null,"score":100} 
+2.6.2022, 13:15:22 - DEBUG - Getting Stays 
+2.6.2022, 13:15:23 - DEBUG - Getting Stays 
+2.6.2022, 13:44:38 - DEBUG - Getting Stays 
+2.6.2022, 13:44:38 - DEBUG - Getting Stays 
+2.6.2022, 13:45:48 - DEBUG - Getting Stays 
+2.6.2022, 13:45:48 - DEBUG - Getting Stays 
+2.6.2022, 13:47:35 - DEBUG - Getting Stays 
+2.6.2022, 13:47:35 - DEBUG - Getting Stays 
+2.6.2022, 13:57:50 - DEBUG - Getting Stays 
+2.6.2022, 13:57:51 - DEBUG - Getting Stays 
+2.6.2022, 14:00:01 - DEBUG - Getting Stays 
+2.6.2022, 14:00:01 - DEBUG - Getting Stays 
+2.6.2022, 14:00:28 - DEBUG - Getting Stays 
+2.6.2022, 14:00:29 - DEBUG - Getting Stays 
+2.6.2022, 14:04:27 - DEBUG - Getting Stays 
+2.6.2022, 14:04:27 - DEBUG - Getting Stays 
+2.6.2022, 14:46:20 - DEBUG - Getting Stays 
+2.6.2022, 14:46:21 - DEBUG - Getting Stays 
+2.6.2022, 14:48:04 - DEBUG - Getting Stays 
+2.6.2022, 14:48:04 - DEBUG - Getting Stays 
+2.6.2022, 14:50:58 - DEBUG - auth.service - login with username: as2 
+2.6.2022, 14:50:58 - ERROR - Failed to Login Invalid username or password 
+2.6.2022, 14:50:58 - DEBUG - Getting Stays 
+2.6.2022, 14:50:58 - DEBUG - Getting Stays 
+2.6.2022, 14:51:37 - DEBUG - Getting Stays 
+2.6.2022, 14:51:37 - DEBUG - Getting Stays 
+2.6.2022, 14:51:44 - DEBUG - auth.service - signup with username: 1111, fullname: 1111 1111 
+2.6.2022, 14:51:45 - DEBUG - Getting Stays 
+2.6.2022, 14:51:45 - DEBUG - Getting Stays 
+2.6.2022, 14:51:45 - DEBUG - auth.route - new account created: {"username":"1111","password":"$2b$10$Ux0yq/D1kOpFcxkV9x4WPOWD9FYKjplP3uEeye7xdvGI8njqBtun.","fullname":"1111 1111","score":100,"_id":"6298a4510cde1754a3a3b45a"} 
+2.6.2022, 14:51:45 - DEBUG - auth.service - login with username: 1111 
+2.6.2022, 14:51:45 - INFO - User signup: | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":null,"score":100} 
+2.6.2022, 14:52:26 - INFO - Server is running on port: 3030 
+2.6.2022, 14:52:39 - DEBUG - auth.service - login with username: 1111 (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 14:52:40 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":null,"score":100} (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 14:52:41 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 14:52:41 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 14:53:57 - DEBUG - Getting Stays 
+2.6.2022, 14:56:21 - DEBUG - Getting Stays 
+2.6.2022, 14:56:21 - DEBUG - Getting Stays 
+2.6.2022, 14:56:31 - DEBUG - auth.service - login with username: 1111 
+2.6.2022, 14:56:32 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":null,"score":100} 
+2.6.2022, 14:56:32 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 14:56:32 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 14:58:13 - DEBUG - auth.service - login with username: 2222 
+2.6.2022, 14:58:13 - ERROR - Failed to Login Invalid username or password 
+2.6.2022, 14:58:13 - DEBUG - Getting Stays 
+2.6.2022, 14:58:14 - DEBUG - Getting Stays 
+2.6.2022, 14:58:55 - DEBUG - auth.service - signup with username: 22, fullname: 22 22 
+2.6.2022, 14:58:55 - DEBUG - Getting Stays 
+2.6.2022, 14:58:55 - DEBUG - Getting Stays 
+2.6.2022, 14:58:55 - DEBUG - auth.route - new account created: {"username":"22","password":"$2b$10$1.4iUweXIbawLiK4NtRGruENp43wWjaH30/ERZ9V8LZdgUDUSGT0y","fullname":"22 22","score":100,"_id":"6298a5ff2c906f739e9d3274"} 
+2.6.2022, 14:58:55 - DEBUG - auth.service - login with username: 22 
+2.6.2022, 14:58:56 - INFO - User signup: | {"_id":"6298a5ff2c906f739e9d3274","username":"22","fullname":"22 22","imgUrl":null,"score":100} 
+2.6.2022, 14:59:35 - DEBUG - Getting Stays 
+2.6.2022, 14:59:36 - DEBUG - Getting Stays 
+2.6.2022, 15:00:06 - DEBUG - auth.service - login with username: 22 
+2.6.2022, 15:00:06 - INFO - User login:  | {"_id":"6298a5ff2c906f739e9d3274","username":"22","fullname":"22 22","imgUrl":null,"score":100} 
+2.6.2022, 15:00:07 - DEBUG - Getting Stays (userId: 6298a5ff2c906f739e9d3274)
+2.6.2022, 15:00:07 - DEBUG - Getting Stays (userId: 6298a5ff2c906f739e9d3274)
+2.6.2022, 15:08:44 - DEBUG - auth.service - signup with username: aa, fullname: aa aa 
+2.6.2022, 15:08:45 - DEBUG - Getting Stays 
+2.6.2022, 15:08:45 - DEBUG - auth.route - new account created: {"username":"aa","password":"$2b$10$NnhJkGgAmAW5oaVpp9gnAeTd34OTRSeyzUoTh3uQgZpHCTCZN9dU2","fullname":"aa aa","score":100,"_id":"6298a84d2c906f739e9d3275"} 
+2.6.2022, 15:08:45 - DEBUG - auth.service - login with username: aa 
+2.6.2022, 15:08:45 - INFO - User signup: | {"_id":"6298a84d2c906f739e9d3275","username":"aa","fullname":"aa aa","imgUrl":null,"score":100} 
+2.6.2022, 15:08:46 - DEBUG - Getting Stays 
+2.6.2022, 15:08:51 - DEBUG - Getting Stays (userId: 6298a84d2c906f739e9d3275)
+2.6.2022, 15:08:52 - DEBUG - Getting Stays (userId: 6298a84d2c906f739e9d3275)
+2.6.2022, 15:08:59 - DEBUG - auth.service - signup with username: ww, fullname: ww ww (userId: 6298a84d2c906f739e9d3275)
+2.6.2022, 15:08:59 - DEBUG - Getting Stays (userId: 6298a84d2c906f739e9d3275)
+2.6.2022, 15:08:59 - DEBUG - auth.route - new account created: {"username":"ww","password":"$2b$10$k1RyCeBo47lepkkoWAwLVOiEDJa6KonqIMDcmJEIsYy3dbNTQRT6G","fullname":"ww ww","score":100,"_id":"6298a85b2c906f739e9d3276"} (userId: 6298a84d2c906f739e9d3275)
+2.6.2022, 15:08:59 - DEBUG - auth.service - login with username: ww (userId: 6298a84d2c906f739e9d3275)
+2.6.2022, 15:09:00 - DEBUG - Getting Stays (userId: 6298a84d2c906f739e9d3275)
+2.6.2022, 15:09:00 - INFO - User signup: | {"_id":"6298a85b2c906f739e9d3276","username":"ww","fullname":"ww ww","imgUrl":null,"score":100} (userId: 6298a84d2c906f739e9d3275)
+2.6.2022, 15:12:14 - INFO - Server is running on port: 3030 
+2.6.2022, 15:22:53 - DEBUG - Getting Stays (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:22:55 - DEBUG - Getting Stays (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:22:56 - DEBUG - Getting Stays (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:22:57 - DEBUG - Getting Stays (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:27:05 - DEBUG - Getting Stays (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:27:06 - DEBUG - Getting Stays (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:32:51 - DEBUG - Getting Stays (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:32:52 - DEBUG - Getting Stays (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:33:19 - DEBUG - Getting Stays (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:33:20 - DEBUG - Getting Stays (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:33:30 - DEBUG - auth.service - login with username: 1111 (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:33:30 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":null,"score":100} (userId: 6298a85b2c906f739e9d3276)
+2.6.2022, 15:33:30 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 15:33:31 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 15:33:34 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 15:33:34 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 15:33:39 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 15:33:39 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:18:24 - DEBUG - auth.service - login with username: 1111 
+2.6.2022, 16:18:24 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":null,"score":100} 
+2.6.2022, 16:18:24 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:18:25 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:20:50 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:20:50 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:22:05 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:22:06 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:22:37 - DEBUG - Getting Stays 
+2.6.2022, 16:22:37 - DEBUG - Getting Stays 
+2.6.2022, 16:22:42 - DEBUG - Getting Stays 
+2.6.2022, 16:22:42 - DEBUG - Getting Stays 
+2.6.2022, 16:22:50 - DEBUG - Getting Stays 
+2.6.2022, 16:22:50 - DEBUG - Getting Stays 
+2.6.2022, 16:22:56 - DEBUG - Getting Stays 
+2.6.2022, 16:22:56 - DEBUG - Getting Stays 
+2.6.2022, 16:23:19 - DEBUG - Getting Stays 
+2.6.2022, 16:23:19 - DEBUG - Getting Stays 
+2.6.2022, 16:25:11 - DEBUG - auth.service - login with username: 1111 
+2.6.2022, 16:25:11 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":null,"score":100} 
+2.6.2022, 16:25:12 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:25:12 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:26:13 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:26:13 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:30:13 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:30:14 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:30:26 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:30:27 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:30:46 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:30:46 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:34:05 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:34:06 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:37:33 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:37:34 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:38:31 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 16:38:32 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 17:02:58 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 17:02:58 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 18:56:16 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 18:56:17 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:02:44 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:02:45 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:14:04 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:14:05 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:15:50 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:15:51 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:21:59 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:22:01 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:30:00 - DEBUG - auth.service - login with username: 1111 (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:30:01 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":null,"score":100} (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:30:01 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:30:02 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:33:01 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:33:01 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:33:14 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:33:14 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 19:33:47 - DEBUG - Getting Stays 
+2.6.2022, 19:33:48 - DEBUG - Getting Stays 
+2.6.2022, 19:33:54 - DEBUG - Getting Stays 
+2.6.2022, 19:33:55 - DEBUG - Getting Stays 
+2.6.2022, 19:34:03 - DEBUG - Getting Stays 
+2.6.2022, 19:34:04 - DEBUG - Getting Stays 
+2.6.2022, 19:34:05 - DEBUG - Getting Stays 
+2.6.2022, 19:34:05 - DEBUG - Getting Stays 
+2.6.2022, 19:37:04 - DEBUG - Getting Stays 
+2.6.2022, 19:37:05 - DEBUG - Getting Stays 
+2.6.2022, 19:37:13 - DEBUG - Getting Stays 
+2.6.2022, 19:37:13 - DEBUG - Getting Stays 
+2.6.2022, 19:38:52 - DEBUG - Getting Stays 
+2.6.2022, 19:38:52 - DEBUG - Getting Stays 
+2.6.2022, 19:40:00 - DEBUG - Getting Stays 
+2.6.2022, 19:40:00 - DEBUG - Getting Stays 
+2.6.2022, 19:41:00 - DEBUG - Getting Stays 
+2.6.2022, 19:41:00 - DEBUG - Getting Stays 
+2.6.2022, 19:44:42 - DEBUG - Getting Stays 
+2.6.2022, 19:44:42 - DEBUG - Getting Stays 
+2.6.2022, 19:45:56 - DEBUG - Getting Stays 
+2.6.2022, 19:45:57 - DEBUG - Getting Stays 
+2.6.2022, 19:48:19 - DEBUG - Getting Stays 
+2.6.2022, 19:48:20 - DEBUG - Getting Stays 
+2.6.2022, 19:48:54 - DEBUG - Getting Stays 
+2.6.2022, 19:48:54 - DEBUG - Getting Stays 
+2.6.2022, 19:50:13 - DEBUG - Getting Stays 
+2.6.2022, 19:50:14 - DEBUG - Getting Stays 
+2.6.2022, 19:50:22 - DEBUG - Getting Stays 
+2.6.2022, 19:50:22 - DEBUG - Getting Stays 
+2.6.2022, 19:51:20 - DEBUG - Getting Stays 
+2.6.2022, 19:51:20 - DEBUG - Getting Stays 
+2.6.2022, 19:51:45 - DEBUG - Getting Stays 
+2.6.2022, 19:51:45 - DEBUG - Getting Stays 
+2.6.2022, 20:16:36 - DEBUG - Getting Stays 
+2.6.2022, 20:16:37 - DEBUG - Getting Stays 
+2.6.2022, 20:17:14 - DEBUG - Getting Stays 
+2.6.2022, 20:17:14 - DEBUG - Getting Stays 
+2.6.2022, 20:20:12 - DEBUG - Getting Stays 
+2.6.2022, 20:20:13 - DEBUG - Getting Stays 
+2.6.2022, 20:52:37 - DEBUG - Getting Stays 
+2.6.2022, 20:52:39 - DEBUG - Getting Stays 
+2.6.2022, 20:56:07 - DEBUG - Getting Stays 
+2.6.2022, 20:56:07 - DEBUG - Getting Stays 
+2.6.2022, 20:56:13 - DEBUG - Getting Stays 
+2.6.2022, 21:00:16 - DEBUG - Getting Stays 
+2.6.2022, 21:00:16 - DEBUG - Getting Stays 
+2.6.2022, 21:05:30 - DEBUG - Getting Stays 
+2.6.2022, 21:05:30 - DEBUG - Getting Stays 
+2.6.2022, 21:05:42 - DEBUG - Getting Stays 
+2.6.2022, 21:05:42 - DEBUG - Getting Stays 
+2.6.2022, 21:07:41 - DEBUG - Getting Stays 
+2.6.2022, 21:07:41 - DEBUG - Getting Stays 
+2.6.2022, 21:20:49 - DEBUG - Getting Stays 
+2.6.2022, 21:20:50 - DEBUG - Getting Stays 
+2.6.2022, 21:34:26 - DEBUG - Getting Stays 
+2.6.2022, 21:34:27 - DEBUG - Getting Stays 
+2.6.2022, 21:36:24 - DEBUG - Getting Stays 
+2.6.2022, 21:36:24 - DEBUG - Getting Stays 
+2.6.2022, 21:37:14 - DEBUG - Getting Stays 
+2.6.2022, 21:37:14 - DEBUG - Getting Stays 
+2.6.2022, 21:37:19 - DEBUG - Getting Stays 
+2.6.2022, 21:37:19 - DEBUG - Getting Stays 
+2.6.2022, 21:38:09 - DEBUG - auth.service - login with username: 1111 
+2.6.2022, 21:38:09 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":null,"score":100} 
+2.6.2022, 21:38:10 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 21:38:10 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:08:49 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:08:50 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:13:09 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:13:09 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:32:05 - DEBUG - auth.service - login with username: 1111 
+2.6.2022, 22:32:06 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":null,"score":100} 
+2.6.2022, 22:32:06 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:32:07 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:34:13 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:34:13 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:50:40 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:50:41 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:52:16 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+2.6.2022, 22:52:17 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:05:45 - DEBUG - auth.service - login with username: 1111 (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:05:46 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:05:47 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:05:47 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:13:13 - DEBUG - Getting Stays 
+3.6.2022, 10:13:14 - DEBUG - Getting Stays 
+3.6.2022, 10:13:17 - DEBUG - Getting Stays 
+3.6.2022, 10:13:17 - DEBUG - Getting Stays 
+3.6.2022, 10:14:27 - DEBUG - Getting Stays 
+3.6.2022, 10:14:28 - DEBUG - Getting Stays 
+3.6.2022, 10:18:13 - DEBUG - Getting Stays 
+3.6.2022, 10:18:13 - DEBUG - Getting Stays 
+3.6.2022, 10:23:18 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 10:23:18 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 10:23:18 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:23:19 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:23:29 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:23:29 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:52:38 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:52:39 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:57:15 - DEBUG - Getting Stays 
+3.6.2022, 10:57:16 - DEBUG - Getting Stays 
+3.6.2022, 10:57:21 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 10:57:21 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 10:57:21 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:57:22 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:57:32 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 10:57:32 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 10:57:33 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:57:33 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:57:43 - DEBUG - Getting Stays 
+3.6.2022, 10:57:43 - DEBUG - Getting Stays 
+3.6.2022, 10:58:06 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 10:58:07 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 10:58:07 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:58:07 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 10:58:22 - DEBUG - Getting Stays 
+3.6.2022, 10:58:23 - DEBUG - Getting Stays 
+3.6.2022, 11:00:45 - DEBUG - Getting Stays 
+3.6.2022, 11:00:45 - DEBUG - Getting Stays 
+3.6.2022, 11:02:09 - DEBUG - Getting Stays 
+3.6.2022, 11:02:09 - DEBUG - Getting Stays 
+3.6.2022, 11:03:22 - DEBUG - Getting Stays 
+3.6.2022, 11:03:22 - DEBUG - Getting Stays 
+3.6.2022, 11:03:27 - DEBUG - Getting Stays 
+3.6.2022, 11:03:27 - DEBUG - Getting Stays 
+3.6.2022, 11:03:30 - DEBUG - Getting Stays 
+3.6.2022, 11:03:30 - DEBUG - Getting Stays 
+3.6.2022, 11:03:37 - DEBUG - Getting Stays 
+3.6.2022, 11:03:38 - DEBUG - Getting Stays 
+3.6.2022, 11:06:57 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 11:06:58 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 11:06:58 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:06:59 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:08:28 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:08:29 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:09:10 - DEBUG - Getting Stays 
+3.6.2022, 11:09:11 - DEBUG - Getting Stays 
+3.6.2022, 11:09:17 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 11:09:17 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 11:09:18 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:09:18 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:09:57 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:09:59 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:09:59 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:10:03 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:10:03 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:10:08 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:10:09 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:11:05 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 11:11:05 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 11:11:06 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:11:06 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:11:53 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:11:54 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:16:38 - DEBUG - Getting Stays 
+3.6.2022, 11:16:38 - DEBUG - Getting Stays 
+3.6.2022, 11:17:48 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 11:17:49 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 11:17:49 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:17:49 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:19:32 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:19:33 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:22:00 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 11:22:00 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 11:22:00 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:22:01 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:22:09 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:22:09 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:27:02 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 11:27:02 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 11:27:03 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:27:03 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:30:11 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 11:30:11 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 11:30:12 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 11:30:13 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:29:17 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 12:29:18 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 12:29:18 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:29:19 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:30:22 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:30:23 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:41:36 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:41:38 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:43:14 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:43:14 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:43:31 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:43:31 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:46:43 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:46:44 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:46:56 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:46:57 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:47:00 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:47:01 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:47:29 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:47:29 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:48:15 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 12:48:15 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 12:48:15 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 12:48:16 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:06:13 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:06:14 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:17:55 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:17:56 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:26:51 - DEBUG - auth.service - login with username: 1111 
+3.6.2022, 13:26:53 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+3.6.2022, 13:26:54 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:26:55 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:36:15 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:36:16 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:46:50 - INFO - Server is running on port: 3030 
+3.6.2022, 13:47:33 - DEBUG - auth.service - login with username: 1111 (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:47:34 - DEBUG - auth.service - login with username: 1111 (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:47:34 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:47:35 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:47:35 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 13:47:35 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+3.6.2022, 15:28:06 - DEBUG - Getting Stays 
+3.6.2022, 15:28:07 - DEBUG - Getting Stays 
+3.6.2022, 15:28:09 - DEBUG - Getting Stays 
+3.6.2022, 15:28:09 - DEBUG - Getting Stays 
+3.6.2022, 15:28:22 - DEBUG - Getting Stays 
+3.6.2022, 15:28:23 - DEBUG - Getting Stays 
+3.6.2022, 15:30:33 - DEBUG - Getting Stays 
+3.6.2022, 15:30:33 - DEBUG - Getting Stays 
+3.6.2022, 15:32:47 - DEBUG - Getting Stays 
+3.6.2022, 15:32:47 - DEBUG - Getting Stays 
+3.6.2022, 15:33:10 - DEBUG - Getting Stays 
+3.6.2022, 15:33:10 - DEBUG - Getting Stays 
+3.6.2022, 15:34:35 - DEBUG - Getting Stays 
+3.6.2022, 15:34:35 - DEBUG - Getting Stays 
+3.6.2022, 15:34:41 - DEBUG - Getting Stays 
+3.6.2022, 15:34:42 - DEBUG - Getting Stays 
+3.6.2022, 15:44:31 - DEBUG - Getting Stays 
+3.6.2022, 15:44:32 - DEBUG - Getting Stays 
+3.6.2022, 17:01:30 - DEBUG - Getting Stays 
+3.6.2022, 17:01:31 - DEBUG - Getting Stays 
+3.6.2022, 17:20:56 - DEBUG - Getting Stays 
+3.6.2022, 17:20:57 - DEBUG - Getting Stays 
+3.6.2022, 17:42:45 - DEBUG - Getting Stays 
+3.6.2022, 17:42:46 - DEBUG - Getting Stays 
+3.6.2022, 18:06:11 - DEBUG - Getting Stays 
+3.6.2022, 18:06:12 - DEBUG - Getting Stays 
+4.6.2022, 10:12:21 - DEBUG - Getting Stays 
+4.6.2022, 10:12:23 - DEBUG - Getting Stays 
+4.6.2022, 10:12:35 - DEBUG - Getting Stays 
+4.6.2022, 10:12:36 - DEBUG - Getting Stays 
+4.6.2022, 10:13:40 - DEBUG - Getting Stays 
+4.6.2022, 10:13:41 - DEBUG - Getting Stays 
+4.6.2022, 10:13:52 - DEBUG - Getting Stays 
+4.6.2022, 10:13:53 - DEBUG - Getting Stays 
+4.6.2022, 10:13:54 - DEBUG - Getting Stays 
+4.6.2022, 10:13:54 - DEBUG - Getting Stays 
+4.6.2022, 10:14:03 - DEBUG - Getting Stays 
+4.6.2022, 10:14:04 - DEBUG - Getting Stays 
+4.6.2022, 10:14:18 - DEBUG - Getting Stays 
+4.6.2022, 10:14:18 - DEBUG - Getting Stays 
+4.6.2022, 10:14:35 - DEBUG - Getting Stays 
+4.6.2022, 10:14:36 - DEBUG - Getting Stays 
+4.6.2022, 10:14:49 - DEBUG - Getting Stays 
+4.6.2022, 10:14:49 - DEBUG - Getting Stays 
+4.6.2022, 10:15:00 - DEBUG - Getting Stays 
+4.6.2022, 10:15:01 - DEBUG - Getting Stays 
+4.6.2022, 10:15:16 - DEBUG - Getting Stays 
+4.6.2022, 10:15:17 - DEBUG - Getting Stays 
+4.6.2022, 10:15:26 - DEBUG - Getting Stays 
+4.6.2022, 10:15:27 - DEBUG - Getting Stays 
+4.6.2022, 10:15:39 - DEBUG - Getting Stays 
+4.6.2022, 10:15:41 - DEBUG - Getting Stays 
+4.6.2022, 10:15:46 - DEBUG - Getting Stays 
+4.6.2022, 10:15:47 - DEBUG - Getting Stays 
+4.6.2022, 10:16:07 - DEBUG - auth.service - login with username: 1111 
+4.6.2022, 10:16:08 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+4.6.2022, 10:16:08 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:16:09 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:27:11 - DEBUG - Getting Stays 
+4.6.2022, 10:27:12 - DEBUG - Getting Stays 
+4.6.2022, 10:27:58 - DEBUG - auth.service - login with username: 1111 
+4.6.2022, 10:27:58 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+4.6.2022, 10:27:58 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:27:59 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:28:56 - DEBUG - auth.service - login with username: 1111 (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:28:56 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:28:56 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:28:57 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:29:01 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:29:02 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:30:19 - DEBUG - auth.service - login with username: 1111 
+4.6.2022, 10:30:19 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+4.6.2022, 10:30:20 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:30:20 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 10:33:01 - DEBUG - Getting Stays 
+4.6.2022, 10:33:01 - DEBUG - Getting Stays 
+4.6.2022, 10:36:04 - DEBUG - Getting Stays 
+4.6.2022, 10:36:05 - DEBUG - Getting Stays 
+4.6.2022, 10:37:10 - DEBUG - Getting Stays 
+4.6.2022, 10:37:11 - DEBUG - Getting Stays 
+4.6.2022, 10:38:34 - DEBUG - Getting Stays 
+4.6.2022, 10:38:34 - DEBUG - Getting Stays 
+4.6.2022, 10:38:46 - DEBUG - Getting Stays 
+4.6.2022, 10:38:48 - DEBUG - Getting Stays 
+4.6.2022, 10:38:50 - DEBUG - Getting Stays 
+4.6.2022, 10:38:51 - DEBUG - Getting Stays 
+4.6.2022, 10:41:30 - DEBUG - Getting Stays 
+4.6.2022, 10:41:30 - DEBUG - Getting Stays 
+4.6.2022, 10:50:44 - DEBUG - Getting Stays 
+4.6.2022, 10:50:45 - DEBUG - Getting Stays 
+4.6.2022, 10:53:47 - DEBUG - Getting Stays 
+4.6.2022, 10:53:48 - DEBUG - Getting Stays 
+4.6.2022, 11:17:36 - DEBUG - Getting Stays 
+4.6.2022, 11:17:38 - DEBUG - Getting Stays 
+4.6.2022, 11:22:11 - DEBUG - auth.service - login with username: 1111 
+4.6.2022, 11:22:12 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+4.6.2022, 11:22:12 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 11:22:12 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 11:26:22 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 11:26:22 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 11:29:28 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 11:29:29 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 11:48:10 - INFO - Server is running on port: 3030 
+4.6.2022, 11:49:53 - DEBUG - auth.service - signup with username: dgdg, fullname: dgdg dgdg (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 11:49:54 - DEBUG - auth.route - new account created: {"username":"dgdg","password":"$2b$10$U/QgBVKMQMHuAIHLR4gC9u7lPgw8itopdq.2SpPpkklaRVaph0cVu","fullname":"dgdg dgdg","isHost":false,"wishList":[],"_id":"629b1cb2b5b2682aade4683f"} (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 11:49:54 - DEBUG - auth.service - login with username: dgdg (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 11:49:55 - INFO - User signup: | {"_id":"629b1cb2b5b2682aade4683f","username":"dgdg","fullname":"dgdg dgdg","imgUrl":null,"isHost":false,"wishList":[]} (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 11:49:55 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 11:49:56 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:15:51 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:15:53 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:17:06 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:17:07 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:17:14 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:17:15 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:17:27 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:17:27 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:19:22 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:19:23 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:34:10 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:34:11 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:34:16 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:34:16 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:36:57 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:36:58 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:38:45 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:38:45 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:38:50 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+4.6.2022, 12:38:50 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
+>>>>>>> 71a934f7d81ab456424072333a961ce66147e291
+>>>>>>> origin/main
