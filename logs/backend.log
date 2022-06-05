@@ -1408,3 +1408,306 @@
 4.6.2022, 12:38:50 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
 4.6.2022, 12:38:50 - DEBUG - Getting Stays (userId: 629b1cb2b5b2682aade4683f)
 >>>>>>> 71a934f7d81ab456424072333a961ce66147e291
+4.6.2022, 12:58:05 - INFO - Server is running on port: 3030 
+4.6.2022, 12:58:11 - DEBUG - Getting Stays (userId: 6299c566c75826bc2c43b8c4)
+4.6.2022, 12:58:13 - DEBUG - Getting Stays (userId: 6299c566c75826bc2c43b8c4)
+4.6.2022, 12:58:26 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 6299c566c75826bc2c43b8c4)
+4.6.2022, 12:58:27 - INFO - User login:  | {"_id":"6299c566c75826bc2c43b8c4","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"score":100} (userId: 6299c566c75826bc2c43b8c4)
+4.6.2022, 12:58:27 - DEBUG - Getting Stays (userId: 6299c566c75826bc2c43b8c4)
+4.6.2022, 12:58:27 - DEBUG - Getting Stays (userId: 6299c566c75826bc2c43b8c4)
+4.6.2022, 13:02:33 - DEBUG - auth.service - signup with username: amit@gmail.com, fullname: amit doanias 
+4.6.2022, 13:02:33 - DEBUG - auth.route - new account created: {"username":"amit@gmail.com","password":"$2b$10$4CuTiw4oFEOQ/HH7vkWj6Ox1BWQr8tUuLGSeAVX80b8kh7y.YY2RG","fullname":"amit doanias","isHost":false,"wishList":[],"_id":"629b2db94855084f88e8ff5f"} 
+4.6.2022, 13:02:33 - DEBUG - auth.service - login with username: amit@gmail.com 
+4.6.2022, 13:02:33 - INFO - User signup: | {"_id":"629b2db94855084f88e8ff5f","username":"amit@gmail.com","fullname":"amit doanias","imgUrl":null,"isHost":false,"wishList":[]} 
+4.6.2022, 13:02:33 - DEBUG - Getting Stays (userId: 629b2db94855084f88e8ff5f)
+4.6.2022, 13:02:34 - DEBUG - Getting Stays (userId: 629b2db94855084f88e8ff5f)
+4.6.2022, 13:18:34 - DEBUG - Getting Stays (userId: 629b2db94855084f88e8ff5f)
+4.6.2022, 13:18:34 - DEBUG - Getting Stays (userId: 629b2db94855084f88e8ff5f)
+4.6.2022, 13:36:50 - DEBUG - Getting Stays (userId: 629b2db94855084f88e8ff5f)
+4.6.2022, 13:36:51 - DEBUG - Getting Stays (userId: 629b2db94855084f88e8ff5f)
+4.6.2022, 13:42:09 - DEBUG - Getting Stays (userId: 629b2db94855084f88e8ff5f)
+4.6.2022, 13:42:09 - DEBUG - Getting Stays (userId: 629b2db94855084f88e8ff5f)
+4.6.2022, 13:44:23 - DEBUG - Getting Stays (userId: 629b2db94855084f88e8ff5f)
+4.6.2022, 13:44:24 - DEBUG - Getting Stays (userId: 629b2db94855084f88e8ff5f)
+4.6.2022, 14:59:35 - DEBUG - Getting Stays (userId: 629b2db94855084f88e8ff5f)
+4.6.2022, 15:01:47 - DEBUG - Getting Stays (userId: 629b2db94855084f88e8ff5f)
+4.6.2022, 15:01:48 - DEBUG - Getting Stays (userId: 629b2db94855084f88e8ff5f)
+4.6.2022, 15:06:49 - DEBUG - Getting Stays (userId: 629b2db94855084f88e8ff5f)
+4.6.2022, 15:06:49 - DEBUG - Getting Stays (userId: 629b2db94855084f88e8ff5f)
+4.6.2022, 15:09:14 - DEBUG - Getting Stays (userId: 629b2db94855084f88e8ff5f)
+4.6.2022, 15:09:15 - DEBUG - Getting Stays (userId: 629b2db94855084f88e8ff5f)
+4.6.2022, 15:11:10 - DEBUG - Getting Stays (userId: 629b2db94855084f88e8ff5f)
+4.6.2022, 15:11:10 - DEBUG - Getting Stays (userId: 629b2db94855084f88e8ff5f)
+4.6.2022, 15:13:23 - DEBUG - auth.service - login with username: 1111 
+4.6.2022, 15:13:23 - INFO - User login:  | {"_id":"6298a4510cde1754a3a3b45a","username":"1111","fullname":"1111 1111","imgUrl":"https://randomuser.me/api/portraits/women/55.jpg","score":100} 
+4.6.2022, 15:13:24 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 15:13:24 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+4.6.2022, 15:15:28 - DEBUG - auth.service - signup with username: eli@gmail.com, fullname: eli turgeman 
+4.6.2022, 15:15:28 - DEBUG - auth.route - new account created: {"username":"eli@gmail.com","password":"$2b$10$u5yGwNFTf9kNm0Q3xmgxMuycA5/Hz1MtgKuTdV1GjR0Y/lI9VWpcW","fullname":"eli turgeman","isHost":false,"wishList":[],"_id":"629b4ce04855084f88e8ff60"} 
+4.6.2022, 15:15:28 - DEBUG - auth.service - login with username: eli@gmail.com 
+4.6.2022, 15:15:28 - INFO - User signup: | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":[]} 
+4.6.2022, 15:15:29 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 15:15:29 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 15:15:57 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 15:15:58 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 15:43:41 - DEBUG - Getting Stays 
+4.6.2022, 15:43:42 - DEBUG - Getting Stays 
+4.6.2022, 15:43:52 - DEBUG - Getting Stays 
+4.6.2022, 15:43:52 - DEBUG - Getting Stays 
+4.6.2022, 16:24:51 - DEBUG - Getting Stays 
+4.6.2022, 16:24:52 - DEBUG - Getting Stays 
+4.6.2022, 16:26:54 - DEBUG - Getting Stays 
+4.6.2022, 16:26:54 - DEBUG - Getting Stays 
+4.6.2022, 16:28:35 - DEBUG - Getting Stays 
+4.6.2022, 16:28:36 - DEBUG - Getting Stays 
+4.6.2022, 16:28:42 - DEBUG - Getting Stays 
+4.6.2022, 16:28:42 - DEBUG - Getting Stays 
+4.6.2022, 16:30:09 - DEBUG - Getting Stays 
+4.6.2022, 16:30:09 - DEBUG - Getting Stays 
+4.6.2022, 16:32:07 - DEBUG - Getting Stays 
+4.6.2022, 16:32:07 - DEBUG - Getting Stays 
+4.6.2022, 16:32:21 - DEBUG - Getting Stays 
+4.6.2022, 16:32:22 - DEBUG - Getting Stays 
+4.6.2022, 16:32:42 - DEBUG - Getting Stays 
+4.6.2022, 16:32:42 - DEBUG - Getting Stays 
+4.6.2022, 16:34:26 - DEBUG - Getting Stays 
+4.6.2022, 16:34:26 - DEBUG - Getting Stays 
+4.6.2022, 16:35:01 - DEBUG - Getting Stays 
+4.6.2022, 16:35:02 - DEBUG - Getting Stays 
+4.6.2022, 16:37:43 - DEBUG - Getting Stays 
+4.6.2022, 16:37:43 - DEBUG - Getting Stays 
+4.6.2022, 16:50:12 - DEBUG - Getting Stays 
+4.6.2022, 16:50:13 - DEBUG - Getting Stays 
+4.6.2022, 16:51:19 - DEBUG - Getting Stays 
+4.6.2022, 16:51:19 - DEBUG - Getting Stays 
+4.6.2022, 16:52:32 - DEBUG - Getting Stays 
+4.6.2022, 16:52:33 - DEBUG - Getting Stays 
+4.6.2022, 16:54:32 - DEBUG - Getting Stays 
+4.6.2022, 16:54:33 - DEBUG - Getting Stays 
+4.6.2022, 16:54:38 - DEBUG - Getting Stays 
+4.6.2022, 16:54:38 - DEBUG - Getting Stays 
+4.6.2022, 16:55:32 - DEBUG - Getting Stays 
+4.6.2022, 16:55:32 - DEBUG - Getting Stays 
+4.6.2022, 16:56:37 - DEBUG - Getting Stays 
+4.6.2022, 16:56:37 - DEBUG - Getting Stays 
+4.6.2022, 16:58:55 - DEBUG - Getting Stays 
+4.6.2022, 16:58:55 - DEBUG - Getting Stays 
+4.6.2022, 16:59:06 - DEBUG - Getting Stays 
+4.6.2022, 16:59:07 - DEBUG - Getting Stays 
+4.6.2022, 16:59:22 - DEBUG - Getting Stays 
+4.6.2022, 16:59:22 - DEBUG - Getting Stays 
+4.6.2022, 17:00:21 - DEBUG - Getting Stays 
+4.6.2022, 17:00:21 - DEBUG - Getting Stays 
+4.6.2022, 17:00:38 - DEBUG - Getting Stays 
+4.6.2022, 17:00:39 - DEBUG - Getting Stays 
+4.6.2022, 17:00:45 - DEBUG - Getting Stays 
+4.6.2022, 17:00:46 - DEBUG - Getting Stays 
+4.6.2022, 17:01:47 - DEBUG - Getting Stays 
+4.6.2022, 17:01:47 - DEBUG - Getting Stays 
+4.6.2022, 17:01:55 - DEBUG - Getting Stays 
+4.6.2022, 17:01:56 - DEBUG - Getting Stays 
+4.6.2022, 17:02:10 - DEBUG - Getting Stays 
+4.6.2022, 17:02:11 - DEBUG - Getting Stays 
+4.6.2022, 17:02:16 - DEBUG - Getting Stays 
+4.6.2022, 17:02:16 - DEBUG - Getting Stays 
+4.6.2022, 17:03:33 - DEBUG - Getting Stays 
+4.6.2022, 17:03:34 - DEBUG - Getting Stays 
+4.6.2022, 17:04:48 - DEBUG - Getting Stays 
+4.6.2022, 17:04:48 - DEBUG - Getting Stays 
+4.6.2022, 17:26:04 - DEBUG - Getting Stays 
+4.6.2022, 17:26:05 - DEBUG - Getting Stays 
+4.6.2022, 17:26:20 - DEBUG - Getting Stays 
+4.6.2022, 17:26:20 - DEBUG - Getting Stays 
+4.6.2022, 17:28:42 - DEBUG - Getting Stays 
+4.6.2022, 17:28:42 - DEBUG - Getting Stays 
+4.6.2022, 17:28:48 - DEBUG - Getting Stays 
+4.6.2022, 17:28:49 - DEBUG - Getting Stays 
+4.6.2022, 17:29:24 - DEBUG - Getting Stays 
+4.6.2022, 17:29:24 - DEBUG - Getting Stays 
+4.6.2022, 17:30:57 - DEBUG - Getting Stays 
+4.6.2022, 17:30:58 - DEBUG - Getting Stays 
+4.6.2022, 17:31:04 - DEBUG - Getting Stays 
+4.6.2022, 17:31:05 - DEBUG - Getting Stays 
+4.6.2022, 17:31:26 - DEBUG - Getting Stays 
+4.6.2022, 17:31:27 - DEBUG - Getting Stays 
+4.6.2022, 17:32:07 - DEBUG - Getting Stays 
+4.6.2022, 17:32:07 - DEBUG - Getting Stays 
+4.6.2022, 17:32:19 - DEBUG - Getting Stays 
+4.6.2022, 17:32:20 - DEBUG - Getting Stays 
+4.6.2022, 17:32:53 - DEBUG - Getting Stays 
+4.6.2022, 17:32:53 - DEBUG - Getting Stays 
+4.6.2022, 17:34:02 - DEBUG - Getting Stays 
+4.6.2022, 17:34:03 - DEBUG - Getting Stays 
+4.6.2022, 17:34:28 - DEBUG - Getting Stays 
+4.6.2022, 17:34:28 - DEBUG - Getting Stays 
+4.6.2022, 17:34:43 - DEBUG - Getting Stays 
+4.6.2022, 17:34:43 - DEBUG - Getting Stays 
+4.6.2022, 17:34:53 - DEBUG - Getting Stays 
+4.6.2022, 17:34:53 - DEBUG - Getting Stays 
+4.6.2022, 17:36:12 - DEBUG - Getting Stays 
+4.6.2022, 17:36:12 - DEBUG - Getting Stays 
+4.6.2022, 17:36:29 - DEBUG - Getting Stays 
+4.6.2022, 17:36:29 - DEBUG - Getting Stays 
+4.6.2022, 17:36:37 - DEBUG - Getting Stays 
+4.6.2022, 17:36:37 - DEBUG - Getting Stays 
+4.6.2022, 17:41:10 - DEBUG - Getting Stays 
+4.6.2022, 17:41:11 - DEBUG - Getting Stays 
+4.6.2022, 17:41:25 - DEBUG - Getting Stays 
+4.6.2022, 17:41:25 - DEBUG - Getting Stays 
+4.6.2022, 17:41:35 - DEBUG - Getting Stays 
+4.6.2022, 17:41:36 - DEBUG - Getting Stays 
+4.6.2022, 17:42:31 - DEBUG - Getting Stays 
+4.6.2022, 17:42:31 - DEBUG - Getting Stays 
+4.6.2022, 17:42:52 - DEBUG - auth.service - login with username: eli@gmail.com 
+4.6.2022, 17:42:52 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":[]} 
+4.6.2022, 17:42:52 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:42:53 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:44:57 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:44:58 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:45:12 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:45:13 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:45:28 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:45:29 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:48:41 - DEBUG - Getting Stays 
+4.6.2022, 17:48:41 - DEBUG - Getting Stays 
+4.6.2022, 17:49:54 - DEBUG - auth.service - login with username: eli@gmail.com 
+4.6.2022, 17:49:54 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":["6297cb852f760e2ec9f8244b","6297cb852f760e2ec9f82450","6297cb852f760e2ec9f8244c"]} 
+4.6.2022, 17:49:54 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:49:55 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:50:26 - DEBUG - auth.service - login with username: eli@gmail.com 
+4.6.2022, 17:50:27 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":["6297cb852f760e2ec9f8244b","6297cb852f760e2ec9f82450","6297cb852f760e2ec9f8244c","6297cb852f760e2ec9f8244d"]} 
+4.6.2022, 17:50:27 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:50:27 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:50:47 - DEBUG - auth.service - login with username: eli@gmail.com 
+4.6.2022, 17:50:47 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":["6297cb852f760e2ec9f8244b","6297cb852f760e2ec9f82450","6297cb852f760e2ec9f8244c","6297cb852f760e2ec9f8244d"]} 
+4.6.2022, 17:50:48 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:50:48 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:51:09 - DEBUG - Getting Stays 
+4.6.2022, 17:51:10 - DEBUG - Getting Stays 
+4.6.2022, 17:53:40 - DEBUG - Getting Stays 
+4.6.2022, 17:53:40 - DEBUG - Getting Stays 
+4.6.2022, 17:53:55 - DEBUG - auth.service - login with username: eli@gmail.com 
+4.6.2022, 17:53:56 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":["6297cb852f760e2ec9f8244b","6297cb852f760e2ec9f82450","6297cb852f760e2ec9f8244d"]} 
+4.6.2022, 17:53:56 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:53:56 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:54:54 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:54:54 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:55:02 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:55:02 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:55:27 - DEBUG - auth.service - login with username: eli@gmail.com 
+4.6.2022, 17:55:27 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":["6297cb852f760e2ec9f8244b","6297cb852f760e2ec9f82450","6297cb852f760e2ec9f8244d"]} 
+4.6.2022, 17:55:27 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:55:27 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:56:42 - DEBUG - Getting Stays 
+4.6.2022, 17:56:42 - DEBUG - Getting Stays 
+4.6.2022, 17:56:49 - DEBUG - auth.service - login with username: eli@gmail.com 
+4.6.2022, 17:56:49 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":["6297cb852f760e2ec9f8244b","6297cb852f760e2ec9f82450"]} 
+4.6.2022, 17:56:50 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:56:50 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:57:02 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:57:02 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:57:18 - DEBUG - Getting Stays 
+4.6.2022, 17:57:18 - DEBUG - Getting Stays 
+4.6.2022, 17:57:28 - DEBUG - auth.service - login with username: eli@gmail.com 
+4.6.2022, 17:57:28 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":["6297cb852f760e2ec9f82450"]} 
+4.6.2022, 17:57:28 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:57:28 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:57:58 - DEBUG - auth.service - login with username: eli@gmail.com 
+4.6.2022, 17:57:59 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":["6297cb852f760e2ec9f82450","6297cb852f760e2ec9f8244e"]} 
+4.6.2022, 17:57:59 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:58:00 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:58:04 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:58:04 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:58:20 - DEBUG - auth.service - login with username: eli@gmail.com 
+4.6.2022, 17:58:20 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":["6297cb852f760e2ec9f82450","6297cb852f760e2ec9f8244e","6297cb852f760e2ec9f8244d"]} 
+4.6.2022, 17:58:20 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:58:20 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:58:36 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 17:58:37 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 18:00:59 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 18:00:59 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 18:01:17 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 18:01:18 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 18:01:23 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 18:01:23 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 18:01:33 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 18:01:34 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 18:01:44 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 18:01:45 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 18:04:18 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 18:04:18 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 18:04:23 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 18:04:23 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 18:04:28 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 18:04:28 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 18:04:32 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 18:04:32 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 18:04:40 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 18:04:41 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 18:05:07 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+4.6.2022, 18:05:07 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+5.6.2022, 0:21:29 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+5.6.2022, 0:21:49 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+5.6.2022, 0:21:51 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+5.6.2022, 0:22:11 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+5.6.2022, 0:22:21 - DEBUG - Getting Stays 
+5.6.2022, 0:22:38 - DEBUG - Getting Stays 
+5.6.2022, 0:22:58 - DEBUG - Getting Stays 
+5.6.2022, 0:26:38 - DEBUG - auth.service - login with username: eli@gmail.com 
+5.6.2022, 0:26:40 - DEBUG - auth.service - login with username: eli@gmail.com 
+5.6.2022, 0:26:46 - DEBUG - auth.service - login with username: eli@gmail.com 
+5.6.2022, 0:26:53 - DEBUG - auth.service - login with username: eli@gmail.com 
+5.6.2022, 0:26:58 - DEBUG - auth.service - login with username: eli@gmail.com 
+5.6.2022, 0:26:58 - DEBUG - auth.service - login with username: eli@gmail.com 
+5.6.2022, 0:27:08 - ERROR - while finding user eli@gmail.com | MongoServerSelectionError: getaddrinfo ENOTFOUND ac-gw52rjv-shard-00-00.qiiry8f.mongodb.net 
+5.6.2022, 0:27:08 - ERROR - Failed to Login MongoServerSelectionError: getaddrinfo ENOTFOUND ac-gw52rjv-shard-00-00.qiiry8f.mongodb.net 
+5.6.2022, 0:27:08 - DEBUG - auth.service - login with username: eli@gmail.com 
+5.6.2022, 0:27:10 - ERROR - while finding user eli@gmail.com | MongoServerSelectionError: getaddrinfo ENOTFOUND ac-gw52rjv-shard-00-00.qiiry8f.mongodb.net 
+5.6.2022, 0:27:10 - ERROR - Failed to Login MongoServerSelectionError: getaddrinfo ENOTFOUND ac-gw52rjv-shard-00-00.qiiry8f.mongodb.net 
+5.6.2022, 0:27:10 - DEBUG - auth.service - login with username: eli@gmail.com 
+5.6.2022, 0:27:16 - ERROR - Failed to Login MongoServerSelectionError: getaddrinfo ENOTFOUND ac-gw52rjv-shard-00-00.qiiry8f.mongodb.net 
+5.6.2022, 0:27:16 - ERROR - while finding user eli@gmail.com | MongoServerSelectionError: getaddrinfo ENOTFOUND ac-gw52rjv-shard-00-00.qiiry8f.mongodb.net 
+5.6.2022, 0:27:16 - DEBUG - auth.service - login with username: eli@gmail.com 
+5.6.2022, 0:27:23 - ERROR - while finding user eli@gmail.com | MongoServerSelectionError: getaddrinfo ENOTFOUND ac-gw52rjv-shard-00-00.qiiry8f.mongodb.net 
+5.6.2022, 0:27:23 - ERROR - Failed to Login MongoServerSelectionError: getaddrinfo ENOTFOUND ac-gw52rjv-shard-00-00.qiiry8f.mongodb.net 
+5.6.2022, 0:27:23 - DEBUG - auth.service - login with username: eli@gmail.com 
+5.6.2022, 0:27:28 - ERROR - while finding user eli@gmail.com | MongoServerSelectionError: getaddrinfo ENOTFOUND ac-gw52rjv-shard-00-00.qiiry8f.mongodb.net 
+5.6.2022, 0:27:28 - ERROR - Failed to Login MongoServerSelectionError: getaddrinfo ENOTFOUND ac-gw52rjv-shard-00-00.qiiry8f.mongodb.net 
+5.6.2022, 0:27:28 - DEBUG - auth.service - login with username: eli@gmail.com 
+5.6.2022, 0:27:28 - ERROR - while finding user eli@gmail.com | MongoServerSelectionError: getaddrinfo ENOTFOUND ac-gw52rjv-shard-00-00.qiiry8f.mongodb.net 
+5.6.2022, 0:27:28 - ERROR - Failed to Login MongoServerSelectionError: getaddrinfo ENOTFOUND ac-gw52rjv-shard-00-00.qiiry8f.mongodb.net 
+5.6.2022, 0:27:28 - DEBUG - auth.service - login with username: eli@gmail.com 
+5.6.2022, 0:28:09 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":["6297cb852f760e2ec9f8244c"]} 
+5.6.2022, 0:28:10 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":["6297cb852f760e2ec9f8244c"]} 
+5.6.2022, 0:28:10 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":["6297cb852f760e2ec9f8244c"]} 
+5.6.2022, 0:28:10 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":["6297cb852f760e2ec9f8244c"]} 
+5.6.2022, 0:28:10 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":["6297cb852f760e2ec9f8244c"]} 
+5.6.2022, 0:28:10 - DEBUG - auth.service - login with username: eli@gmail.com 
+5.6.2022, 0:28:10 - DEBUG - auth.service - login with username: eli@gmail.com 
+5.6.2022, 0:28:10 - DEBUG - auth.service - login with username: eli@gmail.com 
+5.6.2022, 0:28:10 - DEBUG - auth.service - login with username: eli@gmail.com 
+5.6.2022, 0:28:10 - DEBUG - auth.service - login with username: eli@gmail.com 
+5.6.2022, 0:28:11 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":["6297cb852f760e2ec9f8244c"]} 
+5.6.2022, 0:28:11 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":["6297cb852f760e2ec9f8244c"]} 
+5.6.2022, 0:28:12 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":["6297cb852f760e2ec9f8244c"]} 
+5.6.2022, 0:28:11 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":["6297cb852f760e2ec9f8244c"]} 
+5.6.2022, 0:28:12 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":["6297cb852f760e2ec9f8244c"]} 
+5.6.2022, 0:28:12 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":["6297cb852f760e2ec9f8244c"]} 
+5.6.2022, 10:09:07 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+5.6.2022, 10:09:08 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+5.6.2022, 10:15:03 - DEBUG - Getting Stays 
+5.6.2022, 10:15:03 - DEBUG - Getting Stays 
+5.6.2022, 10:16:21 - DEBUG - Getting Stays 
+5.6.2022, 10:16:21 - DEBUG - Getting Stays 
+5.6.2022, 10:16:50 - DEBUG - auth.service - login with username: eli@gmail.com 
+5.6.2022, 10:16:51 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":["6297cb852f760e2ec9f8244c","6297cb852f760e2ec9f8244d"]} 
+5.6.2022, 10:16:51 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+5.6.2022, 10:16:51 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+5.6.2022, 10:17:56 - DEBUG - Getting Stays 
+5.6.2022, 10:17:57 - DEBUG - Getting Stays 
+5.6.2022, 10:18:11 - DEBUG - auth.service - login with username: eli@gmail.com 
+5.6.2022, 10:18:12 - INFO - User login:  | {"_id":"629b4ce04855084f88e8ff60","username":"eli@gmail.com","fullname":"eli turgeman","imgUrl":null,"isHost":false,"wishList":["6297cb852f760e2ec9f8244c","6297cb852f760e2ec9f8244d"]} 
+5.6.2022, 10:18:12 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+5.6.2022, 10:18:12 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+5.6.2022, 10:18:25 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
+5.6.2022, 10:18:26 - DEBUG - Getting Stays (userId: 629b4ce04855084f88e8ff60)
