@@ -31,7 +31,7 @@ async function addStay(req, res) {
     try {
         const stay = req.body;
         const addedStay = await stayService.add(stay)
-        console.log('addedStay from controller', addedStay)
+      
         res.json(addedStay)
     } catch (err) {
         logger.error('Failed to add stay', err)

@@ -3,8 +3,9 @@ const logger = require('../../services/logger.service')
 const ObjectId = require('mongodb').ObjectId
 
 async function query(filterBy) {
-    // const criteria = _buildCriteria(filterBy)
-    const criteria = {}
+    console.log('FilterBy', filterBy);
+    const criteria = _buildCriteria(filterBy)
+    // const criteria = { "address.country": "Italy" }
 
     try {
         const collection = await dbService.getCollection('stay')
@@ -57,14 +58,63 @@ async function update(stay) {
         await collection.updateOne({ _id: id }, { $set: { ...stay } })
         return stay
     } catch (err) {
-        logger.error(`cannot update stay ${stayId}`, err)
+        logger.error(`cannot update stay ${stay._id}`, err)
         throw err
     }
 }
 
 function _buildCriteria(filterBy) {
 
-    // const criteria = {}
+    const { category, searchBy, properties } = filterBy
+    const criteria = {}
+    
+
+    if (category) criteria.category = category
+
+    const newSearchBy = JSON.parse(searchBy)
+
+    const  {location,guestsNum, dates}=newSearchBy
+    if (location) {
+        const regex = new RegExp(newSearchBy.location, 'i')
+        criteria['address.country'] = {$regex: regex }
+        // criteria.address = {$regex: regex }
+        // criteria["address.city"] = {$regex: regex }
+        // criteria["address.region"] = {$regex: regex }
+    }
+    if (guestsNum >1){
+        criteria.guests = {$gte:guestsNum }
+    }
+    
+    const newProperties = JSON.parse(properties)
+    
+    const { price, beds, roomType, amenities } = newProperties
+    
+    if (beds){
+        criteria.bedrooms = {$gte:beds }
+    }
+    if (roomType['Entire place']){
+        criteria.roomType = 'Entire Place'
+    }else if (roomType['Private room']){
+        criteria.roomType = 'Private room'
+    }else if (roomType['Shared room']){
+        criteria.roomType = 'Shared room'
+    }
+
+    let amenitiesKeys = Object.keys(amenities)
+    let filterdAmenities = []
+    amenitiesKeys.forEach(amenitie => {
+        if (amenities[amenitie]) {
+            filterdAmenities.push(amenitie)
+        }
+    })
+
+    if (filterdAmenities.length) {
+        criteria.amenities = { $all: filterdAmenities }
+    }
+
+
+
+
     // if (filterBy.name) {
     //     const regex = new RegExp(filterBy.name, 'i')
     //     criteria.name = { $regex: regex }
@@ -77,7 +127,7 @@ function _buildCriteria(filterBy) {
     //     console.log('criteria', criteria)
     //     console.log('labelsssssssss', filterBy.labels)
     // }
-    // return criteria
+    return criteria
 
 }
 
