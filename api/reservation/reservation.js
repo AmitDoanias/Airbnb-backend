@@ -15,35 +15,39 @@ async function getReservations(req, res) {
     }
 }
 
-// async function deletereservation(req, res) {
-//     try {
-//         const deletedCount = await reservationService.remove(req.params.id)
-//         if (deletedCount === 1) {
-//             res.send({ msg: 'Deleted successfully' })
-//         } else {
-//             res.status(400).send({ err: 'Cannot remove reservation' })
-//         }
-//     } catch (err) {
-//         logger.error('Failed to delete reservation', err)
-//         res.status(500).send({ err: 'Failed to delete reservation' })
-//     }
-// }
+
+
+async function updateReservation(req, res) {
+    try {
+        console.log('UPDATFFFSAFAEINGs JUST');
+        const reservation = req.body;
+        const updatedReservation = await reservationService.update(reservation)
+        console.log('UPDATFFFSAFAEING',updatedReservation);
+        
+        socketService.emitToUser({ type: 'reservation-handled', data: reservation.status, userId: reservation.buyerId })
+
+        res.json(updatedReservation)
+    } catch (err) {
+        logger.error('Failed to update stay', err)
+        res.status(500).send({ err: 'Failed to update stay' })
+
+    }
+}
 
 
 async function addReservation(req, res) {
-    console.log('GETTOING USER');
+
     var loggedinUser = authService.validateToken(req.cookies.loginToken)
-    
+
     try {
         var reservation = req.body
-        console.log('RESER USER',reservation);
         reservation.buyerId = loggedinUser._id
         reservation.stayId = ObjectId(reservation.stayId)
         reservation = await reservationService.add(reservation)
 
         // socketService.broadcast({type: 'reservation-added', data: reservation, userId: reservation.buyerId})
         // socketService.emitToUser({type: 'reservation-about-you', data: reservation, userId: reservation.aboutUserId})
-        
+
         // const fullUser = await userService.getById(loggedinUser._id)
         // socketService.emitTo({type: 'user-updated', data: fullUser, label: fullUser._id})
 
@@ -58,6 +62,6 @@ async function addReservation(req, res) {
 
 module.exports = {
     getReservations,
-    addReservation
-    // deletereservation,
+    addReservation,
+    updateReservation
 }
