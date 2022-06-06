@@ -3,10 +3,7 @@ const logger = require('../../services/logger.service')
 const ObjectId = require('mongodb').ObjectId
 
 async function query(filterBy) {
-    console.log('FilterddsadsadBy', filterBy);
     const criteria = _buildCriteria(filterBy)
-    console.log('Criterirarara', criteria);
-    // const criteria = { "address.country": "Italy" }
 
     try {
         const collection = await dbService.getCollection('stay')
