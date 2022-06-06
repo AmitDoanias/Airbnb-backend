@@ -7,6 +7,7 @@ async function query(filterBy = {}) {
     try {
         const criteria = _buildCriteria(filterBy)
         const collection = await dbService.getCollection('reservation')
+     
         // let reservations = await collection.find(criteria).toArray()
         // console.log('RESERVATIONS',reservations)
         let reservations = await collection.aggregate([
@@ -27,7 +28,6 @@ async function query(filterBy = {}) {
             },
             
         ]).toArray()
-        // console.log('RESERVATIONS after',reservations);
         reservations = reservations.map(reservation => {
             reservation.listingName = reservation.listingName.name
             reservation.guests = reservation.guests.total
@@ -38,7 +38,6 @@ async function query(filterBy = {}) {
             return reservation
         })
         
-        console.log('RESERVATIONS after??????????????');
         return reservations
     } catch (err) {
         logger.error('cannot find reservations', err)
@@ -52,6 +51,7 @@ async function remove(reservationId) {
         const store = asyncLocalStorage.getStore()
         const { loggedinUser } = store
         const collection = await dbService.getCollection('reservation')
+    
         // remove only if user is owner/admin
         const criteria = { _id: ObjectId(reservationId) }
         if (!loggedinUser.isAdmin) criteria.byUserId = ObjectId(loggedinUser._id)
@@ -85,7 +85,8 @@ async function add(reservation) {
 
 function _buildCriteria(filterBy) {
     const criteria = {}
-    if (filterBy.hostId) criteria.hostId = filterBy.hostId
+    // if (filterBy.hostId) criteria.hostId = filterBy.hostId
+    // console.log('CREITIETIEITE',criteria);
     return criteria
 }
 
