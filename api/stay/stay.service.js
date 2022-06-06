@@ -62,42 +62,63 @@ async function update(stay) {
 }
 
 function _buildCriteria(filterBy) {
-
     const { category, searchBy, properties, hostId } = filterBy
-    console.log('HOSTTTSTSTS', hostId);
-    const criteria = {}
-
-
-    if (category) criteria.category = category
+  
+    let criteria = {}
 
     if (searchBy) {
         const newSearchBy = JSON.parse(searchBy)
-        const { location, guestsNum, dates } = newSearchBy
+        const { location, guestsNum } = newSearchBy
+
         if (location) {
             const regex = new RegExp(newSearchBy.location, 'i')
-            criteria['address.country'] = { $regex: regex }
-            // criteria.address = {$regex: regex }
-            // criteria["address.city"] = {$regex: regex }
-            // criteria["address.region"] = {$regex: regex }
+            criteria = {
+                $or: [
+                    { 'address.country': { $regex: regex } },
+                    { 'address.city': { $regex: regex } },
+                    { 'address.region': { $regex: regex } }
+                ]
+            }
         }
         if (guestsNum > 1) {
             criteria.guests = { $gte: guestsNum }
         }
     }
 
+    // if (category) {
+    //     criteria.category = { $all: category }
+    // }
+      if (category) criteria.category = category
+
     if (properties) {
         const newProperties = JSON.parse(properties)
-        const { price, beds, roomType, amenities } = newProperties
+        const { price,beds, roomType, amenities } = newProperties
 
         if (beds) {
             criteria.bedrooms = { $gte: beds }
         }
-        if (roomType['Entire place']) {
-            criteria.roomType = 'Entire Place'
-        } else if (roomType['Private room']) {
-            criteria.roomType = 'Private room'
-        } else if (roomType['Shared room']) {
-            criteria.roomType = 'Shared room'
+
+        if(price){
+            criteria = {
+                ...criteria,
+                $and: [
+                    { 'price':  { $gte: price.min } },
+                    { 'price': { $lte: price.max } },
+                    
+                ]
+            }
+        }
+    
+        let roomTypesKeys = Object.keys(roomType)
+        let filterdRoomTypes = []
+        roomTypesKeys.forEach(type => {
+            if (roomType[type]) {
+                filterdRoomTypes.push(type)
+            }
+        })
+        
+        if (filterdRoomTypes.length) {
+            criteria.roomType = { $all: filterdRoomTypes }
         }
 
         let amenitiesKeys = Object.keys(amenities)
@@ -109,7 +130,7 @@ function _buildCriteria(filterBy) {
         })
 
         if (filterdAmenities.length) {
-            criteria.amenities = { $all: filterdAmenities }
+            criteria.amenities = { $all:filterdAmenities }
         }
     }
 
@@ -117,25 +138,8 @@ function _buildCriteria(filterBy) {
         criteria['host._id'] = hostId
     }
 
-
-
-
-    // if (filterBy.name) {
-    //     const regex = new RegExp(filterBy.name, 'i')
-    //     criteria.name = { $regex: regex }
-    // }
-    // if (filterBy.inStock !== 'all') {
-    //     (filterBy.inStock === 'inStock') ? criteria.inStock = true : criteria.inStock = false
-    // }
-    // if (filterBy.labels.length) {
-    //     criteria.labels = { $all: [filterBy.labels] }
-    //     console.log('criteria', criteria)
-    //     console.log('labelsssssssss', filterBy.labels)
-    // }
     return criteria
-
 }
-
 
 module.exports = {
     remove,
@@ -144,3 +148,6 @@ module.exports = {
     add,
     update,
 }
+
+
+
