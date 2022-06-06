@@ -4,15 +4,16 @@ const authService = require('../auth/auth.service')
 const socketService = require('../../services/socket.service')
 const reservationService = require('./reservation.service')
 
-// async function getReservations(req, res) {
-//     try {
-//         const reservations = await reservationService.query(req.query)
-//         res.send(reservations)
-//     } catch (err) {
-//         logger.error('Cannot get reservations', err)
-//         res.status(500).send({ err: 'Failed to get reservations' })
-//     }
-// }
+async function getReservations(req, res) {
+    try {
+        const reservations = await reservationService.query(req.query)
+        console.log('GOT THE RESERVE',reservations);
+        res.send(reservations)
+    } catch (err) {
+        logger.error('Cannot get reservations', err)
+        res.status(500).send({ err: 'Failed to get reservations' })
+    }
+}
 
 // async function deletereservation(req, res) {
 //     try {
@@ -54,7 +55,7 @@ async function addReservation(req, res) {
 }
 
 module.exports = {
-    // getReservations,
-    // deletereservation,
+    getReservations,
     addReservation
+    // deletereservation,
 }

@@ -7,44 +7,38 @@ async function query(filterBy = {}) {
     try {
         const criteria = _buildCriteria(filterBy)
         const collection = await dbService.getCollection('reservation')
-        // const reservations = await collection.find(criteria).toArray()
-        var reservations = await collection.aggregate([
+        // let reservations = await collection.find(criteria).toArray()
+        // console.log('RESERVATIONS',reservations)
+        let reservations = await collection.aggregate([
             {
                 $match: criteria
             },
             {
                 $lookup:
                 {
-                    localField: 'byUserId',
-                    from: 'user',
+                    localField: 'stayId',
+                    from: 'stay',
                     foreignField: '_id',
-                    as: 'byUser'
+                    as: 'listingName'
                 }
             },
             {
-                $unwind: '$byUser'
+                $unwind: '$listingName'
             },
-            {
-                $lookup:
-                {
-                    localField: 'aboutUserId',
-                    from: 'user',
-                    foreignField: '_id',
-                    as: 'aboutUser'
-                }
-            },
-            {
-                $unwind: '$aboutUser'
-            }
+            
         ]).toArray()
+        // console.log('RESERVATIONS after',reservations);
         reservations = reservations.map(reservation => {
-            reservation.byUser = { _id: reservation.byUser._id, fullname: reservation.byUser.fullname }
-            reservation.aboutUser = { _id: reservation.aboutUser._id, fullname: reservation.aboutUser.fullname }
-            delete reservation.byUserId
-            delete reservation.aboutUserId
+            reservation.listingName = reservation.listingName.name
+            reservation.guests = reservation.guests.total
+            reservation.checkIn = reservation.dates.checkIn
+            reservation.checkOut = reservation.dates.checkOut
+            delete reservation.dates
+            delete reservation.buyerId
             return reservation
         })
-
+        
+        console.log('RESERVATIONS after??????????????');
         return reservations
     } catch (err) {
         logger.error('cannot find reservations', err)
@@ -91,7 +85,7 @@ async function add(reservation) {
 
 function _buildCriteria(filterBy) {
     const criteria = {}
-    if (filterBy.byUserId) criteria.byUserId = filterBy.byUserId
+    if (filterBy.hostId) criteria.hostId = filterBy.hostId
     return criteria
 }
 

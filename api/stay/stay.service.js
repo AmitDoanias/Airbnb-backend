@@ -3,9 +3,7 @@ const logger = require('../../services/logger.service')
 const ObjectId = require('mongodb').ObjectId
 
 async function query(filterBy) {
-    // console.log('FilterBy', filterBy)
     const criteria = _buildCriteria(filterBy)
-    // const criteria = { "address.country": "Italy" }
 
     try {
         const collection = await dbService.getCollection('stay')
@@ -64,73 +62,84 @@ async function update(stay) {
 }
 
 function _buildCriteria(filterBy) {
+    const { category, searchBy, properties, hostId } = filterBy
+  
+    let criteria = {}
 
-    const { category, searchBy, properties } = filterBy
-    const criteria = {}
+    if (searchBy) {
+        const newSearchBy = JSON.parse(searchBy)
+        const { location, guestsNum } = newSearchBy
 
-
-    if (category) criteria.category = category
-
-    const newSearchBy = JSON.parse(searchBy)
-
-    const { location, guestsNum, dates } = newSearchBy
-    if (location) {
-        const regex = new RegExp(newSearchBy.location, 'i')
-        criteria['address.country'] = { $regex: regex }
-        // criteria.address = {$regex: regex }
-        // criteria["address.city"] = {$regex: regex }
-        // criteria["address.region"] = {$regex: regex }
-    }
-    if (guestsNum > 1) {
-        criteria.guests = { $gte: guestsNum }
-    }
-
-    const newProperties = JSON.parse(properties)
-
-    const { price, beds, roomType, amenities } = newProperties
-
-    if (beds) {
-        criteria.bedrooms = { $gte: beds }
-    }
-    if (roomType['Entire place']) {
-        criteria.roomType = 'Entire Place'
-    } else if (roomType['Private room']) {
-        criteria.roomType = 'Private room'
-    } else if (roomType['Shared room']) {
-        criteria.roomType = 'Shared room'
-    }
-
-    let amenitiesKeys = Object.keys(amenities)
-    let filterdAmenities = []
-    amenitiesKeys.forEach(amenitie => {
-        if (amenities[amenitie]) {
-            filterdAmenities.push(amenitie)
+        if (location) {
+            const regex = new RegExp(newSearchBy.location, 'i')
+            criteria = {
+                $or: [
+                    { 'address.country': { $regex: regex } },
+                    { 'address.city': { $regex: regex } },
+                    { 'address.region': { $regex: regex } }
+                ]
+            }
         }
-    })
-
-    if (filterdAmenities.length) {
-        criteria.amenities = { $all: filterdAmenities }
+        if (guestsNum > 1) {
+            criteria.guests = { $gte: guestsNum }
+        }
     }
 
-
-
-
-    // if (filterBy.name) {
-    //     const regex = new RegExp(filterBy.name, 'i')
-    //     criteria.name = { $regex: regex }
+    // if (category) {
+    //     criteria.category = { $all: category }
     // }
-    // if (filterBy.inStock !== 'all') {
-    //     (filterBy.inStock === 'inStock') ? criteria.inStock = true : criteria.inStock = false
-    // }
-    // if (filterBy.labels.length) {
-    //     criteria.labels = { $all: [filterBy.labels] }
-    //     console.log('criteria', criteria)
-    //     console.log('labelsssssssss', filterBy.labels)
-    // }
+      if (category) criteria.category = category
+
+    if (properties) {
+        const newProperties = JSON.parse(properties)
+        const { price,beds, roomType, amenities } = newProperties
+
+        if (beds) {
+            criteria.bedrooms = { $gte: beds }
+        }
+
+        if(price){
+            criteria = {
+                ...criteria,
+                $and: [
+                    { 'price':  { $gte: price.min } },
+                    { 'price': { $lte: price.max } },
+                    
+                ]
+            }
+        }
+    
+        let roomTypesKeys = Object.keys(roomType)
+        let filterdRoomTypes = []
+        roomTypesKeys.forEach(type => {
+            if (roomType[type]) {
+                filterdRoomTypes.push(type)
+            }
+        })
+        
+        if (filterdRoomTypes.length) {
+            criteria.roomType = { $all: filterdRoomTypes }
+        }
+
+        let amenitiesKeys = Object.keys(amenities)
+        let filterdAmenities = []
+        amenitiesKeys.forEach(amenitie => {
+            if (amenities[amenitie]) {
+                filterdAmenities.push(amenitie)
+            }
+        })
+
+        if (filterdAmenities.length) {
+            criteria.amenities = { $all:filterdAmenities }
+        }
+    }
+
+    if (hostId) {
+        criteria['host._id'] = hostId
+    }
+
     return criteria
-
 }
-
 
 module.exports = {
     remove,
@@ -139,3 +148,6 @@ module.exports = {
     add,
     update,
 }
+
+
+
