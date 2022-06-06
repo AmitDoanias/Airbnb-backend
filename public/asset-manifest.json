@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a53acdbd.css",
-    "main.js": "/static/js/main.f2babd1f.js",
+    "main.css": "/static/css/main.70b970aa.css",
+    "main.js": "/static/js/main.7320860f.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/become-a-host.jpg": "/static/media/become-a-host.c7525a2f71236462aaba.jpg",
     "static/media/dubai.jpg": "/static/media/dubai.5fb674a2e634e9717133.jpg",
@@ -56,8 +56,8 @@
     "static/media/Washer.svg": "/static/media/Washer.51f458c96003d5b5eaab.svg",
     "static/media/Cleaning products.svg": "/static/media/Cleaning products.0841a5914ca952873625.svg",
     "static/media/Sound system.svg": "/static/media/Sound system.bc5848ccb7c164d308f8.svg",
-    "index.html": "/index.html",
     "static/media/Gym.svg": "/static/media/Gym.7b85c06c4dd9b532dc35.svg",
+    "index.html": "/index.html",
     "static/media/Security cameras on property.svg": "/static/media/Security cameras on property.77da0ae4e1150e2d5f8a.svg",
     "static/media/Clothing storage.svg": "/static/media/Clothing storage.e0e73f9d66170c24d157.svg",
     "static/media/Bed lines.svg": "/static/media/Bed lines.7a0a344ebeeea3c0d84f.svg",
@@ -83,12 +83,12 @@
     "static/media/plus.svg": "/static/media/plus.2b5e7712555e1afeea75829bd36c2059.svg",
     "static/media/minus.svg": "/static/media/minus.0b1a508662e55e961d388b5f05d19594.svg",
     "static/media/close-modal.svg": "/static/media/close-modal.12b13cd0077bcc1a5a844bdcf6bd7586.svg",
-    "main.a53acdbd.css.map": "/static/css/main.a53acdbd.css.map",
-    "main.f2babd1f.js.map": "/static/js/main.f2babd1f.js.map",
+    "main.70b970aa.css.map": "/static/css/main.70b970aa.css.map",
+    "main.7320860f.js.map": "/static/js/main.7320860f.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a53acdbd.css",
-    "static/js/main.f2babd1f.js"
+    "static/css/main.70b970aa.css",
+    "static/js/main.7320860f.js"
   ]
 }
