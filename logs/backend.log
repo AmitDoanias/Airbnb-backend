@@ -5283,3 +5283,17 @@
 6.6.2022, 14:54:50 - INFO - New connected socket [id: SO4hz3lo7wUTXHPGAAAE] 
 6.6.2022, 14:54:50 - INFO - New connected socket [id: j3NaP2hkgJDLsA-3AAAG] 
 6.6.2022, 14:54:50 - INFO - New connected socket [id: My1a2nyxQ9e0taPbAAAH] 
+6.6.2022, 15:03:48 - INFO - Server is running on port: 3030 
+6.6.2022, 15:03:49 - INFO - New connected socket [id: HcjwNtWezksVPYZOAAAB] 
+6.6.2022, 15:03:50 - INFO - New connected socket [id: R_1ID5rx5cwTy6QKAAAD] 
+6.6.2022, 15:03:51 - INFO - New connected socket [id: FSNDjAr_xM6LMIW-AAAF] 
+6.6.2022, 15:03:53 - INFO - New connected socket [id: WIj52M3JD0qlrzV2AAAH] 
+6.6.2022, 15:03:53 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: WIj52M3JD0qlrzV2AAAH] 
+6.6.2022, 15:04:12 - INFO - New connected socket [id: r6S9U859A9fouQ1BAAAJ] 
+6.6.2022, 15:05:10 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 15:05:10 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 15:05:25 - INFO - New connected socket [id: I70qFWFomK9LDDO-AAAM] 
+6.6.2022, 15:05:25 - INFO - New connected socket [id: XBVFLXoL5q_BEiMzAAAN] 
+6.6.2022, 15:05:26 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: XBVFLXoL5q_BEiMzAAAN] 
+6.6.2022, 15:05:29 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+6.6.2022, 15:05:30 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
