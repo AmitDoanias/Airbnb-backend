@@ -3,9 +3,7 @@ const logger = require('../../services/logger.service')
 const ObjectId = require('mongodb').ObjectId
 
 async function query(filterBy) {
-    console.log('FilterBy', filterBy);
     const criteria = _buildCriteria(filterBy)
-    // const criteria = { "address.country": "Italy" }
 
     try {
         const collection = await dbService.getCollection('stay')
@@ -65,51 +63,58 @@ async function update(stay) {
 
 function _buildCriteria(filterBy) {
 
-    const { category, searchBy, properties } = filterBy
+    const { category, searchBy, properties, hostId } = filterBy
+    console.log('HOSTTTSTSTS', hostId);
     const criteria = {}
-    
+
 
     if (category) criteria.category = category
 
-    const newSearchBy = JSON.parse(searchBy)
-
-    const  {location,guestsNum, dates}=newSearchBy
-    if (location) {
-        const regex = new RegExp(newSearchBy.location, 'i')
-        criteria['address.country'] = {$regex: regex }
-        // criteria.address = {$regex: regex }
-        // criteria["address.city"] = {$regex: regex }
-        // criteria["address.region"] = {$regex: regex }
-    }
-    if (guestsNum >1){
-        criteria.guests = {$gte:guestsNum }
-    }
-    
-    const newProperties = JSON.parse(properties)
-    
-    const { price, beds, roomType, amenities } = newProperties
-    
-    if (beds){
-        criteria.bedrooms = {$gte:beds }
-    }
-    if (roomType['Entire place']){
-        criteria.roomType = 'Entire Place'
-    }else if (roomType['Private room']){
-        criteria.roomType = 'Private room'
-    }else if (roomType['Shared room']){
-        criteria.roomType = 'Shared room'
-    }
-
-    let amenitiesKeys = Object.keys(amenities)
-    let filterdAmenities = []
-    amenitiesKeys.forEach(amenitie => {
-        if (amenities[amenitie]) {
-            filterdAmenities.push(amenitie)
+    if (searchBy) {
+        const newSearchBy = JSON.parse(searchBy)
+        const { location, guestsNum, dates } = newSearchBy
+        if (location) {
+            const regex = new RegExp(newSearchBy.location, 'i')
+            criteria['address.country'] = { $regex: regex }
+            // criteria.address = {$regex: regex }
+            // criteria["address.city"] = {$regex: regex }
+            // criteria["address.region"] = {$regex: regex }
         }
-    })
+        if (guestsNum > 1) {
+            criteria.guests = { $gte: guestsNum }
+        }
+    }
 
-    if (filterdAmenities.length) {
-        criteria.amenities = { $all: filterdAmenities }
+    if (properties) {
+        const newProperties = JSON.parse(properties)
+        const { price, beds, roomType, amenities } = newProperties
+
+        if (beds) {
+            criteria.bedrooms = { $gte: beds }
+        }
+        if (roomType['Entire place']) {
+            criteria.roomType = 'Entire Place'
+        } else if (roomType['Private room']) {
+            criteria.roomType = 'Private room'
+        } else if (roomType['Shared room']) {
+            criteria.roomType = 'Shared room'
+        }
+
+        let amenitiesKeys = Object.keys(amenities)
+        let filterdAmenities = []
+        amenitiesKeys.forEach(amenitie => {
+            if (amenities[amenitie]) {
+                filterdAmenities.push(amenitie)
+            }
+        })
+
+        if (filterdAmenities.length) {
+            criteria.amenities = { $all: filterdAmenities }
+        }
+    }
+
+    if (hostId) {
+        criteria['host._id'] = hostId
     }
 
 
