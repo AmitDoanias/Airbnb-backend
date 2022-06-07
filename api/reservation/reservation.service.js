@@ -25,7 +25,7 @@ async function query(filterBy = {}) {
             {
                 $unwind: '$listingName'
             },
-            
+
         ]).toArray()
         // console.log('RESERVATIONS after',reservations);
         reservations = reservations.map(reservation => {
@@ -33,11 +33,12 @@ async function query(filterBy = {}) {
             reservation.guests = reservation.guests.total
             reservation.checkIn = reservation.dates.checkIn
             reservation.checkOut = reservation.dates.checkOut
+            reservation.bookedAt = _getReservationDate(reservation._id)
             delete reservation.dates
             delete reservation.buyerId
             return reservation
         })
-        
+
         console.log('RESERVATIONS after??????????????');
         return reservations
     } catch (err) {
@@ -55,7 +56,7 @@ async function remove(reservationId) {
         // remove only if user is owner/admin
         const criteria = { _id: ObjectId(reservationId) }
         if (!loggedinUser.isAdmin) criteria.byUserId = ObjectId(loggedinUser._id)
-        const {deletedCount} = await collection.deleteOne(criteria)
+        const { deletedCount } = await collection.deleteOne(criteria)
         return deletedCount
     } catch (err) {
         logger.error(`cannot remove reservation ${reservationId}`, err)
@@ -63,6 +64,9 @@ async function remove(reservationId) {
     }
 }
 
+function _getReservationDate(objectId) {
+    return new Date(parseInt(objectId.substring(0, 8), 16) * 1000);
+}
 
 async function add(reservation) {
     try {

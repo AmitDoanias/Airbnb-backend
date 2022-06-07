@@ -4764,3 +4764,675 @@
 >>>>>>> origin/main
 >>>>>>> 84f46c6c3b7325cc5c11afcf72c99bd8d82d149a
 >>>>>>> origin/main
+6.6.2022, 10:57:21 - INFO - Server is running on port: 3030 
+6.6.2022, 10:57:27 - INFO - New connected socket [id: ix6zpgVgPnAAffG0AAAB] 
+6.6.2022, 10:57:47 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 10:57:53 - INFO - New connected socket [id: 6t9fVviiUsK2hnVDAAAD] 
+6.6.2022, 10:57:53 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 10:57:53 - INFO - Setting socket.userId = 6298a4510cde1754a3a3b45a for socket [id: 6t9fVviiUsK2hnVDAAAD] 
+6.6.2022, 10:57:55 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 10:59:42 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 10:59:43 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 10:59:53 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 10:59:54 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 11:01:01 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 11:01:02 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 11:01:21 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 11:04:11 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 11:11:51 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 11:11:53 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 11:12:07 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 11:12:12 - INFO - New connected socket [id: uMsZfnH5z3dp10O_AAAF] 
+6.6.2022, 11:15:40 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 11:15:50 - INFO - New connected socket [id: SiZfAh2Ng_hasi4uAAAH] 
+6.6.2022, 11:17:29 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 11:17:29 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 11:18:20 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 11:18:21 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 11:20:28 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 11:20:28 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 11:23:10 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 11:23:11 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 11:25:34 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 11:25:34 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 11:32:36 - INFO - Server is running on port: 3030 
+6.6.2022, 11:32:37 - INFO - New connected socket [id: 4pqBVEGcT3he7O7pAAAB] 
+6.6.2022, 13:09:33 - INFO - Server is running on port: 3030 
+6.6.2022, 13:09:34 - INFO - New connected socket [id: k-L1LR6vZCay7gQ9AAAB] 
+6.6.2022, 13:15:37 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 13:15:38 - INFO - New connected socket [id: FKjEOg7cqrsIreTxAAAD] 
+6.6.2022, 13:15:39 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 13:15:41 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 13:15:57 - INFO - Server is running on port: 3030 
+6.6.2022, 13:15:58 - INFO - New connected socket [id: bSjnwnanc_8FGYJOAAAB] 
+6.6.2022, 13:16:47 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 13:16:49 - DEBUG - Getting Stays (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 13:20:16 - INFO - Server is running on port: 3030 
+6.6.2022, 13:20:17 - INFO - New connected socket [id: BmSGkvfvdBnthF9GAAAB] 
+6.6.2022, 13:21:14 - INFO - Server is running on port: 3030 
+6.6.2022, 13:21:14 - INFO - New connected socket [id: kMTC48C52Xb_nOFGAAAB] 
+6.6.2022, 13:21:31 - INFO - Server is running on port: 3030 
+6.6.2022, 13:21:32 - INFO - New connected socket [id: uS0tdWl7NnweUDPQAAAB] 
+6.6.2022, 13:21:48 - DEBUG - auth.service - signup with username: 1111, fullname: 1111 1111 (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 13:21:50 - DEBUG - auth.route - new account created: {"username":"1111","password":"$2b$10$9YTmWMa5m94Kh9IKzkxXmOWVl9wHeVuCXODfzU5g3GmiDyBxi2m6u","fullname":"1111 1111","imgUrl":"https://xsgames.co/randomusers/assets/avatars/male/68.jpg","isHost":false,"wishList":[],"_id":"629dd53e2970984f8e1994be"} (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 13:21:50 - DEBUG - auth.service - login with username: 1111 (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 13:21:50 - INFO - User signup: | {"_id":"629dd53e2970984f8e1994be","username":"1111","fullname":"1111 1111","imgUrl":"https://xsgames.co/randomusers/assets/avatars/male/68.jpg","isHost":false,"wishList":[]} (userId: 6298a4510cde1754a3a3b45a)
+6.6.2022, 13:21:50 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 13:21:51 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 14:50:13 - INFO - Server is running on port: 3030 
+6.6.2022, 14:50:17 - INFO - New connected socket [id: Vuuh1cro5o9374mcAAAB] 
+6.6.2022, 14:50:28 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 14:50:47 - INFO - New connected socket [id: mZNiKTRJlYaLRfdhAAAD] 
+6.6.2022, 14:50:47 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 14:50:47 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: mZNiKTRJlYaLRfdhAAAD] 
+6.6.2022, 14:50:49 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 14:51:22 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 14:51:26 - INFO - New connected socket [id: gImD363Mfg5iu3rrAAAF] 
+6.6.2022, 14:51:26 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 14:51:26 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: gImD363Mfg5iu3rrAAAF] 
+6.6.2022, 14:51:26 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 14:51:45 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 14:51:45 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 14:52:11 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 14:52:12 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 14:52:55 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 14:53:11 - INFO - New connected socket [id: e4SOznWeFDmACV7eAAAH] 
+6.6.2022, 14:53:11 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 14:53:11 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: e4SOznWeFDmACV7eAAAH] 
+6.6.2022, 14:53:11 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 14:53:29 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 14:53:29 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 14:54:04 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 14:54:05 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 14:54:11 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 14:54:12 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 14:54:17 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 14:54:17 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 14:54:22 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 14:54:22 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:00:09 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:00:10 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:00:27 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:00:28 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:04:49 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:04:50 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:06:51 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 15:06:51 - INFO - New connected socket [id: Bf-s-M7ObtcIbjnnAAAJ] 
+6.6.2022, 15:06:52 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: Bf-s-M7ObtcIbjnnAAAJ] 
+6.6.2022, 15:06:54 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:06:55 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:07:02 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:07:02 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:08:01 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 15:08:02 - INFO - New connected socket [id: x5NgMS5v9zHjh0tCAAAL] 
+6.6.2022, 15:08:03 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: x5NgMS5v9zHjh0tCAAAL] 
+6.6.2022, 15:08:18 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:08:19 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:09:51 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 15:09:52 - INFO - New connected socket [id: 0iyPS2SScqgCZTsjAAAN] 
+6.6.2022, 15:09:52 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: 0iyPS2SScqgCZTsjAAAN] 
+6.6.2022, 15:10:47 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:10:47 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:16:59 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 15:17:01 - INFO - New connected socket [id: AyUvmq0M3r0KkCa1AAAP] 
+6.6.2022, 15:17:03 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:17:04 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:17:16 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:17:16 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:17:31 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:17:32 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:19:28 - DEBUG - auth.service - login with username: 1111 (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:19:28 - INFO - User login:  | {"_id":"629dd53e2970984f8e1994be","username":"1111","fullname":"1111 1111","imgUrl":"https://xsgames.co/randomusers/assets/avatars/male/68.jpg","isHost":false,"wishList":[]} (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:19:28 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:19:29 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:19:32 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:19:33 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:19:37 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:19:37 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:19:42 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:19:43 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:19:46 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:19:47 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:20:00 - INFO - New connected socket [id: NoJIMA5I7ytXsobfAAAR] 
+6.6.2022, 15:20:05 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:20:06 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:20:30 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 15:28:36 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 15:28:48 - INFO - New connected socket [id: -pGyLBblXdOjIZSJAAAT] 
+6.6.2022, 15:35:11 - INFO - Server is running on port: 3030 
+6.6.2022, 15:35:12 - INFO - New connected socket [id: VajO4pRbOo305Kd1AAAB] 
+6.6.2022, 15:54:35 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:54:37 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 15:54:44 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 16:13:16 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 16:13:17 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 16:13:23 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 16:13:23 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 16:13:26 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 16:13:26 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 16:13:27 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 16:13:27 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 16:13:28 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 16:13:29 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 16:13:30 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 16:13:31 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 16:13:32 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 16:13:48 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 16:13:48 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 18:07:40 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 18:07:42 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 18:12:05 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 18:12:09 - INFO - New connected socket [id: L-owfzmzNlxj88OiAAAD] 
+6.6.2022, 18:14:00 - DEBUG - auth.service - login with username: 1111 (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 18:14:00 - INFO - User login:  | {"_id":"629dd53e2970984f8e1994be","username":"1111","fullname":"1111 1111","imgUrl":"https://xsgames.co/randomusers/assets/avatars/male/68.jpg","isHost":false,"wishList":["629ded3f9efdb500c3c53a5a"]} (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 18:14:01 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 18:14:02 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 18:45:59 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 18:46:00 - INFO - New connected socket [id: 1zZI9vmk-HDnI7nZAAAF] 
+6.6.2022, 18:46:01 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 18:46:01 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: 1zZI9vmk-HDnI7nZAAAF] 
+6.6.2022, 18:46:02 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 18:56:00 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 18:56:03 - INFO - New connected socket [id: 2nDEUXUp5QMVyZXfAAAI] 
+6.6.2022, 18:56:04 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 18:56:04 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: 2nDEUXUp5QMVyZXfAAAI] 
+6.6.2022, 18:56:05 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:06:02 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 19:06:03 - INFO - New connected socket [id: xMny17bBHL1AyRQyAAAK] 
+6.6.2022, 19:06:04 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:06:04 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: xMny17bBHL1AyRQyAAAK] 
+6.6.2022, 19:06:06 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:21:01 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:21:03 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:24:15 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:24:16 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:24:20 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:24:21 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:25:01 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 19:25:02 - INFO - New connected socket [id: 7AWTK1alSfWFOh0sAAAM] 
+6.6.2022, 19:25:03 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: 7AWTK1alSfWFOh0sAAAM] 
+6.6.2022, 19:25:09 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 19:25:10 - INFO - New connected socket [id: EI1reghnlq_Zwek1AAAO] 
+6.6.2022, 19:25:11 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:25:11 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: EI1reghnlq_Zwek1AAAO] 
+6.6.2022, 19:25:11 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:25:34 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:25:34 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:26:46 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:26:46 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:27:54 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:27:55 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:28:11 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:28:11 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:28:15 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 19:28:16 - INFO - New connected socket [id: b71sQmtcErscfix6AAAQ] 
+6.6.2022, 19:28:17 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:28:17 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: b71sQmtcErscfix6AAAQ] 
+6.6.2022, 19:28:17 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:28:24 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:28:25 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:31:24 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:31:24 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:31:50 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:31:50 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:38:59 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 19:39:00 - INFO - New connected socket [id: YLu0ZT9n5OGl0UXCAAAS] 
+6.6.2022, 19:39:01 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:39:01 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: YLu0ZT9n5OGl0UXCAAAS] 
+6.6.2022, 19:39:02 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:43:52 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:43:52 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:44:11 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 19:44:12 - INFO - New connected socket [id: -oc_gCv-TtbF3bOyAAAU] 
+6.6.2022, 19:44:12 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:44:12 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: -oc_gCv-TtbF3bOyAAAU] 
+6.6.2022, 19:44:13 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:44:35 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 19:44:36 - INFO - New connected socket [id: 1YLbQlJtaXmvVOTxAAAW] 
+6.6.2022, 19:44:36 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:44:36 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: 1YLbQlJtaXmvVOTxAAAW] 
+6.6.2022, 19:44:37 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:44:48 - DEBUG - auth.service - login with username: 1111 
+6.6.2022, 19:44:48 - INFO - User login:  | {"_id":"629dd53e2970984f8e1994be","username":"1111","fullname":"1111 1111","imgUrl":"https://xsgames.co/randomusers/assets/avatars/male/68.jpg","isHost":false,"wishList":["629ded3f9efdb500c3c53a5a","629ded3f9efdb500c3c53a3f"]} 
+6.6.2022, 19:44:48 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 19:44:49 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:01:33 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:01:34 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:02:46 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:02:46 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:04:09 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 20:04:09 - INFO - New connected socket [id: evTkMdEWx3JFPSOcAAAY] 
+6.6.2022, 20:04:10 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:04:10 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: evTkMdEWx3JFPSOcAAAY] 
+6.6.2022, 20:04:10 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:04:23 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 20:04:23 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:04:25 - INFO - New connected socket [id: ymez8oXdyTr099puAAAa] 
+6.6.2022, 20:04:25 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:04:26 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: ymez8oXdyTr099puAAAa] 
+6.6.2022, 20:04:26 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:05:06 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 20:05:07 - INFO - New connected socket [id: 1Y4siSISyGv4Tq8vAAAc] 
+6.6.2022, 20:05:07 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:05:07 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: 1Y4siSISyGv4Tq8vAAAc] 
+6.6.2022, 20:05:08 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:05:12 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:05:12 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:06:11 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:06:12 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:06:33 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:06:33 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:06:50 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 20:06:51 - INFO - New connected socket [id: 4gppwfRDsCc5zKkMAAAe] 
+6.6.2022, 20:06:51 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:06:52 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: 4gppwfRDsCc5zKkMAAAe] 
+6.6.2022, 20:06:52 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:23:09 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 20:23:11 - INFO - New connected socket [id: IpsA4PSDHgfMClqRAAAg] 
+6.6.2022, 20:23:11 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:23:11 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: IpsA4PSDHgfMClqRAAAg] 
+6.6.2022, 20:23:12 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:38:20 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 20:38:22 - INFO - New connected socket [id: zqfVGr26IE274DS7AAAi] 
+6.6.2022, 20:38:22 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:38:23 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: zqfVGr26IE274DS7AAAi] 
+6.6.2022, 20:38:24 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:51:52 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 20:51:53 - INFO - New connected socket [id: -kGaMZJfHKnv-yBtAAAk] 
+6.6.2022, 20:51:53 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 20:51:53 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: -kGaMZJfHKnv-yBtAAAk] 
+6.6.2022, 20:51:54 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 21:23:47 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 21:23:48 - INFO - New connected socket [id: V2jje_AdvBbqO0k-AAAm] 
+6.6.2022, 21:23:49 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 21:23:49 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: V2jje_AdvBbqO0k-AAAm] 
+6.6.2022, 21:23:50 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 21:31:07 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 21:31:08 - INFO - New connected socket [id: WTpR1vBc4HLVnLi7AAAo] 
+6.6.2022, 21:31:08 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 21:31:08 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: WTpR1vBc4HLVnLi7AAAo] 
+6.6.2022, 21:31:10 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 21:31:17 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 21:31:18 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 21:40:53 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 21:40:54 - INFO - New connected socket [id: WQUKqPsOVRngryvkAAAq] 
+6.6.2022, 21:40:54 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 21:40:55 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: WQUKqPsOVRngryvkAAAq] 
+6.6.2022, 21:40:55 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 21:58:55 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 21:58:56 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 21:59:51 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 21:59:53 - INFO - New connected socket [id: l9R70LUlmjmIOZRcAAAs] 
+6.6.2022, 21:59:53 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 21:59:53 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: l9R70LUlmjmIOZRcAAAs] 
+6.6.2022, 21:59:54 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 22:02:51 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 22:02:52 - INFO - New connected socket [id: wkfJASyWU_MmIHaoAAAu] 
+6.6.2022, 22:02:52 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 22:02:52 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: wkfJASyWU_MmIHaoAAAu] 
+6.6.2022, 22:02:53 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 22:05:18 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 22:05:19 - INFO - New connected socket [id: cRne2qhMqy0DeiAGAAAw] 
+6.6.2022, 22:05:19 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 22:05:19 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: cRne2qhMqy0DeiAGAAAw] 
+6.6.2022, 22:05:20 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 22:09:15 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 22:09:15 - INFO - New connected socket [id: jed6Q_8LPKj4WHISAAAy] 
+6.6.2022, 22:09:16 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 22:09:16 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: jed6Q_8LPKj4WHISAAAy] 
+6.6.2022, 22:09:16 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 22:17:06 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 22:17:08 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 22:18:56 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 22:18:57 - INFO - New connected socket [id: tVyY5GVH0Ul5WyPfAAA0] 
+6.6.2022, 22:18:57 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 22:18:58 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: tVyY5GVH0Ul5WyPfAAA0] 
+6.6.2022, 22:18:58 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 22:31:06 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 22:31:07 - INFO - New connected socket [id: kCFvqg3nPrUJuwTYAAA2] 
+6.6.2022, 22:31:07 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 22:31:07 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: kCFvqg3nPrUJuwTYAAA2] 
+6.6.2022, 22:31:09 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 22:32:08 - DEBUG - auth.service - login with username: host 
+6.6.2022, 22:32:08 - INFO - User login:  | {"_id":"629dbc94388d60172ca60aeb","username":"host","fullname":"Johny admin","imgUrl":"https://xsgames.co/randomusers/assets/avatars/male/69.jpg","isHost":true,"wishList":[]} 
+6.6.2022, 22:32:08 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+6.6.2022, 22:32:09 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+6.6.2022, 22:32:18 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+6.6.2022, 22:32:19 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+6.6.2022, 22:34:24 - DEBUG - auth.service - login with username: 1111 
+6.6.2022, 22:34:24 - INFO - User login:  | {"_id":"629dd53e2970984f8e1994be","username":"1111","fullname":"1111 1111","imgUrl":"https://xsgames.co/randomusers/assets/avatars/male/68.jpg","isHost":false,"wishList":["629ded3f9efdb500c3c53a5a","629ded3f9efdb500c3c53a3f"]} 
+6.6.2022, 22:34:25 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 22:34:25 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 22:35:31 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 22:35:32 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 22:36:01 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 22:36:03 - INFO - New connected socket [id: _2Gc5KO8kLcDqQetAAA4] 
+6.6.2022, 22:36:03 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 22:36:03 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: _2Gc5KO8kLcDqQetAAA4] 
+6.6.2022, 22:36:04 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 22:43:47 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 22:43:59 - INFO - New connected socket [id: lG4MIHPOsnjX0mfwAAA6] 
+6.6.2022, 22:43:59 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: lG4MIHPOsnjX0mfwAAA6] 
+6.6.2022, 23:20:01 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 23:20:13 - INFO - New connected socket [id: WrBDDhiBGn3Br1PWAAA8] 
+6.6.2022, 23:20:18 - DEBUG - auth.service - login with username: 1111 (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 23:20:19 - INFO - User login:  | {"_id":"629dd53e2970984f8e1994be","username":"1111","fullname":"1111 1111","imgUrl":"https://xsgames.co/randomusers/assets/avatars/male/68.jpg","isHost":false,"wishList":["629ded3f9efdb500c3c53a5a","629ded3f9efdb500c3c53a3f"]} (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 23:20:19 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 23:20:20 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 23:33:39 - INFO - New connected socket [id: MrqZ8UfO3lhZeLEhAAA-] 
+6.6.2022, 23:33:41 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 23:33:42 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+6.6.2022, 23:49:10 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 23:49:11 - INFO - New connected socket [id: 4EKagWzXcGGAF6KHAABA] 
+6.6.2022, 23:49:12 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: 4EKagWzXcGGAF6KHAABA] 
+6.6.2022, 23:49:17 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 23:49:17 - INFO - New connected socket [id: g8S1u2owZCkZkww1AABC] 
+6.6.2022, 23:49:18 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: g8S1u2owZCkZkww1AABC] 
+6.6.2022, 23:51:24 - INFO - Socket disconnected [id: undefined] 
+6.6.2022, 23:51:32 - INFO - New connected socket [id: b9Wyc0pbrfjxydhHAABE] 
+6.6.2022, 23:51:32 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: b9Wyc0pbrfjxydhHAABE] 
+7.6.2022, 2:52:44 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 2:52:44 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 2:52:45 - INFO - New connected socket [id: 7Syt6TGRRFqWlPmnAABH] 
+7.6.2022, 2:52:45 - INFO - New connected socket [id: oIC8CJra815UeQBCAABI] 
+7.6.2022, 7:33:05 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 7:33:05 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 7:33:06 - INFO - New connected socket [id: Me3pDBbe6E7ZFFQLAABK] 
+7.6.2022, 7:33:07 - INFO - New connected socket [id: 8W0ezIXP5IIcwqwjAABM] 
+7.6.2022, 8:00:30 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 8:00:30 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 8:00:32 - INFO - New connected socket [id: tTUT6fNADqPUSqPMAABO] 
+7.6.2022, 8:00:32 - INFO - New connected socket [id: Mi-hd5Bl22OZmfSRAABQ] 
+7.6.2022, 8:09:29 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 8:09:36 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 8:09:40 - INFO - New connected socket [id: 1hPWnSwJK_wqD0mRAABS] 
+7.6.2022, 8:09:40 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: 1hPWnSwJK_wqD0mRAABS] 
+7.6.2022, 8:11:57 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:11:58 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:12:02 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:12:03 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:12:06 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:12:07 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:12:21 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:12:22 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:12:38 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:12:39 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:12:43 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:15:52 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 8:15:52 - INFO - New connected socket [id: H5FjVOtFSzS1wyMJAABU] 
+7.6.2022, 8:15:53 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:15:53 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: H5FjVOtFSzS1wyMJAABU] 
+7.6.2022, 8:15:53 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:23:19 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:23:21 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:26:01 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:26:01 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:26:19 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:26:20 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:28:51 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 8:28:52 - INFO - New connected socket [id: 5UKhhBZDNRyQgNjgAABW] 
+7.6.2022, 8:28:52 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: 5UKhhBZDNRyQgNjgAABW] 
+7.6.2022, 8:33:42 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:33:43 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:36:12 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 8:36:13 - INFO - New connected socket [id: k-cgTprvhrcUP-ZaAABY] 
+7.6.2022, 8:36:13 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:36:14 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: k-cgTprvhrcUP-ZaAABY] 
+7.6.2022, 8:36:14 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:36:46 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:36:47 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:37:35 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:37:36 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:39:06 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:39:06 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:40:39 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:40:39 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:41:33 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:41:34 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:50:54 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 8:50:55 - INFO - New connected socket [id: TgN9Fsm3BEgyVhGRAABa] 
+7.6.2022, 8:50:55 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: TgN9Fsm3BEgyVhGRAABa] 
+7.6.2022, 8:51:15 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:51:16 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:51:21 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:51:21 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:57:03 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 8:57:04 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:03:38 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:03:39 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:06:33 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:19:40 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 9:19:41 - INFO - New connected socket [id: WKhTFEt3dIeZC32uAABc] 
+7.6.2022, 9:19:41 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: WKhTFEt3dIeZC32uAABc] 
+7.6.2022, 9:22:13 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:22:14 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:24:16 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 9:24:17 - INFO - New connected socket [id: X_P3UW99PTLJNB--AABe] 
+7.6.2022, 9:24:18 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: X_P3UW99PTLJNB--AABe] 
+7.6.2022, 9:26:51 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 9:26:52 - INFO - New connected socket [id: Ue2_jjv2NKOLwyIFAABg] 
+7.6.2022, 9:26:52 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: Ue2_jjv2NKOLwyIFAABg] 
+7.6.2022, 9:31:12 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 9:31:13 - INFO - New connected socket [id: 1juQgucJWdOk4RubAABi] 
+7.6.2022, 9:31:14 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: 1juQgucJWdOk4RubAABi] 
+7.6.2022, 9:33:38 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:33:39 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:33:46 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 9:33:47 - INFO - New connected socket [id: 325uuE0m-nunOLyDAABk] 
+7.6.2022, 9:33:48 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:33:48 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: 325uuE0m-nunOLyDAABk] 
+7.6.2022, 9:33:48 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:45:46 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:45:47 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:46:20 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:46:27 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:46:29 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:46:30 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:46:32 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:56:50 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 9:56:51 - INFO - New connected socket [id: qWUQmfaGEsrwvcLxAABm] 
+7.6.2022, 9:56:52 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: qWUQmfaGEsrwvcLxAABm] 
+7.6.2022, 9:59:14 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:59:15 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:59:17 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:59:17 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:59:22 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:59:22 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:59:25 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 9:59:26 - INFO - New connected socket [id: Dv8G09s_Wa1cfWEQAABo] 
+7.6.2022, 9:59:26 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: Dv8G09s_Wa1cfWEQAABo] 
+7.6.2022, 9:59:28 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:59:29 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:59:32 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:59:32 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:59:35 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:59:35 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 9:59:59 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 10:00:00 - INFO - New connected socket [id: xI6qnnfjb4rYCegbAABq] 
+7.6.2022, 10:00:00 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: xI6qnnfjb4rYCegbAABq] 
+7.6.2022, 10:00:01 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:00:02 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:02:05 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:02:05 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:03:58 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 10:03:59 - INFO - New connected socket [id: sEgEHKw4zGBAKh57AABs] 
+7.6.2022, 10:04:00 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: sEgEHKw4zGBAKh57AABs] 
+7.6.2022, 10:04:38 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 10:04:39 - INFO - New connected socket [id: SCCv5gcYOyQtZ6kuAABu] 
+7.6.2022, 10:04:40 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: SCCv5gcYOyQtZ6kuAABu] 
+7.6.2022, 10:04:41 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:04:41 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:04:46 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:04:47 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:05:00 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:05:01 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:05:06 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:05:06 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:05:23 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 10:05:24 - INFO - New connected socket [id: v2EE2neabMgQpq9TAABw] 
+7.6.2022, 10:05:24 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: v2EE2neabMgQpq9TAABw] 
+7.6.2022, 10:06:18 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 10:06:19 - INFO - New connected socket [id: K1Icsy024vb0FxopAABy] 
+7.6.2022, 10:06:20 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: K1Icsy024vb0FxopAABy] 
+7.6.2022, 10:08:50 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 10:08:51 - INFO - New connected socket [id: ydtqULPm4snN53XfAAB0] 
+7.6.2022, 10:08:52 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: ydtqULPm4snN53XfAAB0] 
+7.6.2022, 10:08:59 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 10:08:59 - INFO - New connected socket [id: A10mZByFneuFicLOAAB2] 
+7.6.2022, 10:09:00 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: A10mZByFneuFicLOAAB2] 
+7.6.2022, 10:11:50 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 10:11:50 - INFO - New connected socket [id: s8iSO1c2b2BC3NJSAAB4] 
+7.6.2022, 10:11:51 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: s8iSO1c2b2BC3NJSAAB4] 
+7.6.2022, 10:13:33 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 10:13:34 - INFO - New connected socket [id: AaZQyRTmzdRqdXFCAAB6] 
+7.6.2022, 10:13:35 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: AaZQyRTmzdRqdXFCAAB6] 
+7.6.2022, 10:16:07 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 10:16:08 - INFO - New connected socket [id: k8J5ni1LVJTNRsJkAAB8] 
+7.6.2022, 10:16:08 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: k8J5ni1LVJTNRsJkAAB8] 
+7.6.2022, 10:16:27 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 10:16:28 - INFO - New connected socket [id: QGlFusGUQ1NnqCOJAAB-] 
+7.6.2022, 10:16:28 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: QGlFusGUQ1NnqCOJAAB-] 
+7.6.2022, 10:16:38 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 10:16:39 - INFO - New connected socket [id: zKD9xiuLU_x08WY-AACA] 
+7.6.2022, 10:16:39 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: zKD9xiuLU_x08WY-AACA] 
+7.6.2022, 10:32:31 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:32:32 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:37:08 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 10:37:09 - INFO - New connected socket [id: i7lU-oZiXoEa9ivZAACC] 
+7.6.2022, 10:37:10 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:37:10 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: i7lU-oZiXoEa9ivZAACC] 
+7.6.2022, 10:37:11 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:40:49 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:40:49 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:41:10 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:41:11 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:42:56 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 10:42:58 - INFO - New connected socket [id: 1853ynjHcwBXfwMuAACE] 
+7.6.2022, 10:42:58 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: 1853ynjHcwBXfwMuAACE] 
+7.6.2022, 10:49:04 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:49:05 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:49:13 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:49:14 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:51:12 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:51:12 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:51:29 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:51:30 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 10:54:25 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 11:26:42 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 11:26:44 - INFO - New connected socket [id: Oj16Xyvyq1EKjk5AAACG] 
+7.6.2022, 11:26:44 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: Oj16Xyvyq1EKjk5AAACG] 
+7.6.2022, 11:27:26 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 11:27:27 - INFO - New connected socket [id: Sjl6b80mAMXX1cJ_AACI] 
+7.6.2022, 11:27:27 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: Sjl6b80mAMXX1cJ_AACI] 
+7.6.2022, 11:27:29 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 11:27:30 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 11:29:01 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 11:29:01 - INFO - New connected socket [id: BrE5VP-OqT_ueVvxAACK] 
+7.6.2022, 11:29:02 - INFO - Setting socket.userId = 629dd53e2970984f8e1994be for socket [id: BrE5VP-OqT_ueVvxAACK] 
+7.6.2022, 11:29:03 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 11:29:04 - DEBUG - Getting Stays (userId: 629dd53e2970984f8e1994be)
+7.6.2022, 11:35:41 - DEBUG - auth.service - login with username: host 
+7.6.2022, 11:35:41 - INFO - User login:  | {"_id":"629dbc94388d60172ca60aeb","username":"host","fullname":"Johny admin","imgUrl":"https://xsgames.co/randomusers/assets/avatars/male/69.jpg","isHost":true,"wishList":["629e55f13c45769c8043b999"]} 
+7.6.2022, 11:35:41 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:35:42 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:43:37 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:43:38 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:43:44 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:43:45 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:45:00 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:45:00 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:50:25 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:50:26 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:51:16 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:51:17 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:51:23 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:51:24 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:51:30 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:51:31 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:51:51 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:51:52 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:52:05 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:52:06 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:52:16 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:52:17 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:52:27 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:52:28 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:52:43 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:52:44 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:52:51 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 11:52:52 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 12:18:26 - INFO - Server is running on port: 3030 
+7.6.2022, 12:18:27 - INFO - New connected socket [id: CzKH924YBsVevLJ0AAAB] 
+7.6.2022, 12:19:40 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 12:19:41 - INFO - New connected socket [id: uDJJQpQyoxeIwd7ZAAAD] 
+7.6.2022, 12:19:42 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: uDJJQpQyoxeIwd7ZAAAD] 
+7.6.2022, 12:22:08 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 12:22:09 - INFO - New connected socket [id: cYgIODuJ-ERgY5JUAAAF] 
+7.6.2022, 12:22:12 - DEBUG - Getting Stays 
+7.6.2022, 12:22:13 - DEBUG - Getting Stays 
+7.6.2022, 12:23:15 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 12:23:16 - INFO - New connected socket [id: mr8tSHx4tLVlEcoLAAAH] 
+7.6.2022, 12:23:17 - DEBUG - Getting Stays 
+7.6.2022, 12:23:17 - DEBUG - Getting Stays 
+7.6.2022, 12:24:09 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 12:24:10 - INFO - New connected socket [id: DEcUEGUjRy2J6uEyAAAJ] 
+7.6.2022, 12:24:11 - DEBUG - Getting Stays 
+7.6.2022, 12:24:11 - DEBUG - Getting Stays 
+7.6.2022, 12:25:20 - DEBUG - Getting Stays 
+7.6.2022, 12:25:21 - DEBUG - Getting Stays 
+7.6.2022, 12:25:24 - DEBUG - Getting Stays 
+7.6.2022, 12:25:24 - DEBUG - Getting Stays 
+7.6.2022, 12:25:53 - DEBUG - auth.service - login with username: host 
+7.6.2022, 12:25:53 - INFO - User login:  | {"_id":"629dbc94388d60172ca60aeb","username":"host","fullname":"Johny admin","imgUrl":"https://xsgames.co/randomusers/assets/avatars/male/69.jpg","isHost":true,"wishList":["629e55f13c45769c8043b999"]} 
+7.6.2022, 12:25:54 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 12:25:54 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 12:29:30 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 12:29:31 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 12:32:57 - INFO - No active socket for user: zp1f30x1zywpzxo2w1p5uzy25 
+7.6.2022, 12:54:10 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 12:54:11 - INFO - New connected socket [id: j-QkyrMI9Ye2UKOSAAAL] 
+7.6.2022, 12:54:12 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: j-QkyrMI9Ye2UKOSAAAL] 
+7.6.2022, 12:54:57 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 12:54:59 - INFO - New connected socket [id: ZcXDD-lLH-ajn1FwAAAN] 
+7.6.2022, 12:54:59 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: ZcXDD-lLH-ajn1FwAAAN] 
+7.6.2022, 12:55:13 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 12:55:15 - INFO - New connected socket [id: KHe8W-OYzhnaKNyBAAAP] 
+7.6.2022, 12:55:15 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: KHe8W-OYzhnaKNyBAAAP] 
+7.6.2022, 12:55:21 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 12:55:25 - INFO - New connected socket [id: YCOX8UAWneckjNQHAAAR] 
+7.6.2022, 12:55:25 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: YCOX8UAWneckjNQHAAAR] 
+7.6.2022, 12:55:50 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 12:55:51 - INFO - New connected socket [id: fUwRN-MW10fUA5y7AAAT] 
+7.6.2022, 12:55:52 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: fUwRN-MW10fUA5y7AAAT] 
+7.6.2022, 13:09:28 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 13:09:29 - INFO - New connected socket [id: 5UGmNJ3wMh0pyIWgAAAV] 
+7.6.2022, 13:09:30 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: 5UGmNJ3wMh0pyIWgAAAV] 
+7.6.2022, 13:15:52 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 13:15:53 - INFO - New connected socket [id: fvbbNMCWWCoRJlSbAAAX] 
+7.6.2022, 13:15:53 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: fvbbNMCWWCoRJlSbAAAX] 
+7.6.2022, 13:17:09 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 13:17:11 - INFO - New connected socket [id: iygzXzYjVNdHBxWtAAAZ] 
+7.6.2022, 13:17:12 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: iygzXzYjVNdHBxWtAAAZ] 
+7.6.2022, 13:18:30 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 13:18:31 - INFO - New connected socket [id: abysa-thE4hbP6NpAAAb] 
+7.6.2022, 13:18:32 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: abysa-thE4hbP6NpAAAb] 
+7.6.2022, 13:24:04 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 13:24:05 - INFO - New connected socket [id: abhdPIG6W1SfgN4LAAAd] 
+7.6.2022, 13:24:06 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: abhdPIG6W1SfgN4LAAAd] 
+7.6.2022, 13:31:31 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 13:31:34 - INFO - New connected socket [id: jScJP95zqa_zNKnMAAAf] 
+7.6.2022, 13:31:35 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: jScJP95zqa_zNKnMAAAf] 
+7.6.2022, 13:34:16 - INFO - Server is running on port: 3030 
+7.6.2022, 13:34:18 - INFO - New connected socket [id: kJWHfY65o7zsBirZAAAB] 
+7.6.2022, 13:35:39 - INFO - Server is running on port: 3030 
+7.6.2022, 13:35:39 - INFO - New connected socket [id: vNCbeH3Z1YRhq1YeAAAB] 
+7.6.2022, 13:51:00 - INFO - Server is running on port: 3030 
+7.6.2022, 13:51:01 - INFO - New connected socket [id: ee0h4bzFDMYeHJZUAAAB] 
+7.6.2022, 13:52:09 - INFO - Server is running on port: 3030 
+7.6.2022, 13:52:10 - INFO - New connected socket [id: icUE2ODjWikvLkoLAAAB] 
+7.6.2022, 13:54:56 - INFO - Server is running on port: 3030 
+7.6.2022, 13:54:58 - INFO - New connected socket [id: _UuXScvHI4mTXrU9AAAB] 
+7.6.2022, 13:55:59 - INFO - Server is running on port: 3030 
+7.6.2022, 13:56:00 - INFO - New connected socket [id: 28lwDVNnIYuTQiS-AAAB] 
+7.6.2022, 13:56:07 - INFO - Server is running on port: 3030 
+7.6.2022, 13:56:08 - INFO - New connected socket [id: Js4TAEy46Yv6m_trAAAB] 
