@@ -6211,3 +6211,45 @@
 7.6.2022, 2:45:16 - INFO - New connected socket [id: tN8kNKdjhUGl8WYBAAAN] 
 7.6.2022, 2:45:17 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: tN8kNKdjhUGl8WYBAAAN] 
 7.6.2022, 2:45:20 - INFO - Emiting event: reservation-handled to user: undefined socket [id: P-IyI668e1NVaySZAAAB] (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 12:29:46 - INFO - Server is running on port: 3030 
+7.6.2022, 12:29:51 - INFO - New connected socket [id: c0s2jvjkoQdAxcdCAAAB] 
+7.6.2022, 12:30:27 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 12:30:27 - INFO - New connected socket [id: oES1Thgn9zS2z7wkAAAD] 
+7.6.2022, 12:30:31 - DEBUG - Getting Stays 
+7.6.2022, 12:30:33 - DEBUG - Getting Stays 
+7.6.2022, 12:46:07 - INFO - New connected socket [id: Lfg5kEv8KlZgBoCgAAAF] 
+7.6.2022, 12:47:38 - DEBUG - auth.service - login with username: host 
+7.6.2022, 12:47:39 - INFO - User login:  | {"_id":"629dbc94388d60172ca60aeb","username":"host","fullname":"Johny admin","imgUrl":"https://xsgames.co/randomusers/assets/avatars/male/69.jpg","isHost":true,"wishList":["629e55f13c45769c8043b999"]} 
+7.6.2022, 12:47:39 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 12:47:40 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 12:50:17 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 12:50:18 - INFO - New connected socket [id: qqlSf6NsJlA5gmpQAAAH] 
+7.6.2022, 12:50:19 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: qqlSf6NsJlA5gmpQAAAH] 
+7.6.2022, 12:58:12 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 12:58:12 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 12:58:13 - INFO - New connected socket [id: iIxTznfSghhodikhAAAK] 
+7.6.2022, 12:58:13 - INFO - New connected socket [id: x5Smd7ujQIlA6ucHAAAL] 
+7.6.2022, 12:58:13 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 12:58:13 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: iIxTznfSghhodikhAAAK] 
+7.6.2022, 12:58:14 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 13:04:28 - INFO - New connected socket [id: mHXeVrTMd6lasWcbAAAN] 
+7.6.2022, 13:05:42 - DEBUG - auth.service - login with username: timy@gmail.com 
+7.6.2022, 13:05:42 - INFO - User login:  | {"_id":"629dc1fc58d53c21d619bb4f","username":"timy@gmail.com","fullname":"Tim Randy","imgUrl":"https://xsgames.co/randomusers/assets/avatars/male/68.jpg","isHost":false,"wishList":[]} 
+7.6.2022, 13:05:43 - DEBUG - Getting Stays (userId: 629dc1fc58d53c21d619bb4f)
+7.6.2022, 13:05:43 - DEBUG - Getting Stays (userId: 629dc1fc58d53c21d619bb4f)
+7.6.2022, 13:06:21 - DEBUG - Getting Stays (userId: 629dc1fc58d53c21d619bb4f)
+7.6.2022, 13:06:38 - INFO - Emiting event: reservation-receive to user: 629dbc94388d60172ca60aeb socket [id: iIxTznfSghhodikhAAAK] 
+7.6.2022, 13:06:53 - INFO - Emiting event: reservation-handled to user: undefined socket [id: x5Smd7ujQIlA6ucHAAAL] (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 13:08:03 - INFO - Emiting event: reservation-receive to user: 629dbc94388d60172ca60aeb socket [id: iIxTznfSghhodikhAAAK] 
+7.6.2022, 13:08:23 - INFO - Emiting event: reservation-handled to user: undefined socket [id: x5Smd7ujQIlA6ucHAAAL] (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 13:44:52 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 13:44:53 - INFO - New connected socket [id: WGQ9fNZRqobu7n0UAAAP] 
+7.6.2022, 13:44:53 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: WGQ9fNZRqobu7n0UAAAP] 
+7.6.2022, 13:50:48 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 13:50:48 - INFO - New connected socket [id: OB1pCsZINxoFPVxxAAAR] 
+7.6.2022, 13:50:49 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: OB1pCsZINxoFPVxxAAAR] 
+7.6.2022, 13:51:23 - INFO - Emiting event: reservation-receive to user: 629dbc94388d60172ca60aeb socket [id: OB1pCsZINxoFPVxxAAAR] 
+7.6.2022, 13:51:41 - INFO - Emiting event: reservation-handled to user: undefined socket [id: x5Smd7ujQIlA6ucHAAAL] (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 13:53:58 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 13:53:58 - INFO - New connected socket [id: 6XsUoLmUhaFHuDMzAAAT] 
+7.6.2022, 13:53:59 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: 6XsUoLmUhaFHuDMzAAAT] 
