@@ -7,6 +7,8 @@ async function query(filterBy = {}) {
     try {
         const criteria = _buildCriteria(filterBy)
         const collection = await dbService.getCollection('reservation')
+    //  
+
         // let reservations = await collection.find(criteria).toArray()
         // console.log('RESERVATIONS',reservations)
         let reservations = await collection.aggregate([
@@ -25,20 +27,19 @@ async function query(filterBy = {}) {
             {
                 $unwind: '$listingName'
             },
-            
+
         ]).toArray()
-        // console.log('RESERVATIONS after',reservations);
+        console.log('Reservat',reservations);
         reservations = reservations.map(reservation => {
             reservation.listingName = reservation.listingName.name
             reservation.guests = reservation.guests.total
             reservation.checkIn = reservation.dates.checkIn
             reservation.checkOut = reservation.dates.checkOut
+            reservation.bookedAt = _getReservationDate(reservation._id)
             delete reservation.dates
             delete reservation.buyerId
             return reservation
         })
-        
-        console.log('RESERVATIONS after??????????????');
         return reservations
     } catch (err) {
         logger.error('cannot find reservations', err)
@@ -52,10 +53,11 @@ async function remove(reservationId) {
         const store = asyncLocalStorage.getStore()
         const { loggedinUser } = store
         const collection = await dbService.getCollection('reservation')
+
         // remove only if user is owner/admin
         const criteria = { _id: ObjectId(reservationId) }
         if (!loggedinUser.isAdmin) criteria.byUserId = ObjectId(loggedinUser._id)
-        const {deletedCount} = await collection.deleteOne(criteria)
+        const { deletedCount } = await collection.deleteOne(criteria)
         return deletedCount
     } catch (err) {
         logger.error(`cannot remove reservation ${reservationId}`, err)
@@ -63,19 +65,29 @@ async function remove(reservationId) {
     }
 }
 
+async function update(reservation) {
+    try {
+        var id = ObjectId(reservation._id)
+        const status = reservation.status
+        delete reservation._id
+        const collection = await dbService.getCollection('reservation')
+        await collection.updateOne({ _id: id }, { $set: { status } })
+        return reservation
+    } catch (err) {
+        logger.error(`cannot update stay ${reservation._id}`, err)
+        throw err
+    }
+}
+
+function _getReservationDate(objectId) {
+    return new Date(parseInt(objectId.substring(0, 8), 16) * 1000);
+}
 
 async function add(reservation) {
     try {
-        // in case of ARRGATION
-        // const reservationToAdd = {
-        //     ...reservation,
-        //     buyerId: ObjectId(reservation.buyerId),
-        //     buyerId: ObjectId(reservation.buyerId),
-        //     buyerId: ObjectId(reservation.buyerId) 
-        // }
-
         const collection = await dbService.getCollection('reservation')
         await collection.insertOne(reservation)
+       
         return reservation
     } catch (err) {
         logger.error('cannot book reservation', err)
@@ -92,7 +104,8 @@ function _buildCriteria(filterBy) {
 module.exports = {
     query,
     remove,
-    add
+    add,
+    update
 }
 
 
