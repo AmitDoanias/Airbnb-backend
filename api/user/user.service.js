@@ -1,8 +1,7 @@
 
 const dbService = require('../../services/db.service')
 const logger = require('../../services/logger.service')
-// const reviewService = require('../review/review.service')
-const {ObjectId} = require('mongodb')
+const { ObjectId } = require('mongodb')
 
 module.exports = {
     query,
@@ -90,12 +89,12 @@ async function update(user) {
 
 async function add(user) {
     try {
-        // peek only updatable fields!
         const userToAdd = {
             username: user.username,
             password: user.password,
             fullname: user.fullname,
-            imgUrl: user.imgUrl,
+            // imgUrl: user.imgUrl,
+            imgUrl: "https://xsgames.co/randomusers/assets/avatars/male/68.jpg",
             isHost: false,
             wishList: []
         }

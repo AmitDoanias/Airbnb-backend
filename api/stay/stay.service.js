@@ -63,7 +63,7 @@ async function update(stay) {
 
 function _buildCriteria(filterBy) {
     const { category, searchBy, properties, hostId } = filterBy
-  
+
     let criteria = {}
 
     if (searchBy) {
@@ -88,27 +88,27 @@ function _buildCriteria(filterBy) {
     // if (category) {
     //     criteria.category = { $all: category }
     // }
-      if (category) criteria.category = category
+    if (category) criteria.category = category
 
     if (properties) {
         const newProperties = JSON.parse(properties)
-        const { price,beds, roomType, amenities } = newProperties
+        const { price, beds, roomType, amenities } = newProperties
 
         if (beds) {
             criteria.bedrooms = { $gte: beds }
         }
 
-        if(price){
+        if (price) {
             criteria = {
                 ...criteria,
                 $and: [
-                    { 'price':  { $gte: price.min } },
+                    { 'price': { $gte: price.min } },
                     { 'price': { $lte: price.max } },
-                    
+
                 ]
             }
         }
-    
+
         let roomTypesKeys = Object.keys(roomType)
         let filterdRoomTypes = []
         roomTypesKeys.forEach(type => {
@@ -116,7 +116,7 @@ function _buildCriteria(filterBy) {
                 filterdRoomTypes.push(type)
             }
         })
-        
+
         if (filterdRoomTypes.length) {
             criteria.roomType = { $all: filterdRoomTypes }
         }
@@ -130,7 +130,7 @@ function _buildCriteria(filterBy) {
         })
 
         if (filterdAmenities.length) {
-            criteria.amenities = { $all:filterdAmenities }
+            criteria.amenities = { $all: filterdAmenities }
         }
     }
 
