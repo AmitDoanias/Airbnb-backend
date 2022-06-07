@@ -3,11 +3,11 @@ const userService = require('../user/user.service')
 const authService = require('../auth/auth.service')
 const socketService = require('../../services/socket.service')
 const reservationService = require('./reservation.service')
+const ObjectId = require('mongodb').ObjectId
 
 async function getReservations(req, res) {
     try {
         const reservations = await reservationService.query(req.query)
-        console.log('GOT THE RESERVE',reservations);
         res.send(reservations)
     } catch (err) {
         logger.error('Cannot get reservations', err)
@@ -31,12 +31,14 @@ async function getReservations(req, res) {
 
 
 async function addReservation(req, res) {
-
+    console.log('GETTOING USER');
     var loggedinUser = authService.validateToken(req.cookies.loginToken)
- 
+    
     try {
         var reservation = req.body
+        console.log('RESER USER',reservation);
         reservation.buyerId = loggedinUser._id
+        reservation.stayId = ObjectId(reservation.stayId)
         reservation = await reservationService.add(reservation)
 
         // socketService.broadcast({type: 'reservation-added', data: reservation, userId: reservation.buyerId})
