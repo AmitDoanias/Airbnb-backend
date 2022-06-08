@@ -6196,3 +6196,288 @@
 6.6.2022, 15:05:29 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
 6.6.2022, 15:05:30 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
 >>>>>>> origin/main
+7.6.2022, 13:57:53 - INFO - Server is running on port: 3030 
+7.6.2022, 13:57:56 - INFO - New connected socket [id: DKCEwu-w6FqXY9Y2AAAB] 
+7.6.2022, 13:58:59 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 13:59:13 - INFO - New connected socket [id: FIVK8pds6Ma7RmLpAAAD] 
+7.6.2022, 13:59:14 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: FIVK8pds6Ma7RmLpAAAD] 
+7.6.2022, 13:59:16 - ERROR - cannot find reservations | TypeError: objectId.substring is not a function (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 13:59:16 - ERROR - Cannot get reservations | TypeError: objectId.substring is not a function (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 14:01:09 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 14:01:10 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 14:01:29 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 14:01:30 - INFO - New connected socket [id: RF3AElLta7GSfnayAAAF] 
+7.6.2022, 14:01:30 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: RF3AElLta7GSfnayAAAF] 
+7.6.2022, 14:11:38 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 14:11:43 - INFO - New connected socket [id: zNo8BqmmdH4jo2LrAAAH] 
+7.6.2022, 14:11:43 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: zNo8BqmmdH4jo2LrAAAH] 
+7.6.2022, 14:22:49 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 14:23:01 - INFO - New connected socket [id: TYzUMFmoUM2kcPeXAAAJ] 
+7.6.2022, 14:23:02 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: TYzUMFmoUM2kcPeXAAAJ] 
+7.6.2022, 15:29:41 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 15:30:00 - INFO - New connected socket [id: enwfGDZ08lQgdkvIAAAL] 
+7.6.2022, 15:30:01 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: enwfGDZ08lQgdkvIAAAL] 
+7.6.2022, 15:59:55 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 15:59:57 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 16:33:27 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 16:33:28 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 16:34:12 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 16:34:12 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 16:34:17 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 16:34:18 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 16:38:58 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 16:38:59 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 16:39:18 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 16:39:19 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 16:39:25 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 16:39:25 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 16:39:29 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 16:39:30 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 16:48:44 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 16:48:46 - INFO - New connected socket [id: I_X9DI6vikvCvllgAAAN] 
+7.6.2022, 16:48:46 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: I_X9DI6vikvCvllgAAAN] 
+7.6.2022, 16:48:49 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 16:48:50 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 16:50:40 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 16:50:41 - INFO - New connected socket [id: JHTo69kCHj1tu55KAAAP] 
+7.6.2022, 16:50:41 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: JHTo69kCHj1tu55KAAAP] 
+7.6.2022, 16:51:26 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 16:51:27 - INFO - New connected socket [id: btA2vTMNvXkl0QXxAAAR] 
+7.6.2022, 16:51:28 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: btA2vTMNvXkl0QXxAAAR] 
+7.6.2022, 16:52:52 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 16:52:53 - INFO - New connected socket [id: 44G9l8N6F7814kd-AAAT] 
+7.6.2022, 16:52:54 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: 44G9l8N6F7814kd-AAAT] 
+7.6.2022, 16:54:34 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 16:54:35 - INFO - New connected socket [id: 9w1c-mvvJ8UrCwRhAAAV] 
+7.6.2022, 16:54:36 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: 9w1c-mvvJ8UrCwRhAAAV] 
+7.6.2022, 17:00:09 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 17:00:10 - INFO - New connected socket [id: Fl8g32iO6D2-elwRAAAX] 
+7.6.2022, 17:00:10 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: Fl8g32iO6D2-elwRAAAX] 
+7.6.2022, 17:03:42 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 17:03:43 - INFO - New connected socket [id: EC0VoYK9-J8QtxOxAAAZ] 
+7.6.2022, 17:03:44 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: EC0VoYK9-J8QtxOxAAAZ] 
+7.6.2022, 17:07:59 - INFO - Server is running on port: 3030 
+7.6.2022, 17:08:02 - INFO - New connected socket [id: Y0iM27lGGYrVlWtbAAAB] 
+7.6.2022, 17:08:38 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 17:08:50 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 17:08:52 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 17:09:02 - INFO - New connected socket [id: ZyIHokfdLsK5QbbPAAAD] 
+7.6.2022, 17:09:03 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: ZyIHokfdLsK5QbbPAAAD] 
+7.6.2022, 17:15:08 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 17:15:08 - INFO - New connected socket [id: IDbsqLVLtkn0DdvBAAAF] 
+7.6.2022, 17:15:09 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: IDbsqLVLtkn0DdvBAAAF] 
+7.6.2022, 17:16:00 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 17:16:02 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 17:26:30 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 17:26:32 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 17:26:49 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 17:26:50 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 17:30:18 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 17:30:19 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 17:52:15 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 17:52:16 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 18:08:50 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 18:08:51 - INFO - New connected socket [id: m4RqdsZUFwJeY4JLAAAH] 
+7.6.2022, 18:08:51 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: m4RqdsZUFwJeY4JLAAAH] 
+7.6.2022, 18:21:04 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 18:21:06 - INFO - New connected socket [id: 1NrVZGuzQRbjoFJCAAAJ] 
+7.6.2022, 18:21:06 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: 1NrVZGuzQRbjoFJCAAAJ] 
+7.6.2022, 19:05:39 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 19:05:41 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 19:06:52 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 19:06:53 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 19:06:57 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 19:06:58 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 19:13:44 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 19:13:55 - INFO - New connected socket [id: ltaAXFitIPba1FEKAAAL] 
+7.6.2022, 19:13:55 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: ltaAXFitIPba1FEKAAAL] 
+7.6.2022, 19:14:14 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 19:14:15 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 19:14:22 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 19:14:23 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 20:39:16 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+7.6.2022, 22:16:51 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 8:20:04 - INFO - New connected socket [id: vou5rL0U9b1pnjdCAAAN] 
+8.6.2022, 8:22:16 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 8:22:18 - INFO - New connected socket [id: hQVhTlMVVREFWlYrAAAP] 
+8.6.2022, 8:32:51 - DEBUG - Getting Stays 
+8.6.2022, 8:32:53 - DEBUG - Getting Stays 
+8.6.2022, 8:32:55 - DEBUG - Getting Stays 
+8.6.2022, 8:33:11 - DEBUG - Getting Stays 
+8.6.2022, 8:33:18 - DEBUG - Getting Stays 
+8.6.2022, 8:33:26 - DEBUG - Getting Stays 
+8.6.2022, 8:33:28 - DEBUG - Getting Stays 
+8.6.2022, 8:33:38 - DEBUG - Getting Stays 
+8.6.2022, 8:33:40 - DEBUG - Getting Stays 
+8.6.2022, 8:33:41 - DEBUG - Getting Stays 
+8.6.2022, 8:34:01 - DEBUG - Getting Stays 
+8.6.2022, 8:36:08 - DEBUG - Getting Stays 
+8.6.2022, 8:36:09 - DEBUG - Getting Stays 
+8.6.2022, 8:36:34 - DEBUG - Getting Stays 
+8.6.2022, 8:36:35 - DEBUG - Getting Stays 
+8.6.2022, 8:37:47 - DEBUG - Getting Stays 
+8.6.2022, 8:37:48 - DEBUG - Getting Stays 
+8.6.2022, 8:37:58 - DEBUG - Getting Stays 
+8.6.2022, 8:37:59 - DEBUG - Getting Stays 
+8.6.2022, 8:38:01 - DEBUG - Getting Stays 
+8.6.2022, 8:39:17 - DEBUG - Getting Stays 
+8.6.2022, 8:39:17 - DEBUG - Getting Stays 
+8.6.2022, 8:39:22 - DEBUG - Getting Stays 
+8.6.2022, 8:39:22 - DEBUG - Getting Stays 
+8.6.2022, 8:39:26 - DEBUG - Getting Stays 
+8.6.2022, 8:39:26 - DEBUG - Getting Stays 
+8.6.2022, 8:39:27 - DEBUG - Getting Stays 
+8.6.2022, 8:39:27 - DEBUG - Getting Stays 
+8.6.2022, 8:39:28 - DEBUG - Getting Stays 
+8.6.2022, 8:39:29 - DEBUG - Getting Stays 
+8.6.2022, 8:39:30 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 8:39:31 - INFO - New connected socket [id: pdsNqJWnS5xk3mshAAAR] 
+8.6.2022, 8:39:31 - DEBUG - Getting Stays 
+8.6.2022, 8:39:31 - DEBUG - Getting Stays 
+8.6.2022, 8:39:42 - DEBUG - Getting Stays 
+8.6.2022, 8:39:42 - DEBUG - Getting Stays 
+8.6.2022, 8:39:43 - DEBUG - Getting Stays 
+8.6.2022, 8:39:44 - DEBUG - Getting Stays 
+8.6.2022, 8:40:40 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 8:40:40 - INFO - New connected socket [id: ru7PtrfqjcK7oZwLAAAT] 
+8.6.2022, 8:40:41 - DEBUG - Getting Stays 
+8.6.2022, 8:40:41 - DEBUG - Getting Stays 
+8.6.2022, 8:40:52 - DEBUG - Getting Stays 
+8.6.2022, 8:40:53 - DEBUG - Getting Stays 
+8.6.2022, 8:40:55 - DEBUG - Getting Stays 
+8.6.2022, 8:40:56 - DEBUG - Getting Stays 
+8.6.2022, 8:41:00 - DEBUG - Getting Stays 
+8.6.2022, 8:41:01 - DEBUG - Getting Stays 
+8.6.2022, 8:41:09 - DEBUG - Getting Stays 
+8.6.2022, 8:41:11 - DEBUG - Getting Stays 
+8.6.2022, 8:41:58 - DEBUG - Getting Stays 
+8.6.2022, 8:41:58 - DEBUG - Getting Stays 
+8.6.2022, 8:42:42 - DEBUG - Getting Stays 
+8.6.2022, 8:42:43 - DEBUG - Getting Stays 
+8.6.2022, 8:42:44 - DEBUG - Getting Stays 
+8.6.2022, 8:42:55 - DEBUG - Getting Stays 
+8.6.2022, 8:42:57 - DEBUG - Getting Stays 
+8.6.2022, 8:43:29 - DEBUG - Getting Stays 
+8.6.2022, 8:43:33 - DEBUG - Getting Stays 
+8.6.2022, 8:46:33 - DEBUG - Getting Stays 
+8.6.2022, 8:46:34 - DEBUG - Getting Stays 
+8.6.2022, 8:46:35 - DEBUG - Getting Stays 
+8.6.2022, 8:47:40 - DEBUG - Getting Stays 
+8.6.2022, 8:47:50 - DEBUG - Getting Stays 
+8.6.2022, 8:47:53 - DEBUG - Getting Stays 
+8.6.2022, 8:47:57 - DEBUG - Getting Stays 
+8.6.2022, 8:48:03 - DEBUG - Getting Stays 
+8.6.2022, 8:48:05 - DEBUG - Getting Stays 
+8.6.2022, 8:48:06 - DEBUG - Getting Stays 
+8.6.2022, 8:48:11 - DEBUG - Getting Stays 
+8.6.2022, 8:48:25 - DEBUG - Getting Stays 
+8.6.2022, 8:48:26 - DEBUG - Getting Stays 
+8.6.2022, 8:48:27 - DEBUG - Getting Stays 
+8.6.2022, 8:48:28 - DEBUG - Getting Stays 
+8.6.2022, 8:48:30 - DEBUG - Getting Stays 
+8.6.2022, 8:48:34 - DEBUG - Getting Stays 
+8.6.2022, 8:48:35 - DEBUG - Getting Stays 
+8.6.2022, 8:49:01 - DEBUG - Getting Stays 
+8.6.2022, 8:49:01 - DEBUG - Getting Stays 
+8.6.2022, 8:50:15 - DEBUG - Getting Stays 
+8.6.2022, 8:50:15 - DEBUG - Getting Stays 
+8.6.2022, 8:50:16 - DEBUG - Getting Stays 
+8.6.2022, 8:50:18 - DEBUG - Getting Stays 
+8.6.2022, 8:50:18 - DEBUG - Getting Stays 
+8.6.2022, 8:50:20 - DEBUG - Getting Stays 
+8.6.2022, 8:50:21 - DEBUG - Getting Stays 
+8.6.2022, 8:50:23 - DEBUG - Getting Stays 
+8.6.2022, 8:50:25 - DEBUG - Getting Stays 
+8.6.2022, 8:51:49 - DEBUG - Getting Stays 
+8.6.2022, 8:51:50 - DEBUG - Getting Stays 
+8.6.2022, 8:52:51 - DEBUG - Getting Stays 
+8.6.2022, 8:52:51 - DEBUG - Getting Stays 
+8.6.2022, 8:55:12 - DEBUG - Getting Stays 
+8.6.2022, 8:55:13 - DEBUG - Getting Stays 
+8.6.2022, 8:55:22 - DEBUG - Getting Stays 
+8.6.2022, 8:55:24 - DEBUG - Getting Stays 
+8.6.2022, 8:57:03 - DEBUG - Getting Stays 
+8.6.2022, 8:57:03 - DEBUG - Getting Stays 
+8.6.2022, 8:57:05 - DEBUG - Getting Stays 
+8.6.2022, 8:57:05 - DEBUG - Getting Stays 
+8.6.2022, 8:57:07 - DEBUG - Getting Stays 
+8.6.2022, 8:57:08 - DEBUG - Getting Stays 
+8.6.2022, 8:57:09 - DEBUG - Getting Stays 
+8.6.2022, 8:57:11 - DEBUG - Getting Stays 
+8.6.2022, 8:57:19 - DEBUG - Getting Stays 
+8.6.2022, 8:57:24 - DEBUG - Getting Stays 
+8.6.2022, 8:57:26 - DEBUG - Getting Stays 
+8.6.2022, 8:57:41 - DEBUG - Getting Stays 
+8.6.2022, 8:57:42 - DEBUG - Getting Stays 
+8.6.2022, 8:57:43 - DEBUG - Getting Stays 
+8.6.2022, 8:57:53 - DEBUG - Getting Stays 
+8.6.2022, 8:58:10 - DEBUG - Getting Stays 
+8.6.2022, 8:58:36 - DEBUG - Getting Stays 
+8.6.2022, 8:58:36 - DEBUG - Getting Stays 
+8.6.2022, 8:58:42 - DEBUG - Getting Stays 
+8.6.2022, 8:58:57 - DEBUG - Getting Stays 
+8.6.2022, 8:58:58 - DEBUG - Getting Stays 
+8.6.2022, 8:58:59 - DEBUG - Getting Stays 
+8.6.2022, 8:59:01 - DEBUG - Getting Stays 
+8.6.2022, 8:59:02 - DEBUG - Getting Stays 
+8.6.2022, 8:59:03 - DEBUG - Getting Stays 
+8.6.2022, 8:59:04 - DEBUG - Getting Stays 
+8.6.2022, 8:59:05 - DEBUG - Getting Stays 
+8.6.2022, 8:59:11 - DEBUG - Getting Stays 
+8.6.2022, 8:59:16 - DEBUG - Getting Stays 
+8.6.2022, 8:59:18 - DEBUG - Getting Stays 
+8.6.2022, 8:59:19 - DEBUG - Getting Stays 
+8.6.2022, 8:59:29 - DEBUG - Getting Stays 
+8.6.2022, 8:59:32 - DEBUG - Getting Stays 
+8.6.2022, 8:59:34 - DEBUG - Getting Stays 
+8.6.2022, 8:59:38 - DEBUG - Getting Stays 
+8.6.2022, 8:59:41 - DEBUG - Getting Stays 
+8.6.2022, 8:59:42 - DEBUG - Getting Stays 
+8.6.2022, 8:59:45 - DEBUG - Getting Stays 
+8.6.2022, 8:59:51 - DEBUG - Getting Stays 
+8.6.2022, 9:00:13 - DEBUG - Getting Stays 
+8.6.2022, 9:00:13 - DEBUG - Getting Stays 
+8.6.2022, 9:00:23 - DEBUG - Getting Stays 
+8.6.2022, 9:00:23 - DEBUG - Getting Stays 
+8.6.2022, 9:03:34 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 9:03:34 - INFO - New connected socket [id: sqU2KP1l67lbzlivAAAV] 
+8.6.2022, 9:03:37 - DEBUG - Getting Stays 
+8.6.2022, 9:03:37 - DEBUG - Getting Stays 
+8.6.2022, 9:05:39 - DEBUG - Getting Stays 
+8.6.2022, 9:05:39 - DEBUG - Getting Stays 
+8.6.2022, 9:06:05 - DEBUG - Getting Stays 
+8.6.2022, 9:06:06 - DEBUG - Getting Stays 
+8.6.2022, 9:07:07 - DEBUG - Getting Stays 
+8.6.2022, 9:07:07 - DEBUG - Getting Stays 
+8.6.2022, 9:07:25 - DEBUG - Getting Stays 
+8.6.2022, 9:07:28 - DEBUG - Getting Stays 
+8.6.2022, 9:07:31 - DEBUG - Getting Stays 
+8.6.2022, 9:07:33 - DEBUG - Getting Stays 
+8.6.2022, 9:18:44 - DEBUG - Getting Stays 
+8.6.2022, 9:18:45 - DEBUG - Getting Stays 
+8.6.2022, 9:18:46 - DEBUG - Getting Stays 
+8.6.2022, 9:18:46 - DEBUG - Getting Stays 
+8.6.2022, 9:33:50 - DEBUG - Getting Stays 
+8.6.2022, 9:33:51 - DEBUG - Getting Stays 
+8.6.2022, 9:33:53 - DEBUG - Getting Stays 
+8.6.2022, 9:33:55 - DEBUG - Getting Stays 
+8.6.2022, 9:33:56 - DEBUG - Getting Stays 
+8.6.2022, 9:33:58 - DEBUG - Getting Stays 
+8.6.2022, 9:34:00 - DEBUG - Getting Stays 
+8.6.2022, 9:34:09 - DEBUG - Getting Stays 
+8.6.2022, 9:34:11 - DEBUG - Getting Stays 
+8.6.2022, 9:34:12 - DEBUG - Getting Stays 
+8.6.2022, 9:34:13 - DEBUG - Getting Stays 
+8.6.2022, 9:34:15 - DEBUG - Getting Stays 
+8.6.2022, 9:39:32 - DEBUG - Getting Stays 
+8.6.2022, 9:39:32 - DEBUG - Getting Stays 
+8.6.2022, 9:39:57 - DEBUG - Getting Stays 
+8.6.2022, 9:39:58 - DEBUG - Getting Stays 
+8.6.2022, 9:40:20 - DEBUG - Getting Stays 
+8.6.2022, 9:40:22 - DEBUG - Getting Stays 
+8.6.2022, 9:40:23 - DEBUG - Getting Stays 
+8.6.2022, 9:40:24 - DEBUG - Getting Stays 
+8.6.2022, 9:40:25 - DEBUG - Getting Stays 
+8.6.2022, 9:40:26 - DEBUG - Getting Stays 
+8.6.2022, 9:58:26 - DEBUG - Getting Stays 
+8.6.2022, 9:58:26 - DEBUG - Getting Stays 
