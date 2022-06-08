@@ -43,7 +43,10 @@ async function addReservation(req, res) {
         var reservation = req.body
         reservation.buyerId = loggedinUser._id
         reservation.stayId = ObjectId(reservation.stayId)
+        console.log('BEFORE ADDING RESERVATIONS',reservation);
+
         reservation = await reservationService.add(reservation)
+        console.log('AFter ADDING RESERVATIONS',reservation);
 
         // socketService.broadcast({type: 'reservation-added', data: reservation, userId: reservation.buyerId})
         // socketService.emitToUser({type: 'reservation-about-you', data: reservation, userId: reservation.aboutUserId})

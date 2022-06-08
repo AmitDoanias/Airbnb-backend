@@ -88,6 +88,7 @@ function _buildCriteria(filterBy) {
     // if (category) {
     //     criteria.category = { $all: category }
     // }
+
     if (category) criteria.category = category
 
     if (properties) {
@@ -110,24 +111,15 @@ function _buildCriteria(filterBy) {
         }
 
         let roomTypesKeys = Object.keys(roomType)
-        let filterdRoomTypes = []
-        roomTypesKeys.forEach(type => {
-            if (roomType[type]) {
-                filterdRoomTypes.push(type)
-            }
-        })
-
+        
+        const filterdRoomTypes =roomTypesKeys.filter(type => roomType[type])
         if (filterdRoomTypes.length) {
             criteria.roomType = { $all: filterdRoomTypes }
         }
 
         let amenitiesKeys = Object.keys(amenities)
-        let filterdAmenities = []
-        amenitiesKeys.forEach(amenitie => {
-            if (amenities[amenitie]) {
-                filterdAmenities.push(amenitie)
-            }
-        })
+        const filterdAmenities =amenitiesKeys.filter(amenitie => amenities[amenitie])
+      
 
         if (filterdAmenities.length) {
             criteria.amenities = { $all: filterdAmenities }
