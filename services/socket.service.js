@@ -23,10 +23,6 @@ function setupSocketAPI(http) {
         //     socket.myTopic = topic
         // })
         socket.on('reservation-made', reservation => {
-            // console.log('GOT THE RESERVATION', reservation);
-            // logger.info(`New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
-            // gIo.to(socket.myTopic).emit('user typing', {user:username, isTyping:true})
-            // broadcast({type:'user typing', data:{user:user.fullname, isTyping:true},room:socket.myTopic ,userId:socket.userId})
             emitToUser({ type:'reservation-receive', data:reservation._id, userId:reservation.hostId })
         })
 
@@ -45,7 +41,7 @@ function setupSocketAPI(http) {
             
         // })
         socket.on('set-user-socket', userId => {
-            console.log('PUTTING THE SOCKET BITCH',userId);
+         
             logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
             socket.userId = userId
         })
@@ -64,7 +60,7 @@ function emitTo({ type, data, label }) {
 
 async function emitToUser({ type, data, userId }) {
     const socket = await _getUserSocket(userId)
-    console.log('GOT SOCKET',socket);
+  
 
     if (socket) {
         logger.info(`Emiting event: ${type} to user: ${userId} socket [id: ${socket.id}]`)
@@ -96,11 +92,11 @@ async function broadcast({ type, data, room = null, userId }) {
 }
 
 async function _getUserSocket(userId) {
-    console.log('GETTING SOCKET',userId);
+
     const sockets = await _getAllSockets()
     // console.log("GOT ALL SOCKETTS",sockets);
     const socket = sockets.find(s => {
-       console.log('SUSERRE',s.userId);
+  
         return s.userId === userId
     })
     return socket

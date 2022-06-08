@@ -7,6 +7,7 @@ async function query(filterBy = {}) {
     try {
         const criteria = _buildCriteria(filterBy)
         const collection = await dbService.getCollection('reservation')
+    //  
 
         // let reservations = await collection.find(criteria).toArray()
         // console.log('RESERVATIONS',reservations)
@@ -28,17 +29,18 @@ async function query(filterBy = {}) {
             },
 
         ]).toArray()
+        console.log('RESERVATIONS BEFORE',reservations);
         reservations = reservations.map(reservation => {
             reservation.listingName = reservation.listingName.name
             reservation.guests = reservation.guests.total
             reservation.checkIn = reservation.dates.checkIn
             reservation.checkOut = reservation.dates.checkOut
-            reservation.bookedAt = _getReservationDate(reservation._id)
+            // reservation.bookedAt = '3423'
+            reservation.bookedAt = reservation._id.getTimestamp()
             delete reservation.dates
             delete reservation.buyerId
             return reservation
         })
-
         return reservations
     } catch (err) {
         logger.error('cannot find reservations', err)
@@ -64,22 +66,27 @@ async function remove(reservationId) {
     }
 }
 
-function _getReservationDate(objectId) {
-    return new Date(parseInt(objectId.substring(0, 8), 16) * 1000);
+async function update(reservation) {
+    try {
+        var id = ObjectId(reservation._id)
+        const status = reservation.status
+        delete reservation._id
+        const collection = await dbService.getCollection('reservation')
+        await collection.updateOne({ _id: id }, { $set: { status } })
+        return reservation
+    } catch (err) {
+        logger.error(`cannot update stay ${reservation._id}`, err)
+        throw err
+    }
 }
+
+
 
 async function add(reservation) {
     try {
-        // in case of ARRGATION
-        // const reservationToAdd = {
-        //     ...reservation,
-        //     buyerId: ObjectId(reservation.buyerId),
-        //     buyerId: ObjectId(reservation.buyerId),
-        //     buyerId: ObjectId(reservation.buyerId) 
-        // }
-
         const collection = await dbService.getCollection('reservation')
         await collection.insertOne(reservation)
+       
         return reservation
     } catch (err) {
         logger.error('cannot book reservation', err)
@@ -89,15 +96,15 @@ async function add(reservation) {
 
 function _buildCriteria(filterBy) {
     const criteria = {}
-    // if (filterBy.hostId) criteria.hostId = filterBy.hostId
-    // console.log('CREITIETIEITE',criteria);
+    if (filterBy.hostId) criteria.hostId = filterBy.hostId
     return criteria
 }
 
 module.exports = {
     query,
     remove,
-    add
+    add,
+    update
 }
 
 
