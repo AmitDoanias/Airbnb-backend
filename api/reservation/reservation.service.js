@@ -29,13 +29,14 @@ async function query(filterBy = {}) {
             },
 
         ]).toArray()
-        console.log('Reservat',reservations);
+        console.log('RESERVATIONS BEFORE',reservations);
         reservations = reservations.map(reservation => {
             reservation.listingName = reservation.listingName.name
             reservation.guests = reservation.guests.total
             reservation.checkIn = reservation.dates.checkIn
             reservation.checkOut = reservation.dates.checkOut
-            reservation.bookedAt = _getReservationDate(reservation._id)
+            // reservation.bookedAt = '3423'
+            reservation.bookedAt = reservation._id.getTimestamp()
             delete reservation.dates
             delete reservation.buyerId
             return reservation
@@ -79,9 +80,7 @@ async function update(reservation) {
     }
 }
 
-function _getReservationDate(objectId) {
-    return new Date(parseInt(objectId.substring(0, 8), 16) * 1000);
-}
+
 
 async function add(reservation) {
     try {
