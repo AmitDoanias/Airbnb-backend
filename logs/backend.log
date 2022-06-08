@@ -7512,3 +7512,143 @@
 >>>>>>> origin/main
 >>>>>>> origin/main
 >>>>>>> 41d536a072b46b3238e258bb0ddf9af1b742c0e8
+8.6.2022, 1:33:42 - INFO - Server is running on port: 3030 
+8.6.2022, 1:33:42 - INFO - New connected socket [id: ZC5BPzfhlJkd1XvEAAAC] 
+8.6.2022, 1:33:42 - INFO - New connected socket [id: 2JPSlQa7Eeb2pFtsAAAD] 
+8.6.2022, 1:33:42 - INFO - New connected socket [id: dVLMEK3wHOm8-KB5AAAF] 
+8.6.2022, 1:33:49 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 1:33:49 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 1:34:02 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 1:34:20 - INFO - New connected socket [id: scCkiFOW2Q0XjWXXAAAH] 
+8.6.2022, 1:35:28 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:35:30 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:35:30 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:35:33 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 1:35:33 - INFO - New connected socket [id: 6-jP8YjX-VW6CZ3PAAAJ] 
+8.6.2022, 1:35:33 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:35:34 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:35:34 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:35:53 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:35:54 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:35:54 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:36:11 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:36:11 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:36:12 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:36:42 - DEBUG - auth.service - login with username: adi@gmail.com (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:36:42 - INFO - User login:  | {"_id":"629e773fa302320ea1493abd","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"isHost":false,"wishList":["629e55f13c45769c8043b991","629e55f13c45769c8043b990","629e55f13c45769c8043b992","629e55f13c45769c8043b9be"]} (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:36:43 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:36:43 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:36:50 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:36:52 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:36:57 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:37:04 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:37:05 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:37:39 - DEBUG - auth.service - login with username: adi@gmail.com 
+8.6.2022, 1:37:39 - INFO - User login:  | {"_id":"629e773fa302320ea1493abd","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"isHost":false,"wishList":["629e55f13c45769c8043b990","629e55f13c45769c8043b9be"]} 
+8.6.2022, 1:37:39 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:37:40 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:38:11 - DEBUG - auth.service - login with username: host 
+8.6.2022, 1:38:11 - INFO - User login:  | {"_id":"629dbc94388d60172ca60aeb","username":"host","fullname":"Johny admin","imgUrl":"https://xsgames.co/randomusers/assets/avatars/male/69.jpg","isHost":true,"wishList":["629e55f13c45769c8043b999"]} 
+8.6.2022, 1:38:11 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+8.6.2022, 1:38:12 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+8.6.2022, 1:40:02 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+8.6.2022, 1:40:03 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+8.6.2022, 1:51:08 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 1:51:08 - INFO - New connected socket [id: 0X28GR573-natD8iAAAL] 
+8.6.2022, 1:51:09 - INFO - Setting socket.userId = 629dbc94388d60172ca60aeb for socket [id: 0X28GR573-natD8iAAAL] 
+8.6.2022, 1:51:44 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+8.6.2022, 1:51:45 - DEBUG - Getting Stays (userId: 629dbc94388d60172ca60aeb)
+8.6.2022, 1:58:27 - DEBUG - auth.service - login with username: adi@gmail.com 
+8.6.2022, 1:58:28 - INFO - User login:  | {"_id":"629e773fa302320ea1493abd","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"isHost":false,"wishList":["629e55f13c45769c8043b990","629e55f13c45769c8043b9be"]} 
+8.6.2022, 1:58:28 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 1:58:29 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 2:15:34 - DEBUG - auth.service - login with username: adi@gmail.com 
+8.6.2022, 2:15:35 - INFO - User login:  | {"_id":"629e773fa302320ea1493abd","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"isHost":false,"wishList":["629e55f13c45769c8043b990","629e55f13c45769c8043b9be"]} 
+8.6.2022, 2:15:35 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 2:15:36 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 2:20:45 - DEBUG - auth.service - login with username: eli@gmail.com 
+8.6.2022, 2:20:45 - ERROR - Failed to Login Invalid username or password 
+8.6.2022, 2:21:14 - DEBUG - auth.service - login with username: eli@gmail.com 
+8.6.2022, 2:21:14 - ERROR - Failed to Login Invalid username or password 
+8.6.2022, 2:21:32 - DEBUG - auth.service - login with username: eli@gmail.com 
+8.6.2022, 2:21:32 - ERROR - Failed to Login Invalid username or password 
+8.6.2022, 2:21:53 - DEBUG - auth.service - login with username: lolo@gmail.com 
+8.6.2022, 2:21:53 - ERROR - Failed to Login Invalid username or password 
+8.6.2022, 2:25:17 - DEBUG - auth.service - signup with username: lolo@gmail.com, fullname: lolo loli 
+8.6.2022, 2:25:18 - DEBUG - auth.route - new account created: {"username":"lolo@gmail.com","password":"$2b$10$Jg2yE/VLS691W9V0DK6LZOjqs2/gnMmT6rxC3C56zRIFS.SFNlNra","fullname":"lolo loli","imgUrl":"https://xsgames.co/randomusers/assets/avatars/male/68.jpg","isHost":false,"wishList":[],"_id":"629fde5dd47ac13d8dacbb60"} 
+8.6.2022, 2:25:18 - DEBUG - auth.service - login with username: lolo@gmail.com 
+8.6.2022, 2:25:18 - INFO - User signup: | {"_id":"629fde5dd47ac13d8dacbb60","username":"lolo@gmail.com","fullname":"lolo loli","imgUrl":"https://xsgames.co/randomusers/assets/avatars/male/68.jpg","isHost":false,"wishList":[]} 
+8.6.2022, 2:25:18 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:25:19 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:29:11 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 2:29:11 - INFO - New connected socket [id: 7_17OXmIgkbIrKunAAAN] 
+8.6.2022, 2:29:12 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:29:12 - INFO - Setting socket.userId = 629fde5dd47ac13d8dacbb60 for socket [id: 7_17OXmIgkbIrKunAAAN] 
+8.6.2022, 2:29:12 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:33:51 - DEBUG - auth.service - login with username: lolo@gmail.com 
+8.6.2022, 2:33:51 - INFO - User login:  | {"_id":"629fde5dd47ac13d8dacbb60","username":"lolo@gmail.com","fullname":"lolo loli","imgUrl":"https://xsgames.co/randomusers/assets/avatars/male/68.jpg","isHost":false,"wishList":["629e55f13c45769c8043b990"]} 
+8.6.2022, 2:33:51 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:33:52 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:34:19 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 2:34:19 - INFO - New connected socket [id: DNRUzVv1sOGYXCEfAAAP] 
+8.6.2022, 2:34:20 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:34:20 - INFO - Setting socket.userId = 629fde5dd47ac13d8dacbb60 for socket [id: DNRUzVv1sOGYXCEfAAAP] 
+8.6.2022, 2:34:20 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:43:57 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 2:43:58 - INFO - New connected socket [id: 7MrzeRYnsBgg5L0rAAAR] 
+8.6.2022, 2:43:59 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:43:59 - INFO - Setting socket.userId = 629fde5dd47ac13d8dacbb60 for socket [id: 7MrzeRYnsBgg5L0rAAAR] 
+8.6.2022, 2:44:00 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:44:06 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 2:44:07 - INFO - New connected socket [id: XQ332dEi9eEJHAsHAAAT] 
+8.6.2022, 2:44:07 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:44:07 - INFO - Setting socket.userId = 629fde5dd47ac13d8dacbb60 for socket [id: XQ332dEi9eEJHAsHAAAT] 
+8.6.2022, 2:44:08 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:44:20 - DEBUG - auth.service - login with username: adi@gmail.com 
+8.6.2022, 2:44:20 - INFO - User login:  | {"_id":"629e773fa302320ea1493abd","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"isHost":false,"wishList":["629e55f13c45769c8043b990","629e55f13c45769c8043b9be"]} 
+8.6.2022, 2:44:20 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 2:44:21 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+8.6.2022, 2:44:31 - DEBUG - auth.service - login with username: lolo@gmail.com 
+8.6.2022, 2:44:31 - INFO - User login:  | {"_id":"629fde5dd47ac13d8dacbb60","username":"lolo@gmail.com","fullname":"lolo loli","imgUrl":"https://xsgames.co/randomusers/assets/avatars/male/68.jpg","isHost":false,"wishList":["629e55f13c45769c8043b98f"]} 
+8.6.2022, 2:44:32 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:44:32 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:47:01 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 2:47:02 - INFO - New connected socket [id: MA-_ZwRWV1ydvzJOAAAV] 
+8.6.2022, 2:47:02 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:47:02 - INFO - Setting socket.userId = 629fde5dd47ac13d8dacbb60 for socket [id: MA-_ZwRWV1ydvzJOAAAV] 
+8.6.2022, 2:47:03 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:47:12 - DEBUG - auth.service - login with username: lolo@gmail.com 
+8.6.2022, 2:47:13 - INFO - User login:  | {"_id":"629fde5dd47ac13d8dacbb60","username":"lolo@gmail.com","fullname":"lolo loli","imgUrl":"https://xsgames.co/randomusers/assets/avatars/male/68.jpg","isHost":false,"wishList":["629e55f13c45769c8043b98f","629e55f13c45769c8043b990"]} 
+8.6.2022, 2:47:13 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:47:14 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:48:03 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 2:48:03 - INFO - New connected socket [id: aCHP-_K8JHmngUgxAAAX] 
+8.6.2022, 2:48:04 - DEBUG - Getting Stays 
+8.6.2022, 2:48:04 - DEBUG - Getting Stays 
+8.6.2022, 2:49:09 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 2:49:10 - INFO - New connected socket [id: ro2xHU6T9LF9W2ikAAAZ] 
+8.6.2022, 2:49:10 - DEBUG - Getting Stays 
+8.6.2022, 2:49:11 - DEBUG - Getting Stays 
+8.6.2022, 2:49:16 - DEBUG - auth.service - login with username: lolo@gmail.com 
+8.6.2022, 2:49:17 - INFO - User login:  | {"_id":"629fde5dd47ac13d8dacbb60","username":"lolo@gmail.com","fullname":"lolo loli","imgUrl":"https://xsgames.co/randomusers/assets/avatars/male/68.jpg","isHost":false,"wishList":["629e55f13c45769c8043b98f","629e55f13c45769c8043b990","629e55f13c45769c8043b991"]} 
+8.6.2022, 2:49:17 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:49:18 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:50:28 - INFO - Server is running on port: 3030 
+8.6.2022, 2:50:29 - INFO - New connected socket [id: zd1gVLWELziOsme2AAAB] 
+8.6.2022, 2:51:54 - INFO - Server is running on port: 3030 
+8.6.2022, 2:51:55 - INFO - New connected socket [id: c1hBwOQTrek5njDhAAAB] 
+8.6.2022, 2:51:58 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 2:51:59 - INFO - New connected socket [id: I-Z3WE72Icwp52yaAAAD] 
+8.6.2022, 2:51:59 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:51:59 - INFO - Setting socket.userId = 629fde5dd47ac13d8dacbb60 for socket [id: I-Z3WE72Icwp52yaAAAD] 
+8.6.2022, 2:52:01 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:52:10 - DEBUG - auth.service - login with username: lolo@gmail.com 
+8.6.2022, 2:52:11 - INFO - User login:  | {"_id":"629fde5dd47ac13d8dacbb60","username":"lolo@gmail.com","fullname":"lolo loli","imgUrl":"https://xsgames.co/randomusers/assets/avatars/male/68.jpg","isHost":false,"wishList":["629e55f13c45769c8043b98f","629e55f13c45769c8043b990","629e55f13c45769c8043b991","629e55f13c45769c8043b992"]} 
+8.6.2022, 2:52:11 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:52:11 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:52:36 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:52:37 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:52:51 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 2:52:52 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 3:01:45 - INFO - Server is running on port: 3030 
+8.6.2022, 3:01:46 - INFO - New connected socket [id: u_k_OIattllicoaIAAAB] 
