@@ -9836,7 +9836,79 @@
 8.6.2022, 9:40:26 - DEBUG - Getting Stays 
 8.6.2022, 9:58:26 - DEBUG - Getting Stays 
 8.6.2022, 9:58:26 - DEBUG - Getting Stays 
+<<<<<<< HEAD
+8.6.2022, 10:00:28 - INFO - Server is running on port: 3030 
+8.6.2022, 10:00:31 - INFO - New connected socket [id: Uc-b360LWOOCIgqdAAAB] 
+8.6.2022, 10:00:41 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 10:00:51 - INFO - New connected socket [id: 8T6u42cYTI6gRtFuAAAD] 
+8.6.2022, 10:00:51 - DEBUG - Getting Stays 
+8.6.2022, 10:00:53 - DEBUG - Getting Stays 
+8.6.2022, 10:03:02 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 10:03:04 - INFO - New connected socket [id: osVIFeWBQBm3lUJRAAAF] 
+8.6.2022, 10:33:54 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 10:33:55 - INFO - New connected socket [id: bM7109K5xbuzni-eAAAH] 
+8.6.2022, 10:34:39 - DEBUG - Getting Stays 
+8.6.2022, 10:34:40 - DEBUG - Getting Stays 
+8.6.2022, 10:34:41 - DEBUG - Getting Stays 
+8.6.2022, 10:34:53 - DEBUG - Getting Stays 
+8.6.2022, 10:35:18 - DEBUG - Getting Stays 
+8.6.2022, 10:35:18 - DEBUG - Getting Stays 
+8.6.2022, 10:37:18 - DEBUG - Getting Stays 
+8.6.2022, 10:37:18 - DEBUG - Getting Stays 
+8.6.2022, 10:37:18 - DEBUG - Getting Stays 
+8.6.2022, 10:37:20 - DEBUG - Getting Stays 
+8.6.2022, 10:37:20 - DEBUG - Getting Stays 
+8.6.2022, 10:37:20 - DEBUG - Getting Stays 
+8.6.2022, 10:37:21 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 10:37:22 - INFO - New connected socket [id: 9i_Tryhq0EPJMpijAAAJ] 
+8.6.2022, 10:37:22 - DEBUG - Getting Stays 
+8.6.2022, 10:37:23 - DEBUG - Getting Stays 
+8.6.2022, 10:37:23 - DEBUG - Getting Stays 
+8.6.2022, 10:38:59 - DEBUG - Getting Stays 
+8.6.2022, 10:39:00 - DEBUG - Getting Stays 
+8.6.2022, 10:39:00 - DEBUG - Getting Stays 
+8.6.2022, 10:39:19 - DEBUG - Getting Stays 
+8.6.2022, 10:39:39 - DEBUG - Getting Stays 
+8.6.2022, 10:39:39 - DEBUG - Getting Stays 
+8.6.2022, 10:42:32 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 10:42:33 - INFO - New connected socket [id: 2HZcSkimJA-7OsBJAAAL] 
+8.6.2022, 10:42:40 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 10:42:40 - INFO - New connected socket [id: KwODTavfbVNa-_2GAAAN] 
+8.6.2022, 10:55:30 - DEBUG - Getting Stays 
+8.6.2022, 10:55:31 - DEBUG - Getting Stays 
+8.6.2022, 10:58:54 - DEBUG - Getting Stays 
+8.6.2022, 10:58:55 - DEBUG - Getting Stays 
+8.6.2022, 11:01:42 - DEBUG - Getting Stays 
+8.6.2022, 11:01:42 - DEBUG - Getting Stays 
+8.6.2022, 11:02:34 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 11:02:38 - INFO - New connected socket [id: arMeoUwq9iLLKBTHAAAP] 
+8.6.2022, 11:04:34 - DEBUG - Getting Stays 
+8.6.2022, 11:04:34 - DEBUG - Getting Stays 
+8.6.2022, 11:04:35 - DEBUG - Getting Stays 
+8.6.2022, 11:04:53 - DEBUG - Getting Stays 
+8.6.2022, 11:05:09 - DEBUG - Getting Stays 
+8.6.2022, 11:05:09 - DEBUG - Getting Stays 
+8.6.2022, 11:07:00 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 11:07:01 - INFO - New connected socket [id: PmYZqhTXEPYWTBEmAAAR] 
+8.6.2022, 11:26:43 - DEBUG - Getting Stays 
+8.6.2022, 11:26:45 - DEBUG - Getting Stays 
+8.6.2022, 11:34:33 - DEBUG - Getting Stays 
+8.6.2022, 11:34:34 - DEBUG - Getting Stays 
+8.6.2022, 11:34:37 - DEBUG - Getting Stays 
+8.6.2022, 11:34:38 - DEBUG - Getting Stays 
+8.6.2022, 11:34:40 - DEBUG - Getting Stays 
+8.6.2022, 11:34:40 - DEBUG - Getting Stays 
+8.6.2022, 13:16:13 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 13:16:16 - INFO - New connected socket [id: QufxJTGiXRUFl582AAAT] 
+8.6.2022, 13:18:02 - DEBUG - Getting Stays 
+8.6.2022, 13:18:03 - DEBUG - Getting Stays 
+8.6.2022, 13:21:03 - DEBUG - Getting Stays 
+8.6.2022, 13:21:04 - DEBUG - Getting Stays 
+8.6.2022, 13:41:11 - INFO - Socket disconnected [id: undefined] 
+28.6.2022, 14:42:42 - INFO - Server is running on port: 3030 
+=======
 >>>>>>> 8482c6cf538652d0de14ad0fdb12fd632a3e7ac7
+<<<<<<< HEAD
 8.6.2022, 13:54:28 - INFO - Server is running on port: 3030 
 8.6.2022, 13:54:30 - INFO - New connected socket [id: MAF6baRMpH1WlihtAAAB] 
 8.6.2022, 13:57:43 - INFO - Server is running on port: 3030 
@@ -9851,3 +9923,6 @@
 28.6.2022, 14:45:56 - INFO - New connected socket [id: Te3YcwfSmsm6xeVTAAAB] 
 28.6.2022, 14:46:25 - DEBUG - Getting Stays 
 28.6.2022, 14:46:31 - DEBUG - Getting Stays 
+=======
+>>>>>>> origin/main
+>>>>>>> 5715025fdae6cb56e9fdd77306d244d38879748e
