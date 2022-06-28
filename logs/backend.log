@@ -9837,3 +9837,17 @@
 8.6.2022, 9:58:26 - DEBUG - Getting Stays 
 8.6.2022, 9:58:26 - DEBUG - Getting Stays 
 >>>>>>> 8482c6cf538652d0de14ad0fdb12fd632a3e7ac7
+8.6.2022, 13:54:28 - INFO - Server is running on port: 3030 
+8.6.2022, 13:54:30 - INFO - New connected socket [id: MAF6baRMpH1WlihtAAAB] 
+8.6.2022, 13:57:43 - INFO - Server is running on port: 3030 
+8.6.2022, 13:57:43 - INFO - New connected socket [id: B905Y559zJ1rNujKAAAB] 
+8.6.2022, 15:02:24 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 15:02:26 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 15:02:35 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 15:02:39 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 15:03:02 - INFO - No active socket for user: 622f3403e36c58x6064aaf91 
+8.6.2022, 15:44:27 - INFO - Socket disconnected [id: undefined] 
+28.6.2022, 14:45:55 - INFO - Server is running on port: 3030 
+28.6.2022, 14:45:56 - INFO - New connected socket [id: Te3YcwfSmsm6xeVTAAAB] 
+28.6.2022, 14:46:25 - DEBUG - Getting Stays 
+28.6.2022, 14:46:31 - DEBUG - Getting Stays 
