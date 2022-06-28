@@ -9502,6 +9502,54 @@
 8.6.2022, 2:52:52 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
 8.6.2022, 3:01:45 - INFO - Server is running on port: 3030 
 8.6.2022, 3:01:46 - INFO - New connected socket [id: u_k_OIattllicoaIAAAB] 
+<<<<<<< HEAD
+8.6.2022, 3:02:25 - INFO - Server is running on port: 3030 
+8.6.2022, 3:02:26 - INFO - New connected socket [id: _F7_MlNGDQYaLoiAAAAB] 
+8.6.2022, 3:02:39 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 3:02:40 - INFO - New connected socket [id: OAXFTPWdTPGBDxW0AAAD] 
+8.6.2022, 3:02:40 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 3:02:41 - INFO - Setting socket.userId = 629fde5dd47ac13d8dacbb60 for socket [id: OAXFTPWdTPGBDxW0AAAD] 
+8.6.2022, 3:02:42 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 3:02:52 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 3:02:53 - INFO - New connected socket [id: EO2NyhLb-wpPYfNwAAAF] 
+8.6.2022, 3:02:53 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 3:02:54 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 3:02:54 - INFO - Setting socket.userId = 629fde5dd47ac13d8dacbb60 for socket [id: EO2NyhLb-wpPYfNwAAAF] 
+8.6.2022, 5:04:28 - INFO - New connected socket [id: Fk8R00yxK8IYeUDIAAAH] 
+8.6.2022, 5:05:27 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 9:36:18 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 9:36:50 - INFO - New connected socket [id: 5wEYiYh4FNMRFxAeAAAJ] 
+8.6.2022, 9:37:51 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 9:38:17 - INFO - New connected socket [id: eHFsYiwKwbOH7hcEAAAL] 
+8.6.2022, 9:42:23 - INFO - New connected socket [id: bM-3oQtjHUK3MpKxAAAN] 
+8.6.2022, 10:00:26 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 10:30:51 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 10:30:53 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 10:30:53 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 10:31:08 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 10:31:21 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 10:31:49 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 10:31:49 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 10:32:01 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 10:32:01 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 10:32:15 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 10:32:15 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 10:32:47 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 10:32:48 - INFO - New connected socket [id: RnWfY4TGnWXy4lL-AAAP] 
+8.6.2022, 10:32:48 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 10:32:49 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 10:32:59 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 10:33:00 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 10:33:04 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 10:55:44 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 10:55:45 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 10:55:47 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 10:55:48 - INFO - New connected socket [id: 2wyk1hA70w1wPRjyAAAR] 
+8.6.2022, 10:55:48 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 10:55:49 - DEBUG - Getting Stays (userId: 629fde5dd47ac13d8dacbb60)
+8.6.2022, 13:38:02 - INFO - Socket disconnected [id: undefined] 
+8.6.2022, 13:38:08 - INFO - New connected socket [id: km_L-kFUXC_xv0ufAAAT] 
+=======
 >>>>>>> origin/main
 7.6.2022, 13:57:53 - INFO - Server is running on port: 3030 
 7.6.2022, 13:57:56 - INFO - New connected socket [id: DKCEwu-w6FqXY9Y2AAAB] 
@@ -9788,6 +9836,7 @@
 8.6.2022, 9:40:26 - DEBUG - Getting Stays 
 8.6.2022, 9:58:26 - DEBUG - Getting Stays 
 8.6.2022, 9:58:26 - DEBUG - Getting Stays 
+<<<<<<< HEAD
 8.6.2022, 10:00:28 - INFO - Server is running on port: 3030 
 8.6.2022, 10:00:31 - INFO - New connected socket [id: Uc-b360LWOOCIgqdAAAB] 
 8.6.2022, 10:00:41 - INFO - Socket disconnected [id: undefined] 
@@ -9857,3 +9906,6 @@
 8.6.2022, 13:21:04 - DEBUG - Getting Stays 
 8.6.2022, 13:41:11 - INFO - Socket disconnected [id: undefined] 
 28.6.2022, 14:42:42 - INFO - Server is running on port: 3030 
+=======
+>>>>>>> 8482c6cf538652d0de14ad0fdb12fd632a3e7ac7
+>>>>>>> origin/main
