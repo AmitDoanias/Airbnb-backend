@@ -9926,3 +9926,23 @@
 =======
 >>>>>>> origin/main
 >>>>>>> 5715025fdae6cb56e9fdd77306d244d38879748e
+28.6.2022, 15:40:42 - INFO - Socket disconnected [id: undefined] 
+28.6.2022, 15:40:43 - INFO - New connected socket [id: Y2iVnxzLzWP3ow6uAAAD] 
+28.6.2022, 15:40:45 - INFO - Socket disconnected [id: undefined] 
+28.6.2022, 15:40:45 - INFO - New connected socket [id: zWO04535FS6SqcQJAAAF] 
+28.6.2022, 15:40:54 - DEBUG - Getting Stays 
+28.6.2022, 15:40:56 - DEBUG - Getting Stays 
+28.6.2022, 15:41:35 - DEBUG - auth.service - login with username: adi@gmail.com 
+28.6.2022, 15:41:35 - INFO - User login:  | {"_id":"629e773fa302320ea1493abd","username":"adi@gmail.com","fullname":"adi zur","imgUrl":null,"isHost":false,"wishList":["629e55f13c45769c8043b990","629e55f13c45769c8043b9be"]} 
+28.6.2022, 15:41:35 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+28.6.2022, 15:41:36 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+28.6.2022, 15:41:48 - INFO - No active socket for user: 622f3403e116c58x6064faf99 
+28.6.2022, 15:42:01 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+28.6.2022, 15:42:02 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+28.6.2022, 15:42:06 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+28.6.2022, 15:42:43 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+28.6.2022, 15:42:43 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+28.6.2022, 15:42:50 - INFO - No active socket for user: 629dbc94388d60172ca60aeb 
+28.6.2022, 18:14:44 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+28.6.2022, 18:14:45 - DEBUG - Getting Stays (userId: 629e773fa302320ea1493abd)
+29.6.2022, 10:16:51 - INFO - Socket disconnected [id: undefined] 
